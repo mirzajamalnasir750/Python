@@ -1,0 +1,539 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Mirza Muhammad Jamal Nasir — ML Engineer & Educator</title>
+  <meta name="description" content="Mirza Muhammad Jamal Nasir — AI & Machine Learning Engineer, Computer Science educator. MSc Data Science (Advanced Research). Projects: NLP, CV, time series, LLM fine-tuning research (QLoRA vs IA³).">
+  <style>
+    /* ---- Basic reset & typography ---- */
+    :root{
+      --bg: #fbfcfd;
+      --card: #ffffff;
+      --muted: #6b7280;
+      --accent: #6b9df6;
+      --accent-2: #7dd3c6;
+      --text: #0f172a;
+      --glass: rgba(255,255,255,0.6);
+      --max-width: 1100px;
+      --radius: 12px;
+      --shadow: 0 6px 20px rgba(15,23,42,0.06);
+      --glass-border: rgba(99,102,241,0.06);
+      --focus: 3px solid rgba(107,157,246,0.18);
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;
+      color:var(--text);
+      background: linear-gradient(180deg,var(--bg),#f6f9ff);
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+      line-height:1.5;
+      padding:24px 16px;
+      display:flex;
+      justify-content:center;
+    }
+    .wrap{width:100%;max-width:var(--max-width);}
+
+    /* ---- Header ---- */
+    header{
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:16px;
+      margin-bottom:28px;
+    }
+    .brand{
+      display:flex;
+      gap:12px;
+      align-items:center;
+      text-decoration:none;
+      color:var(--text);
+    }
+    .avatar{
+      width:56px;height:56px;border-radius:12px;background:linear-gradient(135deg,var(--accent),var(--accent-2));display:flex;align-items:center;justify-content:center;color:white;font-weight:700;font-size:18px;box-shadow:var(--shadow);
+    }
+    nav{display:flex;gap:14px;align-items:center}
+    nav a{color:var(--muted);text-decoration:none;font-weight:600;font-size:14px;padding:8px;border-radius:8px}
+    nav a:focus,nav a:hover{color:var(--text);outline:none;background:rgba(107,157,246,0.06)}
+    .cta{background:linear-gradient(90deg,var(--accent),#8fb9ff);color:white;padding:10px 14px;border-radius:10px;text-decoration:none;font-weight:700;box-shadow:var(--shadow)}
+    .menu-toggle{display:none;background:none;border:2px solid transparent;padding:8px;border-radius:8px}
+    .menu-toggle:focus{outline:none;box-shadow:var(--focus)}
+
+    /* ---- Hero ---- */
+    .hero{
+      display:grid;
+      grid-template-columns: 1fr 380px;
+      gap:24px;
+      align-items:center;
+      margin-bottom:32px;
+    }
+    .hero-card{
+      background:var(--card);
+      border-radius:var(--radius);
+      padding:28px;
+      box-shadow:var(--shadow);
+      border:1px solid var(--glass-border);
+    }
+    h1{font-size:28px;margin:0 0 8px}
+    h2{font-size:16px;margin:0;color:var(--muted);font-weight:600}
+    .hero-intro{margin:14px 0 18px;color:#2b3a4a}
+    .contact-line{display:flex;gap:12px;flex-wrap:wrap;font-size:14px;color:var(--muted)}
+    .pill{display:inline-flex;align-items:center;gap:8px;background:linear-gradient(90deg,#f4f8ff,#f6fff9);padding:8px 10px;border-radius:10px;border:1px solid #eef2ff;font-weight:600;color:#0f172a}
+
+    /* ---- Right column quick stats ---- */
+    .quick{
+      display:flex;flex-direction:column;gap:12px;
+    }
+    .card-mini{background:linear-gradient(180deg,#ffffff,#fbfbff);padding:16px;border-radius:12px;border:1px solid var(--glass-border);box-shadow:var(--shadow);display:flex;flex-direction:column;gap:6px}
+    .card-mini strong{font-size:14px}
+    .card-mini small{color:var(--muted);font-size:13px}
+
+    /* ---- Sections ---- */
+    section{margin-bottom:28px}
+    .section-head{display:flex;align-items:end;justify-content:space-between;gap:12px;margin-bottom:14px}
+    .section-head h3{margin:0;font-size:18px}
+    .grid{display:grid;gap:16px}
+    .skills-grid{grid-template-columns:repeat(auto-fit,minmax(140px,1fr))}
+    .skill{background:var(--card);padding:12px;border-radius:10px;border:1px solid var(--glass-border);display:flex;align-items:center;gap:10px}
+    .skill .dot{width:12px;height:12px;border-radius:50%;background:var(--accent)}
+
+    /* ---- Projects ---- */
+    .projects-grid{grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+    .project{background:var(--card);padding:16px;border-radius:12px;border:1px solid var(--glass-border);box-shadow:var(--shadow);display:flex;flex-direction:column;gap:8px}
+    .project h4{margin:0}
+    .project p{margin:0;color:var(--muted);font-size:14px}
+    .project .meta{display:flex;gap:8px;flex-wrap:wrap;font-size:13px;color:var(--muted)}
+    .btn-small{display:inline-block;padding:8px 10px;border-radius:10px;text-decoration:none;background:rgba(107,157,246,0.08);color:var(--accent);font-weight:700}
+
+    /* ---- Experience / Teaching ---- */
+    .timeline{display:flex;flex-direction:column;gap:12px}
+    .item{background:var(--card);padding:14px;border-radius:10px;border:1px solid var(--glass-border);box-shadow:var(--shadow)}
+    .meta-line{display:flex;gap:12px;align-items:center;color:var(--muted);font-size:14px}
+
+    /* ---- Education ---- */
+    .edu{display:flex;flex-direction:column;gap:8px}
+    .highlight{background:linear-gradient(90deg,rgba(107,157,246,0.08),rgba(125,211,198,0.05));padding:12px;border-radius:10px;border:1px solid var(--glass-border)}
+
+    /* ---- Contact ---- */
+    .contact-grid{grid-template-columns:1fr 360px}
+    form{display:flex;flex-direction:column;gap:10px}
+    input,textarea,button,select{
+      font:inherit;padding:10px;border-radius:8px;border:1px solid #e6eefc;background:white;
+    }
+    input:focus,textarea:focus{outline:none;box-shadow:var(--focus)}
+    button{background:linear-gradient(90deg,var(--accent),#8fb9ff);color:white;border:none;cursor:pointer;padding:12px;border-radius:10px;font-weight:700}
+    button[disabled]{opacity:0.6;cursor:default}
+
+    footer{margin-top:20px;padding:20px 0;text-align:center;color:var(--muted);font-size:14px}
+
+    /* ---- Responsive ---- */
+    @media (max-width:980px){
+      .hero{grid-template-columns:1fr; }
+      .contact-grid{grid-template-columns:1fr}
+    }
+    @media (max-width:720px){
+      nav{display:none}
+      .menu-toggle{display:inline-flex}
+      header{align-items:center}
+    }
+    /* small accessible focus visibility */
+    a:focus-visible,button:focus-visible{outline:none;box-shadow:var(--focus)}
+  </style>
+</head>
+<body>
+  <div class="wrap" id="top">
+    <header>
+      <a class="brand" href="#top">
+        <div class="avatar" aria-hidden="true">MJ</div>
+        <div>
+          <div style="font-weight:800">Mirza Muhammad Jamal Nasir</div>
+          <div style="font-size:13px;color:var(--muted);margin-top:3px">AI & Machine Learning Engineer • Educator</div>
+        </div>
+      </a>
+
+      <nav aria-label="Primary navigation">
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#experience">Experience</a>
+        <a href="#teaching">Teaching</a>
+        <a href="#education">Education</a>
+        <a href="#contact" class="cta">Contact</a>
+      </nav>
+
+      <button class="menu-toggle" aria-expanded="false" aria-controls="mobile-menu" id="menuToggle">Menu</button>
+    </header>
+
+    <!-- HERO -->
+    <main>
+      <section class="hero">
+        <div class="hero-card" aria-labelledby="hero-heading">
+          <h1 id="hero-heading">Mirza Muhammad Jamal Nasir</h1>
+          <h2>MACHINE LEARNING ENGINEER · COMPUTER SCIENCE EDUCATOR</h2>
+          <p class="hero-intro">
+            Dynamic academic and industry professional with extensive experience teaching and delivering AI,
+            Machine Learning and Data Science solutions. I design curriculum, mentor students and lead ML projects
+            spanning NLP, Computer Vision, time-series and LLM adaptation. Open to teaching & research collaborations.
+          </p>
+
+          <div class="contact-line" aria-hidden="false">
+            <span class="pill">📍 Tooting, Hailsham road, London (SW17 9EN)</span>
+            <span class="pill">📞 <a href="tel:+447946759658" style="text-decoration:none;color:inherit">+44 7946 759658</a></span>
+            <span class="pill">✉️ <a href="mailto:mirzajamal750@gmail.com" style="text-decoration:none;color:inherit">mirzajamal750@gmail.com</a></span>
+          </div>
+
+          <div style="margin-top:16px;display:flex;gap:10px;flex-wrap:wrap">
+     <a class="btn primary"
+   href="./Mirza-Muhammad-Jamal-Nasir-CV.pdf"
+   download>
+   Download CV ↓
+</a>
+
+            <a class="btn-small"href="https://www.linkedin.com/in/mirza-jamal-mlengg"target="_blank"rel="noopener noreferrer">Message me on LinkedIn</a>
+            <a class="btn-small"href="https://github.com/mirzajamalnasir750"target="_blank"rel="noopener noreferrer">GitHub</a>
+
+          </div>
+        </div>
+
+        <aside class="quick" aria-label="Quick profile">
+          <div class="card-mini" aria-hidden="false">
+            <strong>MSc Data Science (Advanced Research)</strong>
+            <small>University of Hertfordshire — Distinction (highlighted per request)</small>
+            <div style="font-size:13px;color:var(--muted);margin-top:8px">
+              Final submission: LLM fine-tuning, PEFT and a research comparison of IA³ and QLoRA for efficient LLM adaptation.
+            </div>
+          </div>
+
+          <div class="card-mini">
+            <strong>Current role</strong>
+            <small>Machine Learning Team Lead Engineer — Kyaas Solutions (06/2023 — present)</small>
+          </div>
+
+          <div class="card-mini">
+            <strong>Teaching & Research</strong>
+            <small>Lecturer roles at multiple colleges; researcher at The Punjab University (AI / Data Science labs)</small>
+          </div>
+        </aside>
+      </section>
+
+      <!-- ABOUT -->
+      <section id="about" aria-labelledby="about-h">
+        <div class="section-head">
+          <h3 id="about-h">About</h3>
+        </div>
+        <div class="hero-card">
+          <p>
+            I completed a Bachelor in Computer Software Engineering (Foundation University Islamabad, 2019) and
+            later progressed into industry and research roles across Machine Learning, Deep Learning, Computer Vision,
+            NLP, and time series analysis. I have ~4 years of field experience in hands-on ML engineering roles,
+            and since 2023 I have been working in senior roles that combine technical leadership and architecture design.
+          </p>
+
+          <p style="margin-top:8px">
+            I build production-oriented ML pipelines (MLOps), design training curricula for students and colleagues,
+            and work with clients on end-to-end AI systems. This site summarizes my skills, projects and teaching experience.
+          </p>
+        </div>
+      </section>
+
+      <!-- SKILLS -->
+      <section id="skills" aria-labelledby="skills-h">
+        <div class="section-head">
+          <h3 id="skills-h">Skills & Tools</h3>
+          <div style="color:var(--muted);font-size:13px">Core focus: ML Engineering, NLP, Computer Vision, LLM adaptation</div>
+        </div>
+
+        <div class="grid skills-grid">
+          <div class="skill"><div class="dot" aria-hidden="true"></div><div><strong>Python</strong><div style="font-size:12px;color:var(--muted)">Data engineering & research</div></div></div>
+          <div class="skill"><div class="dot" style="background:#f97316"></div><div><strong>Scikit-learn</strong><div style="font-size:12px;color:var(--muted)">Classical ML</div></div></div>
+          <div class="skill"><div class="dot" style="background:#ff7ab6"></div><div><strong>TensorFlow & Keras</strong><div style="font-size:12px;color:var(--muted)">Deep Learning models</div></div></div>
+          <div class="skill"><div class="dot" style="background:#7dd3c6"></div><div><strong>MLflow</strong><div style="font-size:12px;color:var(--muted)">Experiment tracking & MLOps</div></div></div>
+          <div class="skill"><div class="dot" style="background:#8b5cf6"></div><div><strong>NLP</strong><div style="font-size:12px;color:var(--muted)">Chatbots, text pipelines, tokenization</div></div></div>
+          <div class="skill"><div class="dot" style="background:#06b6d4"></div><div><strong>Computer Vision</strong><div style="font-size:12px;color:var(--muted)">Segmentation, classification, YOLO/Mask R-CNN</div></div></div>
+          <div class="skill"><div class="dot" style="background:#f59e0b"></div><div><strong>Time Series</strong><div style="font-size:12px;color:var(--muted)">ARIMA, LSTM, Prophet</div></div></div>
+          <div class="skill"><div class="dot" style="background:#34d399"></div><div><strong>Web / Full Stack</strong><div style="font-size:12px;color:var(--muted)">MERN, Django for ML endpoints</div></div></div>
+        </div>
+      </section>
+
+      <!-- PROJECTS -->
+      <section id="projects" aria-labelledby="projects-h">
+        <div class="section-head">
+          <h3 id="projects-h">Selected Projects</h3>
+          <div style="color:var(--muted);font-size:13px">Brief descriptions — links are placeholders</div>
+        </div>
+
+        <div class="grid projects-grid">
+          <article class="project" aria-labelledby="p1">
+            <h4 id="p1">Hall Recommendation System</h4>
+            <p>A hybrid recommender combining collaborative and content-based filters to suggest event halls based on budget and trends.</p>
+            <div class="meta">
+              <span>Tech: Python, Scikit-learn</span>
+              <a class="btn-small" href="#" aria-label="Project link placeholder">Details</a>
+            </div>
+          </article>
+
+          <article class="project" aria-labelledby="p2">
+            <h4 id="p2">Jazz Package Info Chat-bot</h4>
+            <p>NLP-based chatbot using NLTK and pattern matching to provide package info and customer responses.</p>
+            <div class="meta">
+              <span>Tech: Python, NLTK</span>
+              <a class="btn-small" href="#" aria-label="Project link placeholder">Demo (placeholder)</a>
+            </div>
+          </article>
+
+          <article class="project" aria-labelledby="p3">
+            <h4 id="p3">Saudi Real Estate Predictions</h4>
+            <p>Research project using LSTM, ARIMA, SARIMA, Prophet and NeuralProphet for multi-step forecasting. Published companion work by colleagues — link placeholder.</p>
+            <div class="meta">
+              <span>Tech: Time Series, LSTM, Prophet</span>
+              <a class="btn-small" href="#" aria-label="Project link placeholder">Paper / Repo (placeholder)</a>
+            </div>
+          </article>
+
+          <article class="project" aria-labelledby="p4">
+            <h4 id="p4">Cotton Leaf Disease Classification</h4>
+            <p>Image classification pipeline converting plant images to feature arrays for disease detection and government-use reporting.</p>
+            <div class="meta">
+              <span>Tech: Computer Vision, CNN</span>
+              <a class="btn-small" href="#" aria-label="Project link placeholder">Repo (placeholder)</a>
+            </div>
+          </article>
+
+          <article class="project" aria-labelledby="p5">
+            <h4 id="p5">Neural cell detection (Mask R-CNN)</h4>
+            <p>Medical-image segmentation to detect infected neurons, implemented with Mask R-CNN (research prototype).</p>
+            <div class="meta">
+              <span>Tech: Mask R-CNN, PyTorch/TF</span>
+              <a class="btn-small" href="#" aria-label="Project link placeholder">Details</a>
+            </div>
+          </article>
+
+          <article class="project" aria-labelledby="p6">
+            <h4 id="p6">LLM adaptation research: QLoRA vs IA³</h4>
+            <p>Final MSc research work (LLM fine-tuning & PEFT). A comparative study of IA³ and QLoRA methods for efficient low-resource LLM adaptation. (Results and manuscript: placeholders)</p>
+            <div class="meta">
+              <span>Tech: LLM, PEFT, QLoRA, IA³</span>
+              <a class="btn-small" href="#" aria-label="Research link placeholder">Research summary (placeholder)</a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <!-- EXPERIENCE -->
+      <section id="experience" aria-labelledby="exp-h">
+        <div class="section-head">
+          <h3 id="exp-h">Professional Experience</h3>
+          <div style="color:var(--muted);font-size:13px">Selected roles (most recent first)</div>
+        </div>
+
+        <div class="timeline">
+          <div class="item">
+            <div class="meta-line"><strong>Machine Learning Team Lead Engineer</strong><span> — Kyaas Solutions</span><span style="margin-left:auto;color:var(--muted)">06/2023 — Present</span></div>
+            <p style="margin-top:8px;color:var(--muted)">Team lead responsibilities: client interaction, design ML architecture, supervise ML & development teams.</p>
+          </div>
+
+          <div class="item">
+            <div class="meta-line"><strong>Senior Machine Learning Engineer</strong><span> — Sigma Square</span><span style="margin-left:auto;color:var(--muted)">02/2023 — 05/2023</span></div>
+            <p style="margin-top:8px;color:var(--muted)">Maintained MLOps architecture, mentored juniors, worked with MLflow, AWS and data pipelines.</p>
+          </div>
+
+          <div class="item">
+            <div class="meta-line"><strong>Machine Learning Engineer</strong><span> — University of South Asia (Center of Innovation & Entrepreneurship)</span><span style="margin-left:auto;color:var(--muted)">03/2022 — 01/2023</span></div>
+            <p style="margin-top:8px;color:var(--muted)">Built health-care classification models, from data gathering with clinician input to deployment prototypes.</p>
+          </div>
+
+          <div class="item">
+            <div class="meta-line"><strong>Machine Learning Engineer</strong><span> — Zmedia Technology</span><span style="margin-left:auto;color:var(--muted)">07/2018 — 02/2022</span></div>
+            <p style="margin-top:8px;color:var(--muted)">Worked across multiple international projects, designing ML pipelines and production workflows.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- TEACHING -->
+      <section id="teaching" aria-labelledby="teach-h">
+        <div class="section-head">
+          <h3 id="teach-h">Teaching & Instruction</h3>
+        </div>
+
+        <div class="timeline">
+          <div class="item">
+            <div class="meta-line"><strong>Lecturer — Super Wings Group of Colleges</strong><span style="margin-left:auto;color:var(--muted)">2019 — 2020</span></div>
+            <p style="margin-top:8px;color:var(--muted)">Taught programming fundamentals, C language, Databases, Operating Systems and IT practicals for grade 10 to M.Com levels. Promoted to senior lecturer following strong performance.</p>
+          </div>
+
+          <div class="item">
+            <div class="meta-line"><strong>Lecturer — Punjab Group of Colleges</strong><span style="margin-left:auto;color:var(--muted)">2020 — 2022</span></div>
+            <p style="margin-top:8px;color:var(--muted)">Delivered courses in C, Databases, Operating Systems and practical IT labs. Achieved highly positive student outcomes.</p>
+          </div>
+
+          <div class="item">
+            <div class="meta-line"><strong>Researcher & Lab Instructor — The Punjab University Lahore</strong><span style="margin-left:auto;color:var(--muted)">2022 — 2023</span></div>
+            <p style="margin-top:8px;color:var(--muted)">Instructor for NAVTTC youth skills program: Python, ML, Deep Learning, Computer Vision, NLP, Time Series and Azure labs.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- EDUCATION -->
+      <section id="education" aria-labelledby="edu-h">
+        <div class="section-head">
+          <h3 id="edu-h">Education</h3>
+        </div>
+
+        <div class="edu">
+          <div class="highlight" role="note" aria-label="MSc highlight">
+            <strong>MSc Data Science and Advanced Research (University of Hertfordshire)</strong>
+            <div style="font-size:13px;color:var(--muted);margin-top:6px">
+              Course period: 2023 — ongoing. Final submission: LLM fine-tuning, PEFT and a comparative study of IA³ and QLoRA for efficient LLM adaptation.
+              <div style="font-size:13px;color:var(--muted);margin-top:6px"><em>Distinction</em> highlighted as requested (use placeholder if you want to show official transcript link).</div>
+            </div>
+          </div>
+
+          <div class="item" style="margin-top:8px">
+            <strong>Bachelor in Computer Software Engineering</strong>
+            <div style="font-size:13px;color:var(--muted)">Foundation University Islamabad — Final year project: Event Halls Recommendation System</div>
+          </div>
+
+          <div class="item" style="margin-top:8px">
+            <strong>Additional & Professional</strong>
+            <div style="font-size:13px;color:var(--muted)">Certificates & training: Azure AI (AI-900), Huawei Big Data HCIA-AI, MERN stack bootcamp, NAVTTC AI teaching program.</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- CONTACT -->
+      <section id="contact" aria-labelledby="contact-h">
+        <div class="section-head">
+          <h3 id="contact-h">Contact</h3>
+          <div style="color:var(--muted);font-size:13px">I'm open to teaching roles, research collaborations and ML consultancy.</div>
+        </div>
+
+        <div class="grid contact-grid">
+          <div class="hero-card" aria-hidden="false">
+            <form id="contactForm" aria-label="Contact form">
+              <label for="name">Your name</label>
+              <input id="name" name="name" type="text" placeholder="Your full name" required>
+
+              <label for="email">Email</label>
+              <input id="email" name="email" type="email" placeholder="you@example.com" required>
+
+              <label for="message">Message</label>
+              <textarea id="message" name="message" rows="6" placeholder="Tell me about your project or opportunity" required></textarea>
+
+              <div style="display:flex;gap:8px;align-items:center">
+                <button type="submit">Send message</button>
+                <button type="button" id="copyEmail" aria-label="Copy email to clipboard">Copy email</button>
+              </div>
+
+              <div id="formNote" style="font-size:13px;color:var(--muted);margin-top:8px">
+                Note: This form is client-only. It will create a mailto draft in your mail client. For production, connect to a backend or form service.
+              </div>
+            </form>
+          </div>
+
+          <aside class="hero-card" aria-labelledby="contactDetails">
+            <h4 id="contactDetails">Quick contact</h4>
+            <p class="meta" style="margin-top:6px;">
+              Email: <a href="mailto:mirzajamal750@gmail.com">mirzajamal750@gmail.com</a><br>
+              Phone: <a href="tel:+447946759658">+44 7946 759658</a><br>
+              Location: Tooting, London (SW17 9EN)
+            </p>
+
+            <h5>Links</h5>
+
+<div style="display:flex; gap:16px; flex-wrap:wrap;">
+  <a href="https://www.linkedin.com/in/mirza-jamal-mlengg/"
+     target="_blank"
+     rel="noopener noreferrer">
+    LinkedIn ↗
+  </a>
+
+  <a href="https://github.com/mirzajamalnasir750"
+     target="_blank"
+     rel="noopener noreferrer">
+    GitHub ↗
+  </a>
+</div>
+          </aside>
+        </div>
+      </section>
+    </main>
+
+    <footer role="contentinfo">
+      <div style="max-width:var(--max-width);margin:0 auto;padding-top:8px">
+        <div style="margin-bottom:8px">© <strong>Mirza Muhammad Jamal Nasir</strong> — AI & Machine Learning Engineer</div>
+      </div>
+    </footer>
+  </div>
+ 
+
+  <script>
+    // Mobile menu toggle (simple accessible behavior)
+    (function(){
+      const btn = document.getElementById('menuToggle');
+      const nav = document.querySelector('nav');
+      btn.addEventListener('click', () => {
+        const expanded = btn.getAttribute('aria-expanded') === 'true';
+        btn.setAttribute('aria-expanded', String(!expanded));
+        if(nav.style.display === 'flex'){
+          nav.style.display = '';
+        } else {
+          nav.style.display = 'flex';
+          nav.style.flexDirection = 'column';
+          nav.style.position = 'absolute';
+          nav.style.right = '16px';
+          nav.style.top = '74px';
+          nav.style.background = 'var(--card)';
+          nav.style.padding = '12px';
+          nav.style.borderRadius = '12px';
+          nav.style.boxShadow = 'var(--shadow)';
+        }
+      });
+
+      // Smooth scroll for same-page navigation
+      document.querySelectorAll('a[href^="#"]').forEach(a=>{
+        a.addEventListener('click', function(e){
+          const target = document.querySelector(this.getAttribute('href'));
+          if(target){
+            e.preventDefault();
+            target.scrollIntoView({behavior:'smooth',block:'start'});
+            history.replaceState(null,null,this.getAttribute('href'));
+          }
+        });
+      });
+
+      // Contact form: open mailto draft as default behavior (no backend)
+      const form = document.getElementById('contactForm');
+      form.addEventListener('submit', (e)=>{
+        e.preventDefault();
+        const name = document.getElementById('name').value.trim();
+        const email = document.getElementById('email').value.trim();
+        const message = document.getElementById('message').value.trim();
+        const subject = encodeURIComponent('Portfolio enquiry from ' + name);
+        const body = encodeURIComponent('Name: ' + name + '\\nEmail: ' + email + '\\n\\n' + message);
+        // Fallback: open mail client draft
+        window.location.href = 'mailto:mirzajamal750@gmail.com?subject=' + subject + '&body=' + body;
+      });
+
+      // Copy email helper
+      document.getElementById('copyEmail').addEventListener('click', async ()=>{
+        try{
+          await navigator.clipboard.writeText('mirzajamal750@gmail.com');
+          alert('Email copied to clipboard: mirzajamal750@gmail.com');
+        }catch(err){
+          alert('Copy failed — please copy manually: mirzajamal750@gmail.com');
+        }
+      });
+
+      // Accessibility: ensure first focusable elements get visible focus outlines
+      window.addEventListener('keyup', (e)=>{
+        if(e.key === 'Tab'){
+          document.body.classList.add('show-focus');
+        }
+      });
+    })();``````````````````````````````````````````````````````````````````````````````````````````````````````````
+  </script>
+</body>
+</html>

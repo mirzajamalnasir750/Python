@@ -1,0 +1,1001 @@
+StudentID,FirstName,LastName,Age,Gender,City,Department,Course,StudyHoursPerWeek,AttendancePercent,AssignmentScore,ExamScore,PreviousGrade,ParentalEducation,InternetAccess,Extracurricular,PartTimeJob,Absences,Result
+1001,Amelia,Clarke,29,Male,Leeds,Cyber Security,Algorithms,5.8,77.8,85.7,70.9,56.2,Master's,Yes,No,Yes,8,Pass
+1002,Sofia,Begum,16,Prefer not to say,London,Software Engineering,Databases,3.0,82.9,95.5,100.0,36.5,PhD,Yes,Yes,No,4,Pass
+1003,Noah,Malik,21,Female,Cardiff,Cyber Security,Algorithms,20.1,74.7,99.4,80.7,80.3,Bachelor's,Yes,Yes,No,1,Pass
+1004,Isabella,Lewis,22,Female,Cardiff,Cyber Security,Statistics,26.5,90.0,78.1,59.9,68.3,Bachelor's,No,No,No,1,Pass
+1005,Isabella,Patel,27,Male,Glasgow,Artificial Intelligence,Databases,9.1,88.3,83.6,81.6,69.7,A-level,Yes,No,No,5,Pass
+1006,William,Walker,17,Male,Liverpool,Data Science,Python,4.1,70.9,72.7,100.0,48.3,PhD,Yes,Yes,No,3,Pass
+1007,Amelia,Lewis,22,Male,Bristol,Data Science,Statistics,0.0,98.4,82.9,42.3,56.6,Master's,Yes,No,No,2,Pass
+1008,Olivia,Shah,18,Female,Nottingham,Software Engineering,Web Development,10.5,85.2,79.7,55.7,65.3,PhD,Yes,Yes,Yes,2,Pass
+1009,Ava,Begum,27,Female,Glasgow,Computer Science,Algorithms,10.1,63.3,75.9,66.0,62.6,PhD,Yes,Yes,No,3,Pass
+1010,Amelia,Shah,25,Male,Manchester,Computer Science,Web Development,8.1,83.4,77.1,62.9,73.6,Diploma,No,No,No,4,Pass
+1011,Leo,Ali,23,Female,Nottingham,Artificial Intelligence,Python,13.3,87.4,81.8,64.3,80.2,GCSE,Yes,No,No,3,Pass
+1012,Emily,Hussain,21,Female,London,Software Engineering,Statistics,,95.7,70.6,47.8,100.0,PhD,Yes,Yes,No,1,Pass
+1013,Omar,Jones,18,Male,Sheffield,Cyber Security,Web Development,13.9,80.0,71.4,93.9,71.7,Diploma,No,Yes,No,4,Pass
+1014,Sara,Brown,29,Male,Liverpool,Cyber Security,Databases,10.1,93.9,100.0,45.8,87.6,PhD,Yes,No,Yes,2,Pass
+1015,Omar,Shah,25,Male,Cardiff,Cyber Security,Databases,5.4,86.2,100.0,66.6,60.4,Master's,Yes,No,Yes,2,Pass
+1016,Sofia,Clarke,20,Female,Liverpool,Computer Science,Cloud Computing,16.0,68.2,56.9,87.8,48.6,A-level,Yes,No,No,3,Pass
+1017,Layla,Wilson,22,Female,London,Data Science,Statistics,12.1,67.0,56.1,69.5,67.1,Diploma,Yes,Yes,No,1,Pass
+1018,Ahmed,Singh,26,Male,Sheffield,Computer Science,Web Development,17.3,97.5,60.6,53.4,49.6,Bachelor's,Yes,No,No,3,Pass
+1019,Usman,Khan,26,Female,Glasgow,Software Engineering,Databases,16.7,98.4,73.5,47.1,72.2,Diploma,Yes,No,No,4,Pass
+1020,Jack,Patel,22,Female,Cardiff,Software Engineering,Machine Learning,3.5,87.9,88.4,66.1,61.1,A-level,Yes,Yes,No,6,Pass
+1021,Layla,Ahmed,20,Female,Nottingham,Data Science,Statistics,3.4,100.0,83.9,57.1,44.6,A-level,Yes,Yes,No,5,Pass
+1022,Hassan,Ahmed,25,Male,Bristol,Data Science,Algorithms,7.5,96.7,77.6,73.5,96.3,Bachelor's,Yes,No,No,2,Pass
+1023,Arjun,Lewis,25,Male,Cardiff,Data Science,Statistics,5.7,92.2,82.9,46.2,64.5,GCSE,Yes,No,Yes,4,Pass
+1024,Yusuf,Clarke,24,Male,Bristol,Mathematics,Web Development,16.5,73.1,64.6,83.8,49.1,GCSE,Yes,No,No,3,Pass
+1025,Sofia,Clarke,17,Male,Nottingham,Artificial Intelligence,Python,14.1,100.0,71.3,72.0,84.6,GCSE,Yes,No,No,2,Pass
+1026,Noah,Ahmed,23,Female,Leeds,Software Engineering,Algorithms,18.6,90.4,74.7,73.2,61.8,Master's,Yes,No,No,0,Pass
+1027,Hina,Ahmed,25,Female,Manchester,Artificial Intelligence,Pandas,14.4,79.4,51.2,94.5,87.3,GCSE,Yes,Yes,Yes,2,Pass
+1028,Usman,Ali,30,Female,London,Software Engineering,Algorithms,13.3,76.0,57.6,62.6,61.7,Diploma,Yes,Yes,No,5,Pass
+1029,Leo,Malik,23,Female,Glasgow,Cyber Security,Databases,19.2,87.1,58.2,57.7,64.4,GCSE,Yes,No,No,5,Pass
+1030,Isabella,Brown,21,Female,Manchester,Data Science,Algorithms,14.8,63.9,86.5,60.7,76.8,Bachelor's,Yes,Yes,No,3,Pass
+1031,Jack,Singh,24,Female,Birmingham,Mathematics,Algorithms,12.4,92.4,78.7,66.7,80.3,GCSE,Yes,Yes,No,3,Pass
+1032,Bilal,Smith,18,Female,Nottingham,Software Engineering,Cloud Computing,20.9,72.6,84.2,68.5,82.8,GCSE,Yes,No,No,3,Pass
+1033,Amelia,Begum,17,Male,Birmingham,Software Engineering,Algorithms,12.7,88.4,47.4,55.9,70.7,Diploma,Yes,Yes,No,3,Pass
+1034,Maya,Brown,26,Male,Leeds,Mathematics,Statistics,10.2,77.7,52.7,35.6,79.4,Master's,Yes,No,No,4,Fail
+1035,Zara,Ahmed,30,Female,London,Data Science,Cloud Computing,7.0,80.8,84.9,60.5,82.4,GCSE,Yes,Yes,No,5,Pass
+1036,Ali,Begum,28,Male,Manchester,Computer Science,Pandas,16.2,74.9,33.3,76.1,74.8,Diploma,Yes,Yes,Yes,1,Pass
+1037,William,Walker,24,Male,Liverpool,Cyber Security,Python,19.4,82.1,93.4,72.3,70.0,Master's,Yes,Yes,No,2,Pass
+1038,Usman,Khan,16,Male,Sheffield,Data Science,Statistics,11.7,100.0,47.7,90.4,51.8,Bachelor's,Yes,No,No,3,Pass
+1039,Daniel,Taylor,30,Male,Liverpool,Artificial Intelligence,Cloud Computing,19.8,100.0,87.7,100.0,80.4,Master's,Yes,No,No,1,Pass
+1040,Noah,Clarke,22,Female,Manchester,Data Science,Cloud Computing,0.2,88.3,61.7,82.9,72.6,A-level,No,Yes,Yes,1,Pass
+1041,Arjun,Begum,20,Male,Birmingham,Artificial Intelligence,Statistics,11.7,83.7,90.7,93.5,66.2,PhD,Yes,Yes,No,2,Pass
+1042,Sara,Lewis,29,Female,Leeds,Artificial Intelligence,Statistics,11.8,94.1,100.0,83.0,89.9,GCSE,Yes,Yes,No,4,Pass
+1043,Olivia,Taylor,27,Female,Birmingham,Artificial Intelligence,Statistics,,97.6,40.9,99.1,52.0,Bachelor's,Yes,No,No,5,Pass
+1044,Hana,Wilson,27,Female,Sheffield,Software Engineering,Cloud Computing,26.3,74.0,85.4,100.0,95.0,Diploma,Yes,No,No,1,Pass
+1045,Ali,Begum,20,Female,Nottingham,Cyber Security,Cloud Computing,11.6,83.1,47.9,86.2,71.7,GCSE,Yes,No,No,3,Pass
+1046,Grace,Smith,30,Female,Birmingham,Artificial Intelligence,Python,9.6,62.1,81.4,82.0,76.4,PhD,Yes,Yes,No,4,Pass
+1047,Isabella,Jones,22,Female,Glasgow,Computer Science,Statistics,12.2,97.5,71.9,66.5,66.5,Master's,Yes,No,No,2,Pass
+1048,Zara,Williams,23,Male,Cardiff,Cyber Security,Databases,-0.0,100.0,76.9,69.3,48.7,A-level,No,Yes,No,6,Pass
+1049,Oliver,Davies,27,Female,Manchester,Data Science,Cloud Computing,7.4,85.0,61.3,64.3,70.0,GCSE,No,Yes,No,2,Pass
+1050,Sofia,Patel,25,Female,Liverpool,Data Science,Statistics,17.9,58.5,86.7,80.6,76.7,Master's,No,Yes,No,4,Pass
+1051,Sara,Shah,18,Female,Bristol,Artificial Intelligence,Algorithms,8.2,,53.3,57.8,81.5,Bachelor's,Yes,Yes,No,1,Pass
+1052,Ava,Wilson,20,Female,Leeds,Computer Science,Databases,7.0,73.2,93.6,66.8,69.2,GCSE,Yes,Yes,No,4,Pass
+1053,Hana,Shah,21,Female,Liverpool,Artificial Intelligence,Web Development,19.9,76.0,68.9,30.0,41.3,PhD,No,No,No,2,Fail
+1054,Jack,Rahman,30,Female,Liverpool,Data Science,Python,20.0,91.5,54.0,99.3,50.4,Master's,No,Yes,No,1,Pass
+1055,James,Ahmed,26,Female,London,Mathematics,Algorithms,15.1,87.1,98.9,66.3,100.0,Diploma,Yes,No,No,1,Pass
+1056,Aisha,Rahman,21,Male,Liverpool,Mathematics,Pandas,9.3,78.1,74.0,77.7,56.7,A-level,Yes,No,Yes,2,Pass
+1057,Leo,Taylor,27,Male,Liverpool,Computer Science,Databases,10.6,76.2,100.0,94.8,92.0,A-level,Yes,No,Yes,5,Pass
+1058,Anaya,Hussain,27,Male,Nottingham,Cyber Security,Cloud Computing,7.2,85.5,93.3,75.1,58.9,Diploma,Yes,Yes,No,2,Pass
+1059,Sara,Taylor,21,Male,Manchester,Cyber Security,Algorithms,6.0,79.1,63.0,94.6,69.4,GCSE,Yes,No,No,1,Pass
+1060,Oliver,Brown,22,Male,Cardiff,Artificial Intelligence,Databases,5.7,70.7,73.7,48.9,80.8,Diploma,Yes,Yes,No,4,Pass
+1061,Yusuf,Hussain,29,Prefer not to say,Sheffield,Artificial Intelligence,Databases,8.3,80.0,76.8,100.0,60.5,A-level,Yes,Yes,No,2,Pass
+1062,Sara,Davies,24,Male,Cardiff,Software Engineering,Python,5.8,88.1,97.9,88.5,94.3,GCSE,Yes,Yes,No,2,Pass
+1063,Hana,Patel,18,Male,Cardiff,Artificial Intelligence,Algorithms,2.6,81.9,81.6,73.6,73.1,GCSE,Yes,No,No,3,Pass
+1064,Grace,Begum,26,Male,Cardiff,Computer Science,Python,13.3,67.0,77.6,94.2,78.5,Diploma,No,No,No,4,Pass
+1065,Hina,Hussain,24,Male,Sheffield,Artificial Intelligence,Python,13.4,95.9,72.0,50.1,68.3,Diploma,Yes,No,No,2,Pass
+1066,Hamza,Wilson,23,Female,Cardiff,Data Science,Databases,22.2,51.1,74.2,65.1,81.2,Diploma,Yes,No,No,0,Pass
+1067,Zayn,Walker,26,Female,Sheffield,Artificial Intelligence,Python,8.0,78.6,94.6,94.6,94.1,Master's,Yes,Yes,No,4,Pass
+1068,Hassan,Williams,29,Female,London,Data Science,Pandas,13.8,76.6,75.1,38.3,70.2,Bachelor's,Yes,No,Yes,2,Fail
+1069,Ali,Brown,20,Female,London,Computer Science,Web Development,13.9,85.8,69.1,79.5,96.2,A-level,Yes,No,Yes,5,Pass
+1070,Jack,Khan,22,Male,Liverpool,Mathematics,Web Development,10.5,90.7,66.5,79.0,63.4,PhD,Yes,Yes,No,5,Pass
+1071,Thomas,Davies,18,Female,Liverpool,Computer Science,Machine Learning,16.5,97.5,66.7,100.0,82.7,Master's,Yes,No,No,2,Pass
+1072,Ava,Jones,25,Male,Sheffield,Software Engineering,Cloud Computing,16.7,75.5,54.0,43.1,78.8,Diploma,Yes,No,Yes,3,Pass
+1073,Jack,Hussain,22,Male,Leeds,Software Engineering,Statistics,14.0,91.0,63.7,97.4,57.0,GCSE,Yes,Yes,No,4,Pass
+1074,Ahmed,Shah,21,Male,Glasgow,Cyber Security,Pandas,10.5,86.3,97.5,60.5,75.0,PhD,Yes,Yes,Yes,4,Pass
+1075,Olivia,Singh,26,Female,Leeds,Mathematics,Web Development,9.9,63.5,71.9,62.4,72.1,Master's,Yes,Yes,Yes,2,Pass
+1076,James,Smith,22,Female,Birmingham,Computer Science,Statistics,3.8,100.0,85.6,49.2,60.1,Diploma,Yes,No,No,5,Pass
+1077,Hamza,Begum,22,Male,Birmingham,Data Science,Cloud Computing,7.2,66.7,37.8,51.5,77.0,GCSE,Yes,Yes,No,4,Pass
+1078,Bilal,Smith,22,Male,London,Data Science,Pandas,8.3,,83.5,76.9,74.0,GCSE,Yes,Yes,No,3,Pass
+1079,Maya,Taylor,19,Prefer not to say,Nottingham,Cyber Security,Pandas,5.3,88.7,72.6,51.1,71.0,A-level,Yes,No,No,1,Pass
+1080,Oliver,Clarke,17,Male,Sheffield,Cyber Security,Machine Learning,14.6,87.3,67.8,82.6,71.0,A-level,Yes,No,No,5,Pass
+1081,Yusuf,Walker,28,Male,Birmingham,Mathematics,Machine Learning,19.2,78.1,77.7,58.7,70.7,A-level,Yes,No,No,3,Pass
+1082,Isabella,Rahman,17,Female,Sheffield,Artificial Intelligence,Algorithms,6.6,93.9,67.6,49.4,66.9,Diploma,Yes,No,No,5,Pass
+1083,Arjun,Rahman,20,Female,London,Data Science,Web Development,13.7,65.3,43.1,61.0,74.0,GCSE,Yes,Yes,No,2,Pass
+1084,Usman,Malik,26,Female,Bristol,Mathematics,Statistics,5.8,83.2,88.8,75.7,63.0,A-level,No,Yes,Yes,2,Pass
+1085,Mohammed,Jones,17,Male,Sheffield,Software Engineering,Statistics,10.2,77.2,78.6,65.3,100.0,PhD,Yes,No,No,3,Pass
+1086,Olivia,Clarke,25,Male,Birmingham,Software Engineering,Algorithms,7.9,75.9,70.3,70.6,52.3,PhD,Yes,Yes,Yes,4,Pass
+1087,Amelia,Clarke,26,Female,Nottingham,Artificial Intelligence,Databases,15.6,89.1,60.5,81.8,63.8,GCSE,Yes,No,No,6,Pass
+1088,Fatima,Rahman,25,Male,Manchester,Artificial Intelligence,Pandas,7.9,96.9,53.0,88.4,64.9,Master's,Yes,No,No,1,Pass
+1089,Sofia,Davies,20,Female,Leeds,Artificial Intelligence,Pandas,18.1,79.9,78.4,64.7,100.0,PhD,No,No,Yes,1,Pass
+1090,Usman,Patel,16,Female,Sheffield,Software Engineering,Machine Learning,10.5,93.4,99.2,52.2,53.5,Bachelor's,Yes,No,No,2,Pass
+1091,Isabella,Shah,29,Female,Nottingham,Data Science,Web Development,8.1,84.6,78.0,71.3,78.0,Diploma,Yes,No,No,1,Pass
+1092,Thomas,Taylor,20,Female,Birmingham,Mathematics,Databases,4.5,73.3,54.3,78.0,75.5,Diploma,Yes,No,No,3,Pass
+1093,Usman,Clarke,28,Male,London,Data Science,Databases,13.5,80.9,78.4,45.2,76.7,A-level,Yes,Yes,Yes,2,Pass
+1094,Hassan,Wilson,18,Female,Liverpool,Artificial Intelligence,Databases,17.4,80.4,74.2,54.9,89.3,Diploma,Yes,Yes,Yes,3,Pass
+1095,Zayn,Brown,18,Male,Bristol,Data Science,Algorithms,13.6,75.6,88.0,57.8,89.0,PhD,Yes,Yes,No,3,Pass
+1096,Daniel,Ahmed,27,Male,Leeds,Cyber Security,Algorithms,25.4,89.1,84.1,66.5,65.7,Bachelor's,Yes,No,No,3,Pass
+1097,Charlotte,Clarke,30,Female,Cardiff,Software Engineering,Pandas,20.6,86.8,30.2,57.1,74.7,Diploma,Yes,Yes,No,5,Pass
+1098,Oliver,Hussain,28,Female,Birmingham,Mathematics,Python,10.2,64.9,83.2,82.0,45.9,GCSE,Yes,Yes,No,5,Pass
+1099,Noah,Khan,27,Male,Liverpool,Software Engineering,Pandas,10.1,64.2,59.9,42.7,73.4,PhD,Yes,No,No,5,Pass
+1100,Anaya,Taylor,19,Female,Manchester,Data Science,Cloud Computing,14.8,,53.7,43.1,60.9,GCSE,Yes,Yes,No,1,Pass
+1101,Usman,Singh,29,Male,Sheffield,Data Science,Databases,7.0,74.2,72.2,64.3,69.4,Master's,Yes,No,No,3,Pass
+1102,Ava,Singh,26,Female,Sheffield,Mathematics,Cloud Computing,19.0,87.6,81.2,67.0,48.4,A-level,Yes,Yes,Yes,3,Pass
+1103,Thomas,Walker,18,Male,Manchester,Artificial Intelligence,Web Development,14.2,93.4,50.4,45.3,77.7,A-level,No,Yes,No,1,Pass
+1104,Aarav,Smith,17,Male,Bristol,Computer Science,Statistics,13.5,68.7,85.6,59.7,48.2,A-level,Yes,Yes,No,2,Pass
+1105,Thomas,Brown,29,Female,Leeds,Software Engineering,Machine Learning,16.1,67.1,86.5,63.2,74.1,Diploma,Yes,Yes,No,1,Pass
+1106,Sofia,Smith,20,Female,Cardiff,Cyber Security,Machine Learning,22.3,100.0,75.7,63.3,54.8,Master's,Yes,No,Yes,1,Pass
+1107,Sofia,Jones,27,Prefer not to say,Glasgow,Computer Science,Pandas,13.0,88.2,62.0,72.6,60.1,Diploma,Yes,No,Yes,1,Pass
+1108,Oliver,Walker,18,Female,Liverpool,Software Engineering,Statistics,11.3,79.0,60.3,58.8,88.2,GCSE,Yes,No,No,3,Pass
+1109,Jack,Walker,20,Female,Birmingham,Cyber Security,Machine Learning,21.1,72.8,90.4,95.1,80.2,A-level,Yes,No,No,3,Pass
+1110,Olivia,Khan,20,Female,Manchester,Cyber Security,Machine Learning,17.8,77.9,52.3,78.3,88.1,GCSE,Yes,No,No,6,Pass
+1111,Daniel,Williams,20,Female,Sheffield,Mathematics,Python,10.1,69.7,91.0,56.3,93.8,Diploma,No,No,Yes,2,Pass
+1112,Sofia,Jones,26,Male,Cardiff,Artificial Intelligence,Cloud Computing,12.0,94.6,72.5,71.6,61.2,PhD,Yes,Yes,No,2,Pass
+1113,Maya,Smith,29,Male,Liverpool,Artificial Intelligence,Algorithms,13.2,74.7,73.6,72.1,93.0,PhD,Yes,Yes,No,0,Pass
+1114,Jack,Ali,29,Female,London,Cyber Security,Databases,14.2,97.1,49.4,90.7,51.5,PhD,No,No,No,3,Pass
+1115,Layla,Smith,27,Male,Manchester,Data Science,Statistics,3.9,79.2,72.8,59.8,82.4,GCSE,Yes,No,Yes,4,Pass
+1116,Maya,Singh,19,Female,Manchester,Computer Science,Algorithms,,71.5,84.2,83.0,65.1,Diploma,Yes,Yes,No,2,Pass
+1117,Aisha,Rahman,30,Female,Manchester,Mathematics,Statistics,6.7,78.9,55.0,70.7,59.0,GCSE,Yes,Yes,No,3,Pass
+1118,Anaya,Malik,24,Male,Bristol,Data Science,Statistics,6.2,52.5,82.5,95.4,80.6,Diploma,Yes,Yes,No,1,Pass
+1119,Charlotte,Begum,24,Prefer not to say,Nottingham,Cyber Security,Databases,8.1,82.6,76.3,91.9,85.2,Bachelor's,Yes,Yes,No,6,Pass
+1120,Ahmed,Singh,26,Female,London,Data Science,Statistics,15.8,82.0,65.3,73.3,84.8,Master's,Yes,No,No,4,Pass
+1121,Isabella,Khan,27,Female,Nottingham,Data Science,Statistics,11.0,93.9,87.8,65.5,75.0,Diploma,Yes,Yes,No,3,Pass
+1122,Oliver,Ahmed,30,Male,Cardiff,Cyber Security,Web Development,13.2,61.4,42.0,78.6,73.8,GCSE,Yes,No,No,5,Pass
+1123,Noah,Ali,24,Male,Cardiff,Software Engineering,Statistics,4.7,97.9,80.2,66.9,79.4,Diploma,Yes,No,No,3,Pass
+1124,Jack,Jones,25,Female,Cardiff,Artificial Intelligence,Statistics,9.2,93.8,99.3,98.6,76.3,Diploma,Yes,Yes,No,2,Pass
+1125,William,Clarke,27,Female,Leeds,Computer Science,Python,15.5,99.0,96.6,71.3,79.6,Bachelor's,Yes,No,No,5,Pass
+1126,Maya,Clarke,19,Male,Glasgow,Data Science,Algorithms,15.6,83.4,80.8,63.1,74.9,GCSE,Yes,No,No,1,Pass
+1127,Amelia,Lewis,20,Female,Manchester,Computer Science,Algorithms,7.7,96.2,70.5,62.2,83.8,Bachelor's,Yes,Yes,No,1,Pass
+1128,Sofia,Williams,25,Female,Sheffield,Mathematics,Pandas,13.0,66.3,65.5,49.4,49.2,Diploma,Yes,Yes,No,2,Pass
+1129,Maya,Malik,16,Female,Cardiff,Data Science,Machine Learning,25.2,92.6,70.5,79.5,70.2,Master's,Yes,No,Yes,4,Pass
+1130,Noah,Williams,20,Female,Cardiff,Artificial Intelligence,Algorithms,11.9,74.7,83.2,,52.6,PhD,Yes,Yes,No,4,Fail
+1131,Maya,Taylor,26,Female,Birmingham,Computer Science,Machine Learning,7.8,64.2,62.9,88.7,75.9,A-level,Yes,Yes,No,2,Pass
+1132,Maya,Davies,30,Male,Birmingham,Artificial Intelligence,Cloud Computing,11.0,70.5,86.4,48.0,95.0,Master's,No,Yes,No,4,Pass
+1133,Amelia,Hussain,23,Male,Bristol,Mathematics,Cloud Computing,12.6,84.1,100.0,72.2,65.4,GCSE,Yes,Yes,Yes,2,Pass
+1134,Maya,Hussain,21,Male,London,Artificial Intelligence,Cloud Computing,11.1,74.1,74.1,89.6,73.8,PhD,Yes,No,No,3,Pass
+1135,Thomas,Williams,22,Prefer not to say,Glasgow,Cyber Security,Python,11.8,88.5,54.8,33.4,82.6,Diploma,Yes,Yes,No,3,Fail
+1136,Fatima,Ahmed,26,Female,London,Data Science,Databases,,62.3,54.8,100.0,43.1,Master's,Yes,No,No,3,Pass
+1137,Mia,Begum,24,Female,Bristol,Computer Science,Statistics,6.2,58.5,86.6,62.8,64.7,Master's,Yes,Yes,No,6,Pass
+1138,Aisha,Wilson,16,Male,Cardiff,Software Engineering,Cloud Computing,11.1,100.0,74.1,72.4,77.1,Bachelor's,Yes,No,No,2,Pass
+1139,Hana,Begum,24,Female,London,Computer Science,Pandas,11.0,94.8,88.2,79.7,31.4,Diploma,Yes,Yes,No,0,Pass
+1140,Isabella,Shah,22,Male,Liverpool,Artificial Intelligence,Machine Learning,8.6,71.4,67.0,82.3,58.3,Master's,Yes,No,No,2,Pass
+1141,Emily,Lewis,26,Male,Birmingham,Data Science,Pandas,10.9,84.0,87.5,74.7,87.4,Diploma,Yes,No,No,2,Pass
+1142,Bilal,Brown,29,Female,London,Computer Science,Cloud Computing,12.4,96.2,72.6,87.0,86.0,Bachelor's,Yes,Yes,No,2,Pass
+1143,Daniel,Walker,30,Female,Cardiff,Cyber Security,Algorithms,17.3,89.0,64.0,78.8,77.2,Bachelor's,Yes,No,No,4,Pass
+1144,Hina,Clarke,25,Female,Sheffield,Mathematics,Pandas,11.4,85.8,69.0,99.9,84.4,Diploma,Yes,Yes,Yes,2,Pass
+1145,Emily,Brown,21,Female,Cardiff,Computer Science,Pandas,14.4,97.1,57.0,,75.0,GCSE,Yes,No,Yes,4,Fail
+1146,William,Singh,22,Female,Glasgow,Software Engineering,Machine Learning,8.8,75.2,100.0,100.0,79.8,A-level,Yes,No,No,2,Pass
+1147,Aisha,Shah,18,Female,Bristol,Cyber Security,Algorithms,15.4,84.4,73.6,85.3,67.6,PhD,Yes,Yes,Yes,1,Pass
+1148,Bilal,Hussain,30,Male,Nottingham,Software Engineering,Databases,14.3,83.8,84.7,39.3,73.6,Bachelor's,Yes,Yes,No,2,Fail
+1149,Usman,Davies,28,Male,Birmingham,Computer Science,Machine Learning,17.2,80.7,66.9,100.0,63.1,Bachelor's,Yes,Yes,No,3,Pass
+1150,Ali,Lewis,28,Male,Sheffield,Mathematics,Machine Learning,16.3,79.3,59.2,60.2,89.7,A-level,Yes,No,Yes,3,Pass
+1151,William,Wilson,20,Female,Leeds,Computer Science,Statistics,15.5,84.9,71.5,95.4,93.3,Master's,Yes,No,Yes,2,Pass
+1152,Daniel,Shah,20,Female,Cardiff,Mathematics,Databases,11.4,84.4,91.5,70.5,91.3,Diploma,Yes,Yes,No,3,Pass
+1153,Zayn,Taylor,28,Female,Manchester,Cyber Security,Pandas,13.5,71.4,67.2,88.0,66.3,A-level,Yes,Yes,No,5,Pass
+1154,Fatima,Walker,24,Female,Cardiff,Artificial Intelligence,Cloud Computing,18.4,93.6,61.9,58.3,58.6,GCSE,Yes,Yes,No,3,Pass
+1155,Isabella,Brown,26,Male,Nottingham,Computer Science,Databases,8.1,72.3,77.3,80.6,89.9,Diploma,Yes,No,No,6,Pass
+1156,Oliver,Malik,23,Female,Nottingham,Cyber Security,Machine Learning,8.2,81.4,82.5,65.7,79.6,Bachelor's,Yes,Yes,Yes,2,Pass
+1157,Ahmed,Patel,22,Female,Liverpool,Computer Science,Web Development,13.1,80.5,99.6,96.8,76.6,A-level,Yes,Yes,Yes,3,Pass
+1158,Maya,Lewis,25,Male,Leeds,Cyber Security,Web Development,14.5,88.3,80.3,,63.1,A-level,Yes,No,Yes,5,Fail
+1159,Layla,Wilson,28,Female,Leeds,Software Engineering,Pandas,7.1,58.6,84.7,85.9,78.0,A-level,Yes,Yes,No,2,Pass
+1160,Sofia,Brown,21,Female,Liverpool,Data Science,Python,11.6,94.7,85.8,33.2,56.8,A-level,Yes,No,No,1,Fail
+1161,Emily,Malik,28,Female,Birmingham,Data Science,Python,11.4,75.9,57.7,,80.9,Master's,Yes,Yes,No,2,Fail
+1162,Oliver,Singh,19,Male,London,Data Science,Cloud Computing,0.0,98.6,60.6,77.0,91.3,Diploma,Yes,Yes,Yes,5,Pass
+1163,Hina,Clarke,22,Male,Manchester,Data Science,Web Development,10.7,78.3,58.7,73.8,94.8,Diploma,Yes,No,No,1,Pass
+1164,Hina,Shah,29,Female,Nottingham,Computer Science,Cloud Computing,11.1,83.4,55.0,86.3,81.9,GCSE,Yes,Yes,No,3,Pass
+1165,Hina,Shah,30,Male,Birmingham,Data Science,Web Development,11.0,100.0,86.9,63.8,52.7,Bachelor's,Yes,Yes,No,2,Pass
+1166,Thomas,Patel,29,Male,London,Cyber Security,Databases,20.5,80.7,79.4,70.8,74.8,PhD,Yes,No,No,3,Pass
+1167,Hamza,Khan,20,Male,Glasgow,Data Science,Statistics,4.7,98.9,76.2,90.1,100.0,Master's,Yes,No,Yes,2,Pass
+1168,Arjun,Wilson,28,Female,Leeds,Software Engineering,Web Development,7.1,84.5,36.1,31.3,59.8,Diploma,Yes,No,No,4,Fail
+1169,Hamza,Rahman,30,Female,Birmingham,Software Engineering,Databases,0.0,89.0,100.0,80.0,71.2,A-level,Yes,Yes,No,5,Pass
+1170,Aarav,Walker,30,Male,London,Software Engineering,Algorithms,9.1,84.8,61.6,64.3,91.8,Diploma,Yes,Yes,No,4,Pass
+1171,Ahmed,Williams,16,Female,Cardiff,Cyber Security,Algorithms,9.6,94.2,100.0,54.5,80.6,GCSE,Yes,Yes,Yes,9,Pass
+1172,Amelia,Williams,27,Male,Bristol,Data Science,Cloud Computing,8.9,75.8,53.3,75.7,100.0,GCSE,Yes,No,No,2,Pass
+1173,Sofia,Wilson,30,Male,Nottingham,Mathematics,Algorithms,18.6,72.2,62.8,90.9,61.7,Master's,Yes,No,No,2,Pass
+1174,Omar,Smith,27,Female,Birmingham,Data Science,Databases,17.2,76.3,42.0,87.7,58.1,PhD,Yes,Yes,No,7,Pass
+1175,Olivia,Khan,19,Male,Manchester,Artificial Intelligence,Python,12.5,85.2,80.4,67.7,89.1,PhD,Yes,No,Yes,2,Pass
+1176,Jack,Brown,27,Male,Leeds,Artificial Intelligence,Databases,9.8,81.4,58.5,84.9,55.3,Bachelor's,Yes,Yes,No,3,Pass
+1177,Omar,Brown,17,Male,Manchester,Software Engineering,Web Development,18.2,92.5,58.9,84.8,69.2,PhD,Yes,No,No,2,Pass
+1178,Arjun,Smith,23,Female,Bristol,Cyber Security,Cloud Computing,11.9,99.7,54.4,68.5,71.1,Diploma,Yes,Yes,No,3,Pass
+1179,Zayn,Ali,25,Male,London,Software Engineering,Databases,7.1,72.3,86.7,58.2,86.5,A-level,Yes,Yes,No,1,Pass
+1180,Layla,Khan,22,Male,Bristol,Mathematics,Machine Learning,1.7,75.2,85.7,59.2,80.6,A-level,Yes,No,Yes,6,Pass
+1181,Yusuf,Williams,26,Male,Nottingham,Artificial Intelligence,Databases,9.4,66.8,100.0,84.2,78.4,A-level,Yes,No,No,3,Pass
+1182,Anaya,Walker,19,Male,Glasgow,Mathematics,Cloud Computing,16.5,100.0,64.7,69.3,66.4,Master's,Yes,Yes,No,3,Pass
+1183,James,Davies,25,Male,Cardiff,Data Science,Python,25.7,87.7,78.3,52.2,89.0,GCSE,Yes,Yes,No,2,Pass
+1184,Olivia,Taylor,25,Female,Nottingham,Mathematics,Machine Learning,,89.8,55.7,41.4,100.0,PhD,Yes,No,No,1,Pass
+1185,James,Taylor,25,Female,Glasgow,Data Science,Pandas,7.4,67.9,70.0,84.1,81.7,Master's,Yes,Yes,No,1,Pass
+1186,Isabella,Brown,20,Female,Cardiff,Mathematics,Cloud Computing,4.9,84.0,67.2,60.7,73.4,Diploma,Yes,No,No,5,Pass
+1187,Arjun,Patel,20,Male,Nottingham,Artificial Intelligence,Databases,15.3,90.1,82.0,75.6,53.8,Master's,Yes,No,No,6,Pass
+1188,Hassan,Malik,19,Male,Leeds,Mathematics,Python,1.4,81.0,90.3,91.1,63.1,GCSE,Yes,Yes,No,1,Pass
+1189,Charlotte,Malik,22,Male,Nottingham,Computer Science,Machine Learning,15.3,96.9,89.9,47.7,69.0,Diploma,Yes,Yes,No,1,Pass
+1190,Fatima,Khan,24,Female,Manchester,Artificial Intelligence,Python,16.9,100.0,62.4,69.2,64.5,GCSE,Yes,Yes,Yes,0,Pass
+1191,Oliver,Taylor,21,Male,Glasgow,Mathematics,Databases,14.6,72.6,90.0,67.1,71.8,GCSE,Yes,No,No,3,Pass
+1192,Mohammed,Ali,22,Male,Liverpool,Computer Science,Algorithms,10.7,,74.3,76.5,96.9,GCSE,Yes,Yes,No,4,Pass
+1193,Mohammed,Smith,20,Female,Bristol,Data Science,Statistics,15.4,73.5,70.1,91.1,89.5,Master's,Yes,No,No,1,Pass
+1194,Hana,Begum,19,Male,London,Computer Science,Cloud Computing,13.0,100.0,64.4,47.4,69.8,Master's,Yes,Yes,No,7,Pass
+1195,Grace,Shah,25,Male,Birmingham,Data Science,Web Development,7.3,96.5,66.6,79.7,55.1,PhD,Yes,No,No,2,Pass
+1196,Amelia,Williams,28,Male,Bristol,Artificial Intelligence,Algorithms,23.1,82.4,100.0,87.5,90.7,PhD,No,Yes,No,4,Pass
+1197,Hana,Begum,20,Female,Liverpool,Cyber Security,Machine Learning,9.9,84.4,79.6,66.8,71.3,PhD,Yes,Yes,No,5,Pass
+1198,Ahmed,Rahman,28,Male,Liverpool,Data Science,Algorithms,16.7,74.2,77.6,67.7,47.8,PhD,Yes,No,No,2,Pass
+1199,Hamza,Clarke,24,Prefer not to say,Sheffield,Computer Science,Pandas,0.0,94.7,71.1,77.1,82.0,GCSE,Yes,No,Yes,2,Pass
+1200,Grace,Williams,18,Male,Liverpool,Data Science,Databases,19.7,79.4,100.0,75.9,86.4,Master's,Yes,Yes,Yes,3,Pass
+1201,Hana,Lewis,21,Male,Bristol,Mathematics,Web Development,20.8,80.9,94.6,79.9,38.0,Master's,Yes,Yes,No,3,Pass
+1202,Zayn,Singh,16,Prefer not to say,Bristol,Mathematics,Machine Learning,12.2,91.3,64.2,79.5,60.5,GCSE,Yes,No,No,2,Pass
+1203,James,Rahman,16,Female,Nottingham,Data Science,Machine Learning,15.4,81.7,70.9,53.3,70.5,GCSE,Yes,Yes,No,2,Pass
+1204,Olivia,Hussain,21,Male,Cardiff,Data Science,Pandas,15.4,81.2,71.8,86.8,82.3,PhD,Yes,Yes,No,3,Pass
+1205,Jack,Davies,22,Female,Sheffield,Computer Science,Python,8.1,84.1,77.2,89.8,64.8,PhD,Yes,Yes,No,5,Pass
+1206,Daniel,Walker,27,Prefer not to say,Bristol,Mathematics,Statistics,15.3,93.5,64.5,73.2,60.4,A-level,Yes,Yes,No,3,Pass
+1207,Sofia,Shah,18,Female,Glasgow,Software Engineering,Algorithms,7.1,100.0,81.6,44.6,82.2,GCSE,Yes,No,No,6,Pass
+1208,Grace,Begum,28,Female,Glasgow,Software Engineering,Pandas,8.3,91.0,96.8,68.0,65.4,Diploma,Yes,No,No,2,Pass
+1209,Daniel,Ali,19,Male,Bristol,Data Science,Databases,18.8,93.6,55.3,73.3,79.6,GCSE,Yes,Yes,Yes,2,Pass
+1210,Sofia,Rahman,18,Female,London,Cyber Security,Algorithms,17.8,81.6,58.1,50.5,56.4,Master's,Yes,No,Yes,3,Pass
+1211,Charlotte,Williams,26,Male,Leeds,Computer Science,Cloud Computing,7.8,75.5,67.8,63.9,53.1,Diploma,Yes,Yes,Yes,3,Pass
+1212,Omar,Hussain,27,Female,Leeds,Software Engineering,Python,7.6,91.8,68.4,46.0,82.6,GCSE,Yes,No,Yes,4,Pass
+1213,Sofia,Singh,25,Prefer not to say,Bristol,Cyber Security,Statistics,8.1,86.1,100.0,80.3,75.5,PhD,Yes,Yes,Yes,3,Pass
+1214,Jack,Lewis,17,Male,Cardiff,Data Science,Pandas,16.4,66.9,90.0,72.8,84.9,Master's,Yes,Yes,No,1,Pass
+1215,Sara,Ahmed,17,Female,Nottingham,Software Engineering,Pandas,6.0,80.1,89.2,42.0,64.5,PhD,Yes,No,No,4,Pass
+1216,Daniel,Patel,21,Male,Manchester,Cyber Security,Pandas,14.1,83.0,71.0,76.0,60.9,PhD,Yes,Yes,Yes,2,Pass
+1217,Amelia,Shah,22,Female,Glasgow,Artificial Intelligence,Statistics,16.5,77.9,70.7,69.0,91.1,GCSE,Yes,Yes,No,3,Pass
+1218,Amelia,Begum,30,Male,Cardiff,Data Science,Pandas,11.5,100.0,53.2,78.8,50.7,Master's,Yes,Yes,No,2,Pass
+1219,Isabella,Clarke,20,Male,London,Computer Science,Machine Learning,18.1,89.8,86.7,63.3,89.5,Master's,Yes,No,No,5,Pass
+1220,Zayn,Taylor,18,Male,Birmingham,Mathematics,Pandas,10.2,100.0,82.4,,90.5,Master's,Yes,Yes,No,1,Fail
+1221,Ahmed,Williams,30,Female,Birmingham,Data Science,Machine Learning,10.7,87.2,94.3,56.9,84.0,A-level,No,No,Yes,3,Pass
+1222,Jack,Malik,18,Female,Nottingham,Data Science,Web Development,6.1,85.0,71.8,60.9,62.4,Diploma,Yes,No,No,5,Pass
+1223,Olivia,Rahman,16,Male,Liverpool,Software Engineering,Databases,18.1,72.8,72.9,70.3,60.6,PhD,Yes,No,No,3,Pass
+1224,Ava,Davies,22,Male,Nottingham,Data Science,Machine Learning,7.4,84.1,77.6,72.5,69.1,GCSE,Yes,Yes,No,3,Pass
+1225,Omar,Taylor,22,Male,Sheffield,Artificial Intelligence,Statistics,14.1,84.2,88.4,66.8,53.9,Bachelor's,Yes,No,No,2,Pass
+1226,Fatima,Rahman,25,Female,Bristol,Software Engineering,Statistics,11.6,67.6,52.9,62.8,58.5,Master's,Yes,Yes,No,3,Pass
+1227,Thomas,Patel,29,Female,Birmingham,Cyber Security,Python,5.7,77.5,86.0,64.0,81.0,Master's,Yes,No,No,4,Pass
+1228,Mia,Rahman,29,Male,Glasgow,Cyber Security,Algorithms,8.3,80.1,74.7,100.0,81.1,Bachelor's,Yes,No,No,3,Pass
+1229,Leo,Smith,20,Female,London,Computer Science,Algorithms,20.3,89.0,59.1,56.9,57.3,Master's,Yes,Yes,No,5,Pass
+1230,Arjun,Ali,30,Female,Manchester,Artificial Intelligence,Statistics,13.2,89.5,43.7,60.5,81.5,PhD,Yes,No,Yes,1,Pass
+1231,Jack,Clarke,25,Male,Leeds,Artificial Intelligence,Statistics,5.9,77.0,73.0,100.0,78.4,Master's,Yes,Yes,Yes,2,Pass
+1232,William,Begum,17,Female,Bristol,Cyber Security,Web Development,13.8,89.6,96.7,77.2,93.1,GCSE,Yes,Yes,Yes,2,Pass
+1233,Aarav,Rahman,30,Male,Manchester,Computer Science,Databases,11.1,81.8,100.0,46.5,80.0,A-level,Yes,Yes,Yes,3,Pass
+1234,Sara,Begum,18,Female,Leeds,Computer Science,Machine Learning,32.7,49.6,80.3,84.3,86.8,A-level,Yes,No,No,4,Pass
+1235,James,Williams,24,Male,Birmingham,Software Engineering,Machine Learning,13.7,78.2,100.0,54.5,78.7,Diploma,Yes,No,No,2,Pass
+1236,Omar,Brown,27,Male,Nottingham,Software Engineering,Pandas,9.7,96.9,74.4,85.5,85.7,Diploma,Yes,No,Yes,3,Pass
+1237,Oliver,Khan,19,Male,Sheffield,Software Engineering,Cloud Computing,20.5,63.8,89.3,66.4,54.0,A-level,Yes,Yes,No,2,Pass
+1238,Isabella,Patel,20,Female,Nottingham,Data Science,Machine Learning,1.0,85.4,68.2,62.5,70.3,Master's,Yes,No,Yes,1,Pass
+1239,Fatima,Ali,23,Male,Liverpool,Mathematics,Machine Learning,12.6,100.0,67.3,97.4,71.5,GCSE,Yes,No,No,5,Pass
+1240,Mohammed,Khan,29,Male,Liverpool,Data Science,Algorithms,24.0,74.9,64.8,79.6,68.6,Master's,Yes,No,No,1,Pass
+1241,Anaya,Shah,19,Female,Birmingham,Cyber Security,Statistics,11.3,84.0,44.1,86.5,78.2,Bachelor's,Yes,Yes,No,2,Pass
+1242,Mia,Hussain,25,Female,Nottingham,Computer Science,Statistics,1.6,68.4,94.3,77.4,80.9,PhD,Yes,Yes,No,3,Pass
+1243,Amelia,Rahman,22,Female,Liverpool,Mathematics,Pandas,9.6,100.0,65.4,62.4,77.5,GCSE,Yes,No,No,3,Pass
+1244,Noah,Singh,17,Male,Liverpool,Data Science,Machine Learning,20.7,83.0,63.0,80.4,69.5,A-level,Yes,Yes,No,7,Pass
+1245,Mohammed,Lewis,26,Male,Birmingham,Software Engineering,Web Development,14.3,84.6,57.3,90.6,61.7,PhD,No,Yes,No,3,Pass
+1246,Amelia,Rahman,28,Male,Manchester,Data Science,Databases,7.0,100.0,71.9,72.3,87.4,Diploma,Yes,Yes,No,6,Pass
+1247,Sara,Lewis,24,Male,Sheffield,Software Engineering,Pandas,7.9,91.9,100.0,100.0,76.9,Bachelor's,Yes,Yes,No,3,Pass
+1248,Hina,Singh,18,Male,Liverpool,Artificial Intelligence,Cloud Computing,8.6,73.5,100.0,84.5,57.7,GCSE,Yes,Yes,No,3,Pass
+1249,Sofia,Brown,18,Female,Liverpool,Computer Science,Databases,14.2,76.2,50.1,73.6,69.3,Master's,Yes,Yes,No,2,Pass
+1250,Aisha,Rahman,22,Female,Sheffield,Data Science,Web Development,,89.9,69.7,74.3,47.6,A-level,Yes,No,Yes,2,Pass
+1251,Arjun,Jones,23,Male,Leeds,Software Engineering,Machine Learning,18.3,76.5,59.5,72.3,72.5,PhD,No,No,Yes,1,Pass
+1252,James,Taylor,24,Female,Bristol,Data Science,Statistics,14.7,58.6,89.8,48.7,69.2,Diploma,Yes,Yes,Yes,5,Pass
+1253,Ava,Ahmed,19,Male,Glasgow,Data Science,Cloud Computing,,83.4,79.3,68.5,64.0,A-level,Yes,Yes,No,3,Pass
+1254,Hamza,Hussain,23,Male,Sheffield,Cyber Security,Algorithms,4.0,66.2,65.5,73.8,94.2,Bachelor's,Yes,No,No,1,Pass
+1255,Oliver,Williams,20,Female,Birmingham,Data Science,Pandas,15.2,100.0,76.1,62.9,55.8,Diploma,Yes,Yes,Yes,5,Pass
+1256,Anaya,Ahmed,26,Male,Birmingham,Computer Science,Web Development,3.9,86.1,67.8,75.7,81.9,Diploma,Yes,No,No,5,Pass
+1257,Oliver,Jones,27,Female,London,Cyber Security,Algorithms,10.6,73.1,99.2,70.4,100.0,PhD,Yes,No,No,4,Pass
+1258,Amelia,Malik,25,Prefer not to say,Manchester,Software Engineering,Web Development,13.8,75.6,83.2,83.2,87.1,Diploma,Yes,Yes,No,0,Pass
+1259,Arjun,Shah,16,Male,Cardiff,Software Engineering,Pandas,5.2,61.3,85.0,81.3,71.6,Diploma,Yes,Yes,Yes,2,Pass
+1260,Mia,Clarke,30,Male,Manchester,Mathematics,Pandas,5.9,70.8,35.0,72.8,56.1,Bachelor's,Yes,Yes,Yes,2,Pass
+1261,Thomas,Ali,16,Female,Liverpool,Computer Science,Pandas,11.4,96.2,74.0,46.8,52.9,A-level,Yes,No,No,1,Pass
+1262,Arjun,Walker,30,Female,London,Artificial Intelligence,Python,15.0,100.0,100.0,100.0,66.2,Master's,Yes,Yes,No,3,Pass
+1263,Fatima,Taylor,16,Female,Sheffield,Data Science,Cloud Computing,18.4,92.7,94.9,67.6,62.4,A-level,Yes,No,No,3,Pass
+1264,Yusuf,Clarke,23,Female,Bristol,Mathematics,Algorithms,15.6,82.9,47.3,68.6,61.9,A-level,Yes,No,No,2,Pass
+1265,Emily,Jones,17,Female,Nottingham,Cyber Security,Statistics,12.4,78.8,70.3,64.2,67.4,GCSE,Yes,No,No,3,Pass
+1266,Mia,Khan,17,Female,Nottingham,Computer Science,Statistics,7.5,72.5,57.0,61.7,70.6,Diploma,Yes,No,No,5,Pass
+1267,Isabella,Ahmed,26,Prefer not to say,Sheffield,Software Engineering,Cloud Computing,5.6,100.0,100.0,96.2,78.8,Bachelor's,Yes,Yes,No,6,Pass
+1268,Hana,Wilson,26,Female,Cardiff,Computer Science,Databases,8.9,81.7,78.7,93.6,54.7,Master's,Yes,Yes,No,4,Pass
+1269,Mohammed,Rahman,17,Female,Cardiff,Data Science,Databases,,100.0,63.5,77.6,62.4,PhD,Yes,No,Yes,1,Pass
+1270,Mia,Khan,30,Male,Sheffield,Software Engineering,Statistics,14.0,100.0,75.5,68.2,69.8,Master's,Yes,Yes,No,1,Pass
+1271,Fatima,Wilson,20,Male,Leeds,Cyber Security,Machine Learning,0.0,63.1,35.9,80.5,69.3,A-level,Yes,Yes,Yes,0,Pass
+1272,Aarav,Patel,20,Male,Bristol,Software Engineering,Python,7.3,76.0,58.7,,97.7,Master's,Yes,Yes,No,2,Fail
+1273,Anaya,Walker,20,Male,Manchester,Cyber Security,Statistics,19.2,76.0,75.5,66.8,75.3,A-level,Yes,Yes,Yes,3,Pass
+1274,Grace,Davies,22,Male,Bristol,Mathematics,Cloud Computing,12.5,83.0,87.7,75.7,49.4,A-level,Yes,No,No,0,Pass
+1275,Hina,Hussain,18,Male,Cardiff,Cyber Security,Python,3.5,83.3,45.9,62.5,77.9,Diploma,Yes,Yes,No,2,Pass
+1276,James,Begum,22,Male,Manchester,Computer Science,Pandas,26.1,100.0,69.3,74.3,79.6,Bachelor's,Yes,No,Yes,2,Pass
+1277,Jack,Davies,19,Male,Manchester,Computer Science,Machine Learning,11.8,71.1,90.1,73.5,70.2,A-level,Yes,No,Yes,2,Pass
+1278,Sofia,Hussain,16,Female,Nottingham,Software Engineering,Cloud Computing,14.3,86.7,53.2,80.2,55.0,PhD,Yes,Yes,No,2,Pass
+1279,Ali,Khan,21,Female,Birmingham,Computer Science,Statistics,14.4,91.4,78.4,59.5,96.6,A-level,Yes,No,Yes,2,Pass
+1280,Amelia,Lewis,26,Female,Leeds,Artificial Intelligence,Statistics,9.8,84.0,76.0,82.1,57.0,Diploma,Yes,Yes,No,1,Pass
+1281,Daniel,Begum,27,Female,Glasgow,Computer Science,Web Development,7.6,85.3,100.0,,81.3,Bachelor's,No,Yes,No,2,Fail
+1282,James,Begum,21,Male,Glasgow,Data Science,Machine Learning,24.7,71.5,71.5,60.3,74.8,Diploma,Yes,Yes,Yes,4,Pass
+1283,Oliver,Wilson,20,Female,Nottingham,Cyber Security,Web Development,18.0,85.3,72.4,61.0,80.4,Diploma,Yes,Yes,No,3,Pass
+1284,James,Clarke,27,Female,Glasgow,Data Science,Python,16.9,90.1,87.8,51.8,95.9,PhD,Yes,Yes,No,6,Pass
+1285,Isabella,Wilson,26,Female,Liverpool,Artificial Intelligence,Python,15.5,87.9,55.1,87.3,79.9,Diploma,Yes,Yes,No,1,Pass
+1286,Yusuf,Khan,28,Male,Sheffield,Mathematics,Cloud Computing,6.0,90.8,71.7,53.5,64.2,GCSE,Yes,Yes,Yes,7,Pass
+1287,Arjun,Walker,29,Female,Manchester,Computer Science,Web Development,19.7,100.0,68.2,58.1,87.5,Master's,Yes,Yes,No,5,Pass
+1288,Maya,Jones,28,Male,Nottingham,Computer Science,Pandas,6.9,95.2,72.9,91.3,63.2,Master's,Yes,No,No,5,Pass
+1289,Leo,Patel,30,Male,Manchester,Data Science,Databases,13.7,84.9,87.7,60.3,74.3,A-level,Yes,Yes,No,4,Pass
+1290,Jack,Williams,22,Female,Manchester,Software Engineering,Python,2.2,69.9,83.3,66.8,53.9,PhD,Yes,No,No,4,Pass
+1291,Thomas,Jones,21,Male,Nottingham,Artificial Intelligence,Web Development,0.0,76.8,63.8,52.8,57.5,Diploma,Yes,No,No,3,Pass
+1292,Daniel,Lewis,20,Female,Nottingham,Cyber Security,Cloud Computing,13.9,81.4,77.1,84.2,72.7,GCSE,Yes,No,No,4,Pass
+1293,Grace,Taylor,19,Female,Birmingham,Computer Science,Machine Learning,7.1,87.0,97.4,84.4,77.2,A-level,Yes,No,No,3,Pass
+1294,Hamza,Khan,27,Male,Glasgow,Software Engineering,Machine Learning,0.1,78.3,62.5,82.6,48.2,Master's,Yes,No,No,4,Pass
+1295,Leo,Rahman,26,Male,Liverpool,Computer Science,Pandas,15.2,72.8,77.2,79.1,79.0,A-level,Yes,No,Yes,3,Pass
+1296,Layla,Shah,28,Female,Glasgow,Software Engineering,Databases,24.7,69.7,72.1,71.3,60.5,Diploma,Yes,No,No,2,Pass
+1297,William,Ali,18,Male,London,Computer Science,Machine Learning,20.3,64.2,74.1,61.1,89.9,Master's,Yes,No,No,4,Pass
+1298,Isabella,Davies,23,Female,Cardiff,Mathematics,Pandas,10.5,81.2,50.5,56.1,67.1,PhD,Yes,Yes,No,4,Pass
+1299,Daniel,Shah,19,Male,Leeds,Data Science,Databases,12.1,66.4,96.2,91.9,56.3,Diploma,Yes,No,No,2,Pass
+1300,Aarav,Khan,29,Male,Nottingham,Data Science,Cloud Computing,17.3,72.0,63.4,83.0,73.1,PhD,Yes,No,No,2,Pass
+1301,Hana,Hussain,20,Male,London,Artificial Intelligence,Cloud Computing,18.7,79.3,90.4,58.2,59.2,A-level,Yes,Yes,No,2,Pass
+1302,Usman,Taylor,18,Male,Liverpool,Computer Science,Machine Learning,9.9,68.0,65.7,70.7,89.8,PhD,Yes,Yes,No,2,Pass
+1303,Aarav,Davies,24,Female,Leeds,Computer Science,Algorithms,12.2,88.6,65.6,64.9,72.0,A-level,Yes,No,No,0,Pass
+1304,Zayn,Lewis,29,Male,Bristol,Cyber Security,Pandas,13.8,92.9,93.2,50.8,69.9,GCSE,Yes,No,No,3,Pass
+1305,Leo,Williams,29,Male,Manchester,Data Science,Algorithms,15.3,77.4,89.9,73.0,80.3,Master's,Yes,Yes,No,7,Pass
+1306,Anaya,Davies,17,Male,Nottingham,Artificial Intelligence,Machine Learning,11.2,78.8,78.1,62.9,57.9,Master's,Yes,Yes,Yes,5,Pass
+1307,Fatima,Ali,20,Female,Birmingham,Software Engineering,Statistics,11.3,90.4,86.4,53.8,54.0,PhD,No,Yes,No,4,Pass
+1308,Maya,Jones,18,Female,Glasgow,Computer Science,Pandas,20.3,75.4,70.7,44.9,77.7,PhD,Yes,No,No,1,Pass
+1309,Fatima,Taylor,20,Female,London,Artificial Intelligence,Cloud Computing,19.3,74.6,74.9,43.4,56.6,GCSE,Yes,No,No,6,Pass
+1310,Ahmed,Lewis,24,Female,Bristol,Data Science,Machine Learning,14.9,98.4,65.1,63.7,56.6,Bachelor's,Yes,No,No,2,Pass
+1311,Oliver,Shah,20,Female,Liverpool,Artificial Intelligence,Cloud Computing,22.3,94.6,88.6,68.6,83.7,Master's,Yes,Yes,No,3,Pass
+1312,Oliver,Brown,17,Female,Liverpool,Data Science,Python,9.7,91.2,64.6,,79.4,Bachelor's,Yes,Yes,No,3,Fail
+1313,Ahmed,Hussain,23,Male,Manchester,Computer Science,Statistics,21.7,95.1,97.3,81.1,54.4,GCSE,Yes,No,No,3,Pass
+1314,Daniel,Lewis,16,Female,Birmingham,Computer Science,Pandas,15.3,60.3,70.3,68.9,63.3,GCSE,Yes,No,Yes,3,Pass
+1315,Charlotte,Walker,19,Male,Bristol,Mathematics,Algorithms,31.6,100.0,75.3,79.8,59.3,Master's,Yes,Yes,No,5,Pass
+1316,Oliver,Ali,16,Male,Sheffield,Computer Science,Databases,4.8,88.7,86.4,66.9,96.9,PhD,Yes,Yes,No,1,Pass
+1317,Omar,Begum,17,Male,Sheffield,Software Engineering,Web Development,7.9,96.1,75.4,56.6,84.7,A-level,Yes,Yes,No,4,Pass
+1318,Omar,Malik,22,Female,Leeds,Mathematics,Algorithms,14.5,88.6,70.5,71.9,66.1,GCSE,Yes,No,No,4,Pass
+1319,Yusuf,Taylor,28,Male,Glasgow,Artificial Intelligence,Statistics,14.4,84.6,74.5,48.5,80.1,Diploma,Yes,No,No,1,Pass
+1320,Sofia,Wilson,27,Male,Manchester,Data Science,Python,23.7,80.7,88.4,79.2,53.0,A-level,Yes,Yes,No,3,Pass
+1321,Hamza,Patel,17,Male,Birmingham,Software Engineering,Pandas,8.0,88.4,65.1,54.1,62.6,PhD,Yes,No,No,3,Pass
+1322,Ahmed,Ali,16,Male,Nottingham,Mathematics,Pandas,17.4,80.3,73.1,85.6,73.5,PhD,Yes,No,No,7,Pass
+1323,Mohammed,Shah,21,Male,Cardiff,Computer Science,Algorithms,19.0,94.4,75.2,64.2,78.3,Bachelor's,Yes,No,No,3,Pass
+1324,Zayn,Lewis,25,Male,Birmingham,Mathematics,Algorithms,16.2,65.0,88.0,88.1,70.6,PhD,Yes,Yes,Yes,4,Pass
+1325,Emily,Lewis,27,Male,Liverpool,Mathematics,Databases,6.2,77.5,73.5,50.9,75.5,A-level,Yes,Yes,Yes,1,Pass
+1326,Bilal,Smith,28,Female,Birmingham,Computer Science,Algorithms,20.4,100.0,100.0,58.5,73.1,PhD,Yes,No,Yes,4,Pass
+1327,Bilal,Davies,21,Male,Sheffield,Computer Science,Pandas,19.4,76.5,72.7,76.5,69.7,Diploma,Yes,No,No,1,Pass
+1328,Aisha,Ahmed,18,Male,Manchester,Software Engineering,Web Development,15.6,81.1,71.4,89.9,67.9,Diploma,Yes,No,Yes,4,Pass
+1329,Anaya,Davies,16,Male,Leeds,Computer Science,Databases,13.2,73.4,72.4,98.3,66.0,GCSE,Yes,No,No,5,Pass
+1330,Maya,Brown,18,Male,Bristol,Cyber Security,Pandas,13.4,88.0,55.3,70.7,75.2,A-level,Yes,Yes,No,4,Pass
+1331,Leo,Taylor,16,Female,Sheffield,Computer Science,Machine Learning,11.5,75.2,59.4,100.0,77.8,A-level,Yes,Yes,No,6,Pass
+1332,Hassan,Begum,28,Prefer not to say,Nottingham,Software Engineering,Databases,15.8,81.8,67.0,65.1,74.8,Diploma,Yes,Yes,No,6,Pass
+1333,Fatima,Taylor,20,Female,Birmingham,Data Science,Machine Learning,12.2,94.2,92.0,88.7,55.5,A-level,No,No,No,2,Pass
+1334,Usman,Clarke,28,Female,Nottingham,Computer Science,Pandas,6.9,75.6,74.5,54.0,58.0,GCSE,Yes,Yes,Yes,2,Pass
+1335,Jack,Shah,24,Female,Cardiff,Computer Science,Machine Learning,5.7,93.5,67.7,77.1,77.6,Bachelor's,Yes,No,No,8,Pass
+1336,Thomas,Rahman,24,Female,London,Data Science,Pandas,7.5,93.9,93.4,30.2,92.6,PhD,Yes,No,No,2,Fail
+1337,Grace,Williams,22,Female,Glasgow,Cyber Security,Algorithms,13.3,,98.3,50.9,74.1,GCSE,Yes,No,No,6,Pass
+1338,Hamza,Ali,28,Female,Sheffield,Computer Science,Databases,11.8,85.7,93.8,77.9,66.2,Bachelor's,Yes,No,No,4,Pass
+1339,Ava,Hussain,16,Male,Birmingham,Software Engineering,Python,13.3,100.0,62.2,47.7,75.1,PhD,Yes,No,Yes,0,Pass
+1340,Grace,Taylor,17,Male,Bristol,Cyber Security,Statistics,15.0,96.7,67.6,77.3,56.1,Diploma,Yes,Yes,No,3,Pass
+1341,Noah,Shah,22,Female,Birmingham,Data Science,Algorithms,8.2,87.9,100.0,85.4,90.3,A-level,Yes,No,Yes,8,Pass
+1342,Fatima,Patel,21,Male,Cardiff,Mathematics,Machine Learning,20.8,73.5,78.6,61.5,74.6,GCSE,Yes,Yes,No,2,Pass
+1343,Mohammed,Patel,24,Female,Sheffield,Cyber Security,Cloud Computing,10.4,82.8,71.0,53.5,62.6,PhD,Yes,Yes,Yes,2,Pass
+1344,Layla,Malik,27,Male,Bristol,Software Engineering,Statistics,9.4,100.0,85.8,61.9,69.7,Diploma,Yes,No,No,3,Pass
+1345,Zayn,Smith,24,Female,Manchester,Data Science,Web Development,14.9,100.0,90.1,53.6,64.6,GCSE,No,No,Yes,2,Pass
+1346,Charlotte,Rahman,19,Male,Birmingham,Software Engineering,Machine Learning,1.0,100.0,66.4,68.3,90.4,PhD,Yes,Yes,Yes,4,Pass
+1347,Emily,Lewis,20,Female,Bristol,Cyber Security,Python,7.3,93.4,78.3,71.7,69.2,Master's,Yes,Yes,Yes,0,Pass
+1348,Yusuf,Begum,27,Male,Bristol,Mathematics,Machine Learning,17.9,68.9,88.9,64.8,74.2,Master's,Yes,Yes,No,10,Pass
+1349,Arjun,Begum,19,Female,Birmingham,Artificial Intelligence,Algorithms,1.6,89.8,57.6,98.5,80.0,GCSE,Yes,No,No,2,Pass
+1350,Arjun,Malik,23,Male,Sheffield,Software Engineering,Cloud Computing,18.7,,75.2,57.8,61.6,GCSE,Yes,No,No,4,Pass
+1351,Leo,Ahmed,24,Female,Manchester,Artificial Intelligence,Cloud Computing,21.1,66.2,58.3,93.7,74.7,A-level,Yes,Yes,No,5,Pass
+1352,Aisha,Wilson,27,Male,Sheffield,Computer Science,Algorithms,9.8,86.9,60.2,52.3,75.8,GCSE,Yes,No,No,3,Pass
+1353,Fatima,Singh,26,Male,Leeds,Computer Science,Machine Learning,13.8,90.3,66.6,71.2,50.2,Bachelor's,Yes,No,Yes,5,Pass
+1354,Isabella,Walker,22,Male,Bristol,Mathematics,Machine Learning,18.7,94.8,82.2,90.1,75.5,Diploma,No,No,No,8,Pass
+1355,Grace,Jones,20,Male,Glasgow,Software Engineering,Algorithms,,90.0,70.2,89.2,71.4,Master's,Yes,Yes,No,0,Pass
+1356,Emily,Singh,21,Prefer not to say,Nottingham,Artificial Intelligence,Statistics,17.2,90.4,65.3,62.9,73.8,GCSE,Yes,No,Yes,5,Pass
+1357,Anaya,Brown,22,Female,Cardiff,Software Engineering,Machine Learning,8.0,72.2,75.8,79.4,72.5,Master's,Yes,Yes,Yes,2,Pass
+1358,Zara,Patel,19,Female,Glasgow,Computer Science,Machine Learning,9.1,82.7,57.8,77.2,75.6,PhD,Yes,Yes,Yes,1,Pass
+1359,Amelia,Patel,25,Female,London,Computer Science,Algorithms,7.2,65.9,81.4,60.8,90.7,GCSE,Yes,Yes,No,3,Pass
+1360,Sara,Wilson,19,Female,Birmingham,Cyber Security,Python,14.1,60.0,92.0,80.5,55.5,Bachelor's,Yes,Yes,Yes,8,Pass
+1361,William,Ahmed,25,Male,Cardiff,Cyber Security,Python,,92.9,73.8,100.0,67.2,Bachelor's,Yes,No,No,2,Pass
+1362,Zara,Ahmed,27,Prefer not to say,Nottingham,Mathematics,Web Development,10.9,75.0,72.0,78.0,81.3,GCSE,Yes,Yes,No,3,Pass
+1363,Bilal,Wilson,30,Prefer not to say,Sheffield,Software Engineering,Python,4.4,94.5,80.6,79.6,78.7,A-level,Yes,Yes,Yes,1,Pass
+1364,Zara,Jones,17,Male,Nottingham,Data Science,Pandas,5.5,97.3,44.6,81.4,78.4,Master's,No,Yes,No,3,Pass
+1365,Ahmed,Malik,27,Male,Manchester,Software Engineering,Algorithms,14.4,76.6,83.1,45.2,100.0,PhD,Yes,Yes,Yes,1,Pass
+1366,Layla,Khan,17,Male,Leeds,Artificial Intelligence,Databases,23.1,91.1,100.0,77.8,80.6,Diploma,Yes,No,Yes,4,Pass
+1367,Jack,Brown,21,Male,London,Software Engineering,Web Development,14.4,76.1,73.2,52.7,87.8,GCSE,No,Yes,No,0,Pass
+1368,Hamza,Singh,18,Female,Sheffield,Data Science,Databases,9.7,61.8,73.2,60.0,67.7,A-level,Yes,Yes,Yes,4,Pass
+1369,Aarav,Rahman,18,Male,Cardiff,Computer Science,Python,16.6,,86.2,100.0,58.1,PhD,Yes,No,Yes,1,Pass
+1370,Sofia,Williams,18,Male,Manchester,Computer Science,Pandas,10.6,78.3,99.7,,67.6,Bachelor's,Yes,Yes,No,5,Fail
+1371,Hamza,Lewis,16,Female,Glasgow,Mathematics,Cloud Computing,9.7,78.7,89.6,57.4,82.0,Diploma,Yes,No,No,5,Pass
+1372,Oliver,Brown,28,Female,Glasgow,Computer Science,Python,6.2,100.0,42.7,89.6,77.7,GCSE,Yes,No,No,1,Pass
+1373,Hina,Taylor,16,Prefer not to say,Birmingham,Mathematics,Statistics,20.5,65.7,83.5,53.9,77.6,Master's,Yes,No,Yes,1,Pass
+1374,Hassan,Taylor,21,Prefer not to say,Manchester,Software Engineering,Machine Learning,,,100.0,62.4,69.0,Diploma,Yes,No,No,3,Pass
+1375,Zara,Lewis,26,Male,Glasgow,Computer Science,Machine Learning,16.8,72.1,84.3,91.2,66.8,Bachelor's,Yes,Yes,No,4,Pass
+1376,Amelia,Rahman,30,Male,Cardiff,Mathematics,Algorithms,9.2,94.9,57.7,70.7,69.5,PhD,Yes,No,Yes,7,Pass
+1377,Omar,Rahman,28,Female,Leeds,Computer Science,Statistics,9.5,87.6,79.2,43.5,82.1,Bachelor's,Yes,No,No,5,Pass
+1378,Sara,Hussain,18,Female,Manchester,Computer Science,Statistics,22.2,88.6,55.8,79.2,83.8,PhD,Yes,Yes,Yes,4,Pass
+1379,Hassan,Shah,30,Male,Bristol,Cyber Security,Machine Learning,7.7,72.7,93.5,63.3,57.9,Bachelor's,Yes,No,No,4,Pass
+1380,Charlotte,Shah,25,Male,Sheffield,Data Science,Databases,7.9,74.8,60.7,96.2,82.7,Diploma,Yes,Yes,No,2,Pass
+1381,Aarav,Rahman,18,Male,Leeds,Data Science,Web Development,,95.1,76.1,59.7,62.9,PhD,Yes,No,No,7,Pass
+1382,Yusuf,Ali,22,Male,Liverpool,Data Science,Python,14.5,100.0,62.1,87.9,78.6,Bachelor's,Yes,No,No,3,Pass
+1383,Grace,Brown,29,Female,Birmingham,Cyber Security,Pandas,9.3,89.8,66.8,100.0,69.3,Master's,Yes,Yes,No,5,Pass
+1384,Charlotte,Lewis,21,Male,Birmingham,Computer Science,Statistics,2.6,73.2,97.3,55.5,93.9,A-level,Yes,No,Yes,3,Pass
+1385,Aisha,Wilson,18,Female,London,Data Science,Statistics,6.8,88.1,76.6,66.7,66.1,Master's,Yes,No,No,3,Pass
+1386,Ahmed,Jones,29,Female,Nottingham,Cyber Security,Python,19.7,100.0,66.6,76.6,74.5,Bachelor's,Yes,No,Yes,5,Pass
+1387,Ali,Malik,30,Female,Manchester,Artificial Intelligence,Cloud Computing,12.4,85.2,57.8,55.4,80.5,GCSE,Yes,Yes,Yes,4,Pass
+1388,Usman,Brown,30,Female,Liverpool,Software Engineering,Statistics,14.7,100.0,46.9,74.6,59.8,A-level,Yes,No,Yes,6,Pass
+1389,Zara,Lewis,30,Male,Bristol,Data Science,Pandas,10.4,75.1,56.2,66.2,71.0,PhD,No,No,No,7,Pass
+1390,Anaya,Walker,29,Female,Nottingham,Cyber Security,Cloud Computing,8.0,83.5,76.7,65.8,68.3,Bachelor's,Yes,Yes,No,2,Pass
+1391,Sara,Brown,22,Female,Leeds,Software Engineering,Algorithms,22.1,91.4,89.7,70.8,64.8,Master's,Yes,No,No,3,Pass
+1392,Arjun,Shah,18,Male,Leeds,Artificial Intelligence,Databases,10.9,88.8,66.6,71.2,65.8,A-level,Yes,No,No,2,Pass
+1393,Hana,Rahman,25,Male,Nottingham,Data Science,Machine Learning,9.3,74.8,98.6,,87.6,A-level,Yes,No,Yes,3,Fail
+1394,Mia,Begum,19,Female,Nottingham,Cyber Security,Machine Learning,18.6,74.3,64.2,59.8,63.6,PhD,Yes,No,No,4,Pass
+1395,Omar,Jones,23,Female,Sheffield,Cyber Security,Statistics,7.7,95.9,71.4,60.6,79.9,Diploma,Yes,Yes,Yes,1,Pass
+1396,Zara,Malik,25,Female,London,Computer Science,Python,8.4,98.3,58.8,68.0,76.4,PhD,No,No,No,4,Pass
+1397,Aisha,Williams,30,Male,Liverpool,Cyber Security,Databases,12.1,100.0,89.9,69.2,52.4,Master's,Yes,No,Yes,2,Pass
+1398,Ava,Davies,20,Female,Birmingham,Computer Science,Python,12.0,100.0,100.0,62.5,79.3,Diploma,Yes,Yes,No,4,Pass
+1399,Daniel,Khan,19,Female,Liverpool,Cyber Security,Python,13.6,85.6,48.6,75.5,52.2,PhD,Yes,Yes,No,1,Pass
+1400,Fatima,Ali,27,Female,Nottingham,Mathematics,Databases,24.6,80.3,69.8,39.1,80.8,Master's,Yes,Yes,No,3,Fail
+1401,Emily,Lewis,16,Male,Nottingham,Cyber Security,Web Development,14.0,100.0,94.0,57.6,64.9,GCSE,Yes,No,Yes,2,Pass
+1402,Sofia,Jones,24,Female,Cardiff,Software Engineering,Algorithms,0.0,92.6,53.3,65.2,72.1,GCSE,Yes,Yes,Yes,4,Pass
+1403,Hamza,Ali,27,Male,Cardiff,Data Science,Python,14.0,72.2,83.5,55.4,53.9,GCSE,Yes,No,No,2,Pass
+1404,Grace,Brown,24,Female,Sheffield,Mathematics,Pandas,12.2,71.6,93.3,97.7,73.7,Master's,Yes,No,No,5,Pass
+1405,James,Smith,21,Male,London,Software Engineering,Databases,12.3,89.9,76.2,70.3,85.0,GCSE,No,No,Yes,2,Pass
+1406,Layla,Smith,28,Female,Birmingham,Mathematics,Statistics,13.5,81.9,83.3,73.0,60.7,A-level,Yes,Yes,No,9,Pass
+1407,Isabella,Brown,21,Female,Glasgow,Software Engineering,Algorithms,11.8,83.7,100.0,61.8,63.5,Diploma,Yes,No,No,3,Pass
+1408,Anaya,Lewis,26,Female,Nottingham,Cyber Security,Web Development,11.7,96.9,100.0,69.7,78.4,GCSE,No,Yes,No,3,Pass
+1409,Yusuf,Khan,22,Male,Sheffield,Cyber Security,Statistics,15.7,93.1,74.1,49.3,78.7,A-level,Yes,No,No,2,Pass
+1410,Aarav,Ali,16,Male,Glasgow,Mathematics,Python,,100.0,67.0,67.1,37.9,Master's,Yes,Yes,No,1,Pass
+1411,Arjun,Ahmed,23,Female,London,Mathematics,Python,6.3,60.8,61.2,54.1,100.0,PhD,Yes,No,No,5,Pass
+1412,Bilal,Malik,16,Female,Bristol,Artificial Intelligence,Pandas,30.1,87.0,89.7,65.3,79.4,Diploma,Yes,Yes,Yes,2,Pass
+1413,Daniel,Ali,29,Male,Sheffield,Computer Science,Web Development,7.7,92.3,54.4,26.5,81.8,Master's,Yes,Yes,No,3,Fail
+1414,Anaya,Hussain,25,Male,Nottingham,Computer Science,Machine Learning,12.6,65.7,71.2,50.8,70.0,Bachelor's,Yes,No,No,4,Pass
+1415,Aarav,Malik,21,Female,Birmingham,Data Science,Pandas,3.0,76.1,76.5,94.9,46.0,Diploma,Yes,Yes,Yes,3,Pass
+1416,Oliver,Hussain,23,Female,Manchester,Computer Science,Web Development,12.7,73.9,67.5,84.1,81.4,Bachelor's,No,No,No,4,Pass
+1417,Grace,Williams,25,Male,Birmingham,Data Science,Cloud Computing,6.4,84.3,79.2,92.4,64.1,PhD,No,No,No,7,Pass
+1418,Ahmed,Taylor,19,Male,Leeds,Computer Science,Databases,9.3,100.0,100.0,93.6,79.6,GCSE,Yes,Yes,No,3,Pass
+1419,Fatima,Lewis,20,Male,Sheffield,Mathematics,Algorithms,18.3,100.0,73.2,81.4,68.9,Bachelor's,Yes,Yes,No,2,Pass
+1420,Layla,Singh,22,Male,Cardiff,Computer Science,Web Development,14.8,74.2,68.5,62.3,75.3,GCSE,Yes,No,No,1,Pass
+1421,Yusuf,Walker,19,Male,Nottingham,Cyber Security,Web Development,15.4,90.3,90.2,52.4,61.2,PhD,Yes,No,No,0,Pass
+1422,Olivia,Rahman,27,Female,Liverpool,Artificial Intelligence,Cloud Computing,1.4,90.7,78.6,89.5,84.1,Bachelor's,Yes,No,Yes,1,Pass
+1423,Sofia,Malik,17,Female,London,Data Science,Pandas,23.0,88.7,96.6,71.1,55.4,GCSE,Yes,Yes,No,4,Pass
+1424,Mia,Davies,28,Female,Manchester,Software Engineering,Cloud Computing,4.8,88.8,77.5,100.0,100.0,Bachelor's,Yes,No,No,3,Pass
+1425,Hina,Ali,21,Female,Birmingham,Mathematics,Algorithms,21.2,,71.3,63.8,100.0,Diploma,Yes,Yes,Yes,1,Pass
+1426,Ava,Clarke,24,Female,Manchester,Software Engineering,Algorithms,18.1,100.0,48.2,100.0,94.9,GCSE,Yes,No,Yes,3,Pass
+1427,William,Davies,18,Female,Nottingham,Mathematics,Statistics,15.5,97.2,50.7,67.3,89.9,PhD,Yes,No,No,2,Pass
+1428,Thomas,Walker,21,Male,Leeds,Cyber Security,Cloud Computing,6.9,71.3,47.5,92.7,70.8,Diploma,Yes,No,No,4,Pass
+1429,Aarav,Ali,27,Female,London,Software Engineering,Algorithms,12.9,93.5,80.7,98.8,88.3,GCSE,Yes,Yes,No,2,Pass
+1430,Omar,Hussain,20,Female,Nottingham,Computer Science,Cloud Computing,9.2,94.7,54.6,52.6,70.7,Bachelor's,No,Yes,No,8,Pass
+1431,Amelia,Singh,17,Male,Liverpool,Mathematics,Algorithms,12.2,87.8,93.8,61.8,50.3,Diploma,Yes,Yes,No,2,Pass
+1432,Sara,Smith,23,Male,Manchester,Software Engineering,Cloud Computing,10.5,97.6,75.5,52.4,93.0,Bachelor's,Yes,Yes,No,2,Pass
+1433,Usman,Smith,18,Male,Birmingham,Data Science,Databases,0.0,86.3,71.3,49.1,87.8,GCSE,Yes,Yes,Yes,5,Pass
+1434,Ahmed,Malik,20,Male,Sheffield,Artificial Intelligence,Web Development,18.7,86.4,62.3,81.3,71.6,Master's,Yes,No,Yes,1,Pass
+1435,Isabella,Brown,22,Male,Sheffield,Cyber Security,Databases,11.5,85.5,84.3,66.7,54.8,Diploma,Yes,Yes,No,3,Pass
+1436,Ahmed,Patel,24,Female,Liverpool,Computer Science,Cloud Computing,9.1,59.8,62.9,70.9,63.8,Diploma,Yes,Yes,No,1,Pass
+1437,Maya,Taylor,25,Female,Bristol,Software Engineering,Cloud Computing,8.6,83.0,60.2,79.5,46.5,Master's,Yes,No,No,4,Pass
+1438,Yusuf,Davies,26,Male,London,Data Science,Algorithms,14.2,76.0,92.8,38.4,85.2,Bachelor's,Yes,Yes,No,2,Fail
+1439,Amelia,Brown,28,Female,Bristol,Computer Science,Statistics,6.6,69.8,80.3,91.9,49.6,GCSE,Yes,Yes,No,2,Pass
+1440,Hina,Rahman,16,Female,Sheffield,Data Science,Databases,0.0,100.0,71.5,64.1,76.0,Bachelor's,Yes,No,No,6,Pass
+1441,Grace,Hussain,21,Female,Sheffield,Mathematics,Pandas,14.4,90.1,84.6,79.1,60.2,Bachelor's,No,Yes,No,2,Pass
+1442,Fatima,Shah,16,Female,Sheffield,Data Science,Web Development,15.1,83.6,75.1,80.6,52.0,A-level,Yes,Yes,Yes,2,Pass
+1443,Anaya,Walker,16,Female,Liverpool,Cyber Security,Statistics,10.8,77.2,80.7,93.3,75.3,A-level,Yes,No,No,4,Pass
+1444,James,Taylor,19,Female,Nottingham,Software Engineering,Statistics,5.1,87.6,62.7,68.2,67.3,GCSE,Yes,Yes,No,4,Pass
+1445,Layla,Patel,24,Male,Manchester,Computer Science,Web Development,12.5,95.9,100.0,33.9,83.7,PhD,Yes,Yes,No,1,Fail
+1446,Oliver,Khan,29,Male,Birmingham,Software Engineering,Cloud Computing,3.2,,66.3,71.0,54.3,GCSE,Yes,Yes,No,1,Pass
+1447,Fatima,Walker,27,Female,Cardiff,Data Science,Pandas,5.8,83.9,98.3,73.4,61.4,Bachelor's,No,Yes,No,5,Pass
+1448,Grace,Rahman,25,Male,Bristol,Software Engineering,Databases,7.5,94.4,72.2,52.4,38.6,PhD,Yes,No,Yes,3,Pass
+1449,Layla,Begum,27,Female,Bristol,Data Science,Web Development,17.1,60.8,87.1,72.5,41.4,Diploma,No,Yes,No,3,Pass
+1450,Daniel,Patel,18,Male,Leeds,Computer Science,Cloud Computing,9.8,83.3,86.0,63.9,97.2,A-level,Yes,Yes,Yes,2,Pass
+1451,Grace,Ali,28,Male,Manchester,Software Engineering,Cloud Computing,9.3,78.8,92.2,47.2,100.0,Master's,Yes,Yes,No,6,Pass
+1452,Yusuf,Khan,29,Female,Glasgow,Software Engineering,Cloud Computing,23.7,82.4,62.4,81.4,73.3,Bachelor's,Yes,No,No,3,Pass
+1453,James,Ahmed,17,Male,Nottingham,Mathematics,Cloud Computing,14.1,78.0,91.1,60.4,60.5,GCSE,Yes,Yes,Yes,3,Pass
+1454,Aarav,Jones,23,Prefer not to say,Glasgow,Software Engineering,Algorithms,14.0,85.7,100.0,63.1,67.8,Bachelor's,Yes,No,No,5,Pass
+1455,Mia,Malik,28,Male,Birmingham,Artificial Intelligence,Statistics,9.8,100.0,71.1,62.1,84.2,GCSE,Yes,Yes,Yes,3,Pass
+1456,Maya,Ahmed,23,Prefer not to say,Leeds,Data Science,Pandas,8.4,80.1,75.5,91.0,64.8,Diploma,Yes,No,No,0,Pass
+1457,Anaya,Rahman,28,Male,Leeds,Data Science,Statistics,0.0,87.5,67.1,69.3,75.3,A-level,Yes,Yes,No,1,Pass
+1458,Noah,Singh,30,Female,Birmingham,Cyber Security,Web Development,17.8,100.0,69.8,71.3,71.8,PhD,Yes,Yes,No,4,Pass
+1459,Usman,Ali,23,Male,Sheffield,Artificial Intelligence,Python,14.7,77.4,100.0,62.5,64.0,PhD,Yes,Yes,No,5,Pass
+1460,Ahmed,Shah,16,Male,Nottingham,Artificial Intelligence,Cloud Computing,10.9,100.0,59.9,77.9,64.6,Master's,Yes,Yes,Yes,3,Pass
+1461,Omar,Hussain,21,Male,Nottingham,Data Science,Statistics,11.2,84.1,60.9,92.9,76.1,Master's,Yes,No,No,3,Pass
+1462,Anaya,Brown,19,Female,London,Artificial Intelligence,Algorithms,16.4,100.0,99.2,81.0,58.3,GCSE,Yes,No,No,4,Pass
+1463,Sara,Khan,23,Male,Glasgow,Data Science,Pandas,2.7,93.0,84.4,81.7,78.3,GCSE,Yes,No,No,2,Pass
+1464,Hina,Ahmed,24,Female,Manchester,Computer Science,Algorithms,8.5,87.7,100.0,80.3,65.4,Master's,Yes,Yes,No,6,Pass
+1465,Aarav,Lewis,22,Male,Leeds,Computer Science,Databases,5.2,83.2,68.2,46.5,73.8,Diploma,No,No,No,8,Pass
+1466,Grace,Patel,18,Female,Sheffield,Cyber Security,Statistics,22.6,76.5,76.9,55.1,91.4,Bachelor's,Yes,Yes,No,0,Pass
+1467,Arjun,Williams,20,Male,London,Artificial Intelligence,Web Development,17.3,84.9,65.1,66.5,69.6,Master's,Yes,No,No,2,Pass
+1468,Mia,Wilson,26,Male,Birmingham,Computer Science,Statistics,0.0,94.8,77.1,57.7,84.9,Diploma,Yes,No,No,2,Pass
+1469,Arjun,Hussain,16,Female,Sheffield,Cyber Security,Algorithms,2.9,83.8,48.4,51.9,46.9,Master's,Yes,No,Yes,5,Pass
+1470,Yusuf,Ahmed,19,Male,Manchester,Computer Science,Pandas,11.2,80.2,85.3,38.2,65.4,Master's,Yes,No,Yes,1,Fail
+1471,Sara,Lewis,29,Female,Sheffield,Computer Science,Web Development,9.2,81.0,79.9,47.1,72.4,A-level,Yes,No,No,4,Pass
+1472,Thomas,Davies,17,Prefer not to say,Bristol,Computer Science,Algorithms,4.1,95.9,74.1,65.6,98.9,Master's,Yes,No,No,7,Pass
+1473,Isabella,Taylor,22,Male,Glasgow,Artificial Intelligence,Pandas,23.7,98.7,69.1,68.8,44.6,A-level,Yes,Yes,Yes,2,Pass
+1474,Jack,Jones,19,Female,Leeds,Mathematics,Machine Learning,13.9,76.0,61.6,56.5,70.7,A-level,Yes,No,No,1,Pass
+1475,Noah,Rahman,17,Female,London,Data Science,Databases,14.8,76.0,85.9,71.3,92.4,Master's,Yes,Yes,No,1,Pass
+1476,Sofia,Brown,22,Female,Sheffield,Data Science,Web Development,7.8,88.6,57.4,62.6,61.0,PhD,Yes,Yes,No,4,Pass
+1477,William,Singh,23,Female,Manchester,Data Science,Algorithms,16.3,100.0,82.7,88.5,69.0,GCSE,Yes,No,No,2,Pass
+1478,Aarav,Wilson,18,Male,Glasgow,Artificial Intelligence,Cloud Computing,9.7,97.8,100.0,67.3,76.6,Bachelor's,Yes,Yes,No,7,Pass
+1479,Oliver,Jones,17,Male,London,Software Engineering,Cloud Computing,10.3,69.0,97.3,81.8,74.6,Bachelor's,No,No,Yes,4,Pass
+1480,Ahmed,Taylor,18,Female,Sheffield,Data Science,Databases,15.7,80.8,52.4,73.5,93.9,Bachelor's,Yes,Yes,No,2,Pass
+1481,Daniel,Smith,25,Male,Liverpool,Cyber Security,Web Development,2.2,72.8,66.9,46.2,78.3,Master's,Yes,Yes,No,1,Pass
+1482,Usman,Khan,28,Female,London,Mathematics,Pandas,21.6,80.8,81.3,68.5,90.6,GCSE,No,No,Yes,1,Pass
+1483,Charlotte,Ali,18,Male,Birmingham,Mathematics,Databases,13.1,100.0,73.9,49.0,67.0,Master's,Yes,Yes,No,5,Pass
+1484,Thomas,Patel,20,Female,Nottingham,Cyber Security,Pandas,19.7,66.9,54.0,68.2,61.6,A-level,No,No,No,6,Pass
+1485,Jack,Taylor,21,Male,Sheffield,Software Engineering,Python,5.5,64.6,80.8,57.3,68.8,GCSE,Yes,No,No,3,Pass
+1486,Bilal,Lewis,21,Male,Leeds,Mathematics,Cloud Computing,6.5,74.1,74.8,76.5,55.8,Diploma,Yes,No,No,5,Pass
+1487,Hamza,Smith,19,Female,Manchester,Software Engineering,Cloud Computing,5.0,87.4,100.0,47.2,78.8,GCSE,Yes,Yes,No,7,Pass
+1488,Leo,Khan,16,Male,Glasgow,Data Science,Statistics,13.5,91.4,71.2,70.2,66.6,Bachelor's,Yes,No,No,2,Pass
+1489,Sofia,Patel,23,Prefer not to say,Nottingham,Computer Science,Python,12.4,89.2,92.5,79.7,62.6,Bachelor's,No,Yes,Yes,1,Pass
+1490,Mohammed,Shah,21,Female,Birmingham,Computer Science,Python,9.2,98.1,56.0,85.4,79.0,Bachelor's,Yes,Yes,No,3,Pass
+1491,Yusuf,Ali,21,Female,Bristol,Mathematics,Python,5.9,62.8,59.6,57.0,56.0,GCSE,Yes,Yes,Yes,5,Pass
+1492,William,Singh,19,Male,Glasgow,Cyber Security,Web Development,4.4,98.3,85.8,70.3,82.8,Master's,Yes,Yes,No,4,Pass
+1493,Sara,Khan,29,Female,Leeds,Data Science,Pandas,11.7,80.3,91.3,73.1,65.3,GCSE,Yes,Yes,No,0,Pass
+1494,Mia,Brown,25,Female,Manchester,Artificial Intelligence,Machine Learning,9.2,92.8,60.6,96.3,88.2,A-level,Yes,Yes,No,5,Pass
+1495,Fatima,Taylor,22,Female,Glasgow,Data Science,Cloud Computing,7.9,68.1,75.4,44.8,66.5,Diploma,Yes,Yes,Yes,6,Pass
+1496,Hina,Taylor,19,Male,Leeds,Software Engineering,Algorithms,21.3,84.1,54.3,54.5,80.8,Master's,Yes,No,No,6,Pass
+1497,Ahmed,Malik,28,Female,Glasgow,Cyber Security,Cloud Computing,11.5,86.8,72.3,100.0,74.5,Diploma,Yes,Yes,No,2,Pass
+1498,Hassan,Hussain,29,Female,Bristol,Mathematics,Machine Learning,19.6,97.9,87.6,65.4,82.4,Master's,No,Yes,No,2,Pass
+1499,Yusuf,Singh,16,Male,Liverpool,Data Science,Statistics,8.8,65.0,68.5,37.9,73.5,PhD,Yes,Yes,No,3,Fail
+1500,Isabella,Clarke,29,Male,London,Artificial Intelligence,Pandas,13.5,84.4,71.3,60.1,48.7,Master's,Yes,Yes,Yes,2,Pass
+1501,Ahmed,Shah,26,Male,Liverpool,Computer Science,Cloud Computing,11.7,71.0,58.1,22.9,86.1,GCSE,Yes,No,No,1,Fail
+1502,Noah,Ali,17,Female,Manchester,Mathematics,Python,1.8,90.1,65.3,74.1,70.8,Master's,Yes,No,No,2,Pass
+1503,Grace,Jones,27,Male,London,Cyber Security,Web Development,20.6,93.3,100.0,83.8,83.1,A-level,Yes,No,No,2,Pass
+1504,William,Brown,17,Male,Glasgow,Cyber Security,Statistics,11.2,99.4,76.1,54.5,81.7,PhD,Yes,No,Yes,2,Pass
+1505,Daniel,Malik,16,Female,Sheffield,Artificial Intelligence,Cloud Computing,16.5,77.6,60.0,62.0,61.2,PhD,Yes,Yes,No,3,Pass
+1506,Jack,Jones,17,Male,Nottingham,Data Science,Databases,,95.1,70.3,85.7,59.2,GCSE,Yes,No,No,6,Pass
+1507,Leo,Walker,22,Male,Leeds,Mathematics,Pandas,11.0,100.0,51.0,40.2,81.2,GCSE,Yes,Yes,No,4,Pass
+1508,Charlotte,Singh,25,Female,London,Artificial Intelligence,Cloud Computing,6.8,64.3,59.8,47.5,67.8,Master's,Yes,Yes,No,4,Pass
+1509,Daniel,Lewis,22,Female,Sheffield,Software Engineering,Web Development,19.4,91.3,95.4,66.1,85.1,GCSE,No,Yes,No,6,Pass
+1510,Bilal,Davies,17,Male,Nottingham,Computer Science,Databases,13.9,95.5,72.9,57.2,69.5,PhD,Yes,Yes,Yes,1,Pass
+1511,Emily,Brown,18,Female,Bristol,Data Science,Machine Learning,14.2,80.9,100.0,65.0,86.3,Bachelor's,Yes,No,No,3,Pass
+1512,Sara,Jones,28,Female,Glasgow,Software Engineering,Machine Learning,20.1,69.5,73.6,48.5,77.9,Bachelor's,Yes,Yes,No,3,Pass
+1513,Usman,Begum,30,Female,Liverpool,Computer Science,Databases,18.9,95.3,74.5,73.6,76.0,PhD,Yes,Yes,Yes,1,Pass
+1514,Usman,Brown,27,Female,Nottingham,Computer Science,Machine Learning,16.6,69.6,84.6,67.5,66.8,A-level,Yes,Yes,No,2,Pass
+1515,Grace,Jones,17,Female,Sheffield,Software Engineering,Machine Learning,3.5,81.9,34.9,79.3,75.3,Bachelor's,Yes,No,No,3,Pass
+1516,Ahmed,Walker,28,Male,Cardiff,Data Science,Machine Learning,,83.5,78.1,73.4,88.7,PhD,Yes,No,No,3,Pass
+1517,Zara,Singh,26,Female,Sheffield,Data Science,Python,6.0,92.6,74.3,73.5,71.2,GCSE,Yes,No,No,3,Pass
+1518,Ali,Khan,23,Female,Cardiff,Cyber Security,Algorithms,16.4,76.5,97.3,45.4,79.4,A-level,Yes,No,No,1,Pass
+1519,James,Singh,18,Male,Sheffield,Data Science,Pandas,13.0,75.8,89.5,78.4,72.6,GCSE,Yes,No,No,5,Pass
+1520,Mia,Singh,30,Female,Sheffield,Computer Science,Pandas,3.7,85.2,58.0,64.4,73.7,Diploma,Yes,Yes,No,7,Pass
+1521,Hana,Lewis,22,Male,Bristol,Computer Science,Pandas,10.9,96.1,93.6,67.2,96.1,GCSE,Yes,Yes,No,4,Pass
+1522,Anaya,Begum,16,Female,Cardiff,Computer Science,Algorithms,3.0,100.0,71.1,87.8,88.8,A-level,Yes,Yes,No,6,Pass
+1523,Ava,Smith,19,Female,Glasgow,Computer Science,Databases,11.7,65.9,61.4,57.8,73.1,PhD,Yes,Yes,No,3,Pass
+1524,Usman,Smith,22,Female,Liverpool,Software Engineering,Machine Learning,2.1,87.8,78.0,93.0,75.0,Diploma,Yes,No,No,1,Pass
+1525,Hamza,Williams,16,Female,Cardiff,Data Science,Databases,15.2,71.0,72.0,94.6,62.2,Diploma,Yes,Yes,Yes,2,Pass
+1526,Fatima,Khan,20,Female,Leeds,Computer Science,Python,14.3,96.2,98.1,82.8,69.6,Diploma,Yes,Yes,No,2,Pass
+1527,Yusuf,Brown,23,Male,Sheffield,Computer Science,Machine Learning,23.4,72.7,80.1,53.3,76.3,PhD,No,No,Yes,4,Pass
+1528,Anaya,Patel,30,Female,Birmingham,Artificial Intelligence,Pandas,17.1,75.9,78.1,32.8,83.9,Diploma,Yes,Yes,No,3,Fail
+1529,Zayn,Khan,17,Male,London,Mathematics,Cloud Computing,9.5,76.9,88.5,88.3,82.5,Diploma,Yes,Yes,No,4,Pass
+1530,Zayn,Walker,24,Male,London,Artificial Intelligence,Python,16.9,83.1,91.4,71.9,56.5,PhD,Yes,Yes,Yes,7,Pass
+1531,Mia,Ahmed,29,Female,Sheffield,Computer Science,Databases,3.6,87.9,86.8,57.3,85.7,GCSE,Yes,No,No,4,Pass
+1532,Arjun,Khan,28,Male,Liverpool,Data Science,Cloud Computing,6.2,89.8,96.3,90.0,70.8,Diploma,Yes,Yes,Yes,2,Pass
+1533,Anaya,Walker,29,Female,Sheffield,Artificial Intelligence,Cloud Computing,14.0,83.9,84.1,55.4,58.2,Master's,Yes,Yes,No,2,Pass
+1534,Daniel,Smith,18,Female,Bristol,Data Science,Statistics,0.0,68.0,77.5,62.8,90.7,Bachelor's,Yes,Yes,No,3,Pass
+1535,Maya,Clarke,28,Female,London,Mathematics,Pandas,11.8,92.7,93.6,78.9,92.5,PhD,Yes,No,No,1,Pass
+1536,Anaya,Khan,30,Male,Cardiff,Software Engineering,Machine Learning,5.9,83.4,73.6,51.1,75.7,PhD,Yes,Yes,No,3,Pass
+1537,Jack,Smith,20,Male,London,Artificial Intelligence,Pandas,12.6,97.9,75.5,68.1,81.9,Diploma,Yes,Yes,Yes,1,Pass
+1538,Ahmed,Patel,23,Female,Nottingham,Mathematics,Web Development,5.5,75.5,100.0,88.5,82.7,Master's,Yes,No,No,4,Pass
+1539,Leo,Begum,23,Male,Nottingham,Data Science,Machine Learning,14.5,64.8,99.3,73.6,91.5,A-level,Yes,No,No,6,Pass
+1540,Aarav,Williams,23,Male,Liverpool,Computer Science,Web Development,12.1,83.6,74.9,91.2,82.2,A-level,Yes,Yes,Yes,5,Pass
+1541,Olivia,Singh,20,Female,Manchester,Mathematics,Web Development,20.4,99.6,68.2,89.3,53.4,PhD,Yes,Yes,No,4,Pass
+1542,Ali,Jones,30,Male,Leeds,Mathematics,Algorithms,12.0,85.9,96.9,70.1,100.0,GCSE,Yes,Yes,Yes,0,Pass
+1543,Ava,Ahmed,30,Male,Manchester,Data Science,Machine Learning,7.4,81.6,87.0,30.3,86.9,Diploma,Yes,No,No,1,Fail
+1544,Arjun,Malik,21,Male,Glasgow,Cyber Security,Algorithms,10.5,73.6,79.7,51.2,64.9,Bachelor's,Yes,Yes,Yes,2,Pass
+1545,Usman,Jones,28,Prefer not to say,Manchester,Data Science,Databases,3.9,100.0,70.2,83.0,57.6,Diploma,Yes,No,No,1,Pass
+1546,Ali,Malik,21,Female,Nottingham,Cyber Security,Web Development,14.4,71.6,80.0,43.6,79.1,PhD,Yes,No,Yes,2,Pass
+1547,Isabella,Davies,27,Female,Leeds,Software Engineering,Web Development,15.5,75.3,74.7,64.4,68.1,A-level,No,No,Yes,5,Pass
+1548,Mia,Clarke,24,Male,London,Software Engineering,Cloud Computing,26.8,90.8,65.0,75.8,76.6,Bachelor's,Yes,Yes,No,2,Pass
+1549,Layla,Singh,23,Female,Manchester,Cyber Security,Databases,8.3,61.7,76.9,95.0,82.4,GCSE,Yes,No,No,3,Pass
+1550,Oliver,Khan,17,Female,Glasgow,Software Engineering,Cloud Computing,10.4,99.3,79.0,60.2,64.1,A-level,Yes,No,Yes,1,Pass
+1551,Thomas,Ali,25,Prefer not to say,Cardiff,Cyber Security,Machine Learning,8.5,91.5,69.4,59.1,56.4,A-level,Yes,No,No,2,Pass
+1552,Hassan,Lewis,20,Female,Birmingham,Software Engineering,Databases,13.3,94.8,88.6,69.1,77.4,Master's,Yes,Yes,No,5,Pass
+1553,Usman,Shah,19,Female,Cardiff,Data Science,Databases,14.3,90.7,94.3,76.0,64.5,A-level,Yes,No,No,4,Pass
+1554,Hamza,Williams,18,Male,Cardiff,Artificial Intelligence,Web Development,11.7,82.1,89.5,67.4,74.0,Master's,Yes,No,No,1,Pass
+1555,Emily,Singh,30,Female,Sheffield,Artificial Intelligence,Statistics,18.5,71.2,70.9,87.8,53.2,Diploma,Yes,No,No,2,Pass
+1556,Layla,Smith,17,Female,Sheffield,Cyber Security,Python,8.3,82.3,86.3,56.4,68.5,Bachelor's,Yes,No,No,7,Pass
+1557,Omar,Lewis,27,Prefer not to say,Leeds,Computer Science,Cloud Computing,17.9,72.3,76.2,72.0,82.0,PhD,Yes,Yes,No,4,Pass
+1558,Zara,Hussain,28,Female,Manchester,Data Science,Cloud Computing,15.2,89.8,56.5,77.6,80.5,PhD,Yes,Yes,No,1,Pass
+1559,Thomas,Rahman,16,Female,Sheffield,Mathematics,Python,11.9,93.7,85.1,63.2,61.0,GCSE,Yes,No,No,3,Pass
+1560,William,Lewis,24,Female,Leeds,Computer Science,Algorithms,10.1,100.0,77.2,84.3,55.6,Master's,Yes,No,No,4,Pass
+1561,Leo,Ali,24,Male,Bristol,Cyber Security,Web Development,26.6,88.5,100.0,72.5,72.2,PhD,Yes,No,No,3,Pass
+1562,Aisha,Ali,21,Female,Leeds,Cyber Security,Python,7.1,95.1,96.9,83.4,79.9,Master's,Yes,Yes,No,2,Pass
+1563,James,Jones,26,Male,Glasgow,Artificial Intelligence,Databases,13.8,80.4,85.7,73.3,77.7,A-level,Yes,Yes,No,2,Pass
+1564,Arjun,Walker,22,Female,Leeds,Computer Science,Cloud Computing,7.5,78.3,78.7,76.4,64.8,Bachelor's,Yes,No,No,5,Pass
+1565,Zara,Malik,22,Female,London,Computer Science,Machine Learning,22.7,89.7,77.5,59.2,76.2,Bachelor's,Yes,No,No,2,Pass
+1566,Bilal,Singh,22,Male,Cardiff,Data Science,Algorithms,17.3,79.4,59.9,59.3,93.0,Bachelor's,Yes,Yes,No,3,Pass
+1567,Bilal,Rahman,28,Male,Manchester,Computer Science,Databases,7.9,87.2,48.9,90.8,74.9,Diploma,Yes,Yes,No,2,Pass
+1568,Charlotte,Williams,25,Prefer not to say,Birmingham,Computer Science,Pandas,15.1,71.3,61.9,80.8,49.1,Bachelor's,Yes,No,Yes,1,Pass
+1569,Noah,Walker,21,Female,Birmingham,Computer Science,Machine Learning,13.5,73.4,74.3,52.6,74.8,Bachelor's,Yes,Yes,Yes,1,Pass
+1570,Maya,Rahman,29,Male,Manchester,Data Science,Statistics,8.9,91.6,43.4,73.1,100.0,Diploma,Yes,Yes,Yes,5,Pass
+1571,Grace,Ahmed,28,Male,Glasgow,Mathematics,Web Development,16.5,94.6,66.8,29.6,54.0,Master's,Yes,Yes,Yes,2,Fail
+1572,Hina,Wilson,29,Female,Cardiff,Cyber Security,Algorithms,14.3,72.2,71.3,60.2,72.4,Master's,No,Yes,No,5,Pass
+1573,Daniel,Begum,26,Female,Manchester,Computer Science,Pandas,13.3,92.0,71.8,86.3,68.8,A-level,Yes,Yes,Yes,3,Pass
+1574,Aisha,Clarke,21,Male,Cardiff,Cyber Security,Algorithms,11.7,77.6,65.1,67.9,73.3,Bachelor's,Yes,No,Yes,3,Pass
+1575,Aarav,Patel,27,Female,Glasgow,Computer Science,Statistics,14.6,84.2,69.9,72.0,74.7,Master's,Yes,No,No,1,Pass
+1576,Hassan,Brown,20,Male,Sheffield,Artificial Intelligence,Pandas,13.4,100.0,100.0,18.7,88.0,Diploma,Yes,No,Yes,8,Fail
+1577,Yusuf,Shah,20,Prefer not to say,Sheffield,Computer Science,Algorithms,12.4,93.7,84.9,63.3,73.2,Master's,No,No,Yes,2,Pass
+1578,Layla,Hussain,22,Female,Liverpool,Computer Science,Machine Learning,8.2,93.6,66.6,75.8,89.9,GCSE,Yes,Yes,Yes,5,Pass
+1579,Zara,Patel,30,Female,Bristol,Computer Science,Statistics,22.2,100.0,74.0,77.9,70.4,Diploma,Yes,Yes,Yes,7,Pass
+1580,Amelia,Williams,24,Female,Birmingham,Artificial Intelligence,Web Development,5.7,75.6,74.6,86.4,67.1,Master's,Yes,Yes,No,3,Pass
+1581,Amelia,Ali,21,Female,Sheffield,Artificial Intelligence,Python,14.6,72.2,63.5,66.4,62.6,PhD,Yes,Yes,No,4,Pass
+1582,Usman,Jones,22,Female,Nottingham,Artificial Intelligence,Pandas,10.1,75.3,63.5,67.2,46.6,Bachelor's,Yes,No,No,3,Pass
+1583,Ahmed,Shah,20,Male,Glasgow,Cyber Security,Web Development,22.6,80.9,90.2,47.4,75.9,Bachelor's,Yes,Yes,No,3,Pass
+1584,Aisha,Taylor,25,Female,London,Software Engineering,Machine Learning,6.6,55.7,68.7,66.5,100.0,Diploma,Yes,No,No,4,Pass
+1585,Hina,Williams,21,Male,Bristol,Software Engineering,Python,7.6,81.5,58.6,48.6,78.4,Master's,Yes,Yes,No,5,Pass
+1586,Yusuf,Brown,24,Female,Glasgow,Cyber Security,Python,6.2,77.5,74.4,38.6,81.6,Diploma,Yes,Yes,No,1,Fail
+1587,Olivia,Clarke,21,Female,Manchester,Cyber Security,Cloud Computing,13.9,93.4,76.8,51.6,66.2,GCSE,Yes,Yes,No,7,Pass
+1588,Amelia,Ahmed,20,Female,Liverpool,Artificial Intelligence,Pandas,3.8,88.2,45.4,95.6,68.6,A-level,Yes,Yes,No,5,Pass
+1589,Usman,Lewis,30,Male,Nottingham,Data Science,Python,9.1,76.8,74.4,65.4,85.8,Bachelor's,Yes,No,No,2,Pass
+1590,William,Khan,21,Female,Nottingham,Artificial Intelligence,Statistics,0.0,91.1,88.0,73.7,100.0,PhD,Yes,No,No,1,Pass
+1591,Thomas,Begum,17,Female,London,Computer Science,Python,13.4,92.7,81.8,61.3,92.8,Diploma,Yes,Yes,Yes,4,Pass
+1592,Zayn,Brown,21,Male,Sheffield,Mathematics,Web Development,9.0,74.8,100.0,39.6,83.3,PhD,Yes,No,No,3,Fail
+1593,Charlotte,Wilson,23,Male,Sheffield,Artificial Intelligence,Statistics,3.1,78.1,93.8,85.9,72.5,Master's,Yes,No,Yes,6,Pass
+1594,Emily,Khan,17,Female,Cardiff,Software Engineering,Web Development,18.5,57.3,96.7,33.1,74.9,Bachelor's,Yes,Yes,No,5,Fail
+1595,Hamza,Begum,20,Male,Nottingham,Mathematics,Databases,4.2,70.9,100.0,60.6,61.5,Master's,Yes,Yes,No,3,Pass
+1596,Thomas,Smith,18,Female,Birmingham,Artificial Intelligence,Cloud Computing,16.8,75.1,86.4,69.1,51.7,Diploma,Yes,Yes,No,4,Pass
+1597,Mia,Davies,23,Female,Sheffield,Mathematics,Web Development,7.8,84.9,77.4,73.9,56.2,Diploma,Yes,Yes,Yes,1,Pass
+1598,Sofia,Begum,26,Male,Cardiff,Artificial Intelligence,Databases,21.6,72.7,89.6,57.7,72.7,Master's,Yes,No,No,4,Pass
+1599,Mohammed,Clarke,30,Female,Glasgow,Computer Science,Python,16.5,77.8,66.6,38.8,67.9,Bachelor's,Yes,Yes,No,3,Fail
+1600,Noah,Begum,21,Female,Glasgow,Computer Science,Machine Learning,6.0,69.3,76.6,56.4,51.4,Bachelor's,Yes,Yes,No,3,Pass
+1601,Mohammed,Brown,28,Male,Birmingham,Computer Science,Pandas,6.5,86.1,65.3,57.3,71.5,Diploma,Yes,No,No,2,Pass
+1602,Sofia,Begum,19,Female,Liverpool,Mathematics,Python,15.6,89.1,81.0,56.9,67.5,PhD,Yes,Yes,No,3,Pass
+1603,Sara,Clarke,27,Male,London,Artificial Intelligence,Machine Learning,10.4,88.8,65.2,86.5,55.6,GCSE,Yes,No,No,5,Pass
+1604,Anaya,Brown,24,Male,Bristol,Data Science,Pandas,11.0,84.1,64.7,49.4,66.8,GCSE,Yes,Yes,No,4,Pass
+1605,Usman,Patel,27,Male,Cardiff,Artificial Intelligence,Python,19.6,65.5,81.2,75.1,67.5,Diploma,Yes,Yes,No,1,Pass
+1606,Leo,Lewis,27,Male,London,Data Science,Machine Learning,,76.6,72.9,72.7,63.4,GCSE,Yes,Yes,Yes,3,Pass
+1607,Hamza,Patel,23,Male,Bristol,Mathematics,Statistics,12.5,79.1,46.1,86.3,85.0,Diploma,Yes,Yes,Yes,3,Pass
+1608,Layla,Malik,19,Prefer not to say,Sheffield,Mathematics,Pandas,17.7,79.2,53.2,67.7,45.4,Bachelor's,Yes,Yes,Yes,2,Pass
+1609,Grace,Jones,23,Female,Cardiff,Computer Science,Machine Learning,16.9,84.9,57.8,83.4,44.2,Diploma,Yes,No,No,1,Pass
+1610,William,Patel,28,Female,Leeds,Software Engineering,Python,11.0,100.0,61.8,67.1,72.0,A-level,Yes,No,No,3,Pass
+1611,Usman,Hussain,30,Male,Manchester,Artificial Intelligence,Python,10.3,93.7,81.2,77.4,73.3,A-level,Yes,No,No,3,Pass
+1612,Jack,Patel,29,Male,Manchester,Computer Science,Pandas,1.6,72.1,78.3,44.5,77.7,Bachelor's,Yes,Yes,No,3,Pass
+1613,Sofia,Davies,18,Female,Cardiff,Mathematics,Databases,5.7,92.1,91.0,25.1,64.5,PhD,Yes,No,No,2,Fail
+1614,Hassan,Davies,24,Male,Birmingham,Computer Science,Web Development,13.9,91.7,86.3,76.4,59.1,Master's,Yes,Yes,Yes,4,Pass
+1615,Olivia,Ahmed,17,Female,Sheffield,Data Science,Cloud Computing,11.2,74.3,91.1,77.3,71.9,Bachelor's,Yes,No,Yes,3,Pass
+1616,Noah,Smith,26,Male,Glasgow,Computer Science,Web Development,12.4,94.2,84.1,78.1,65.8,GCSE,Yes,No,No,1,Pass
+1617,Charlotte,Hussain,30,Female,Glasgow,Artificial Intelligence,Statistics,18.2,82.1,78.1,61.1,93.7,A-level,Yes,No,No,2,Pass
+1618,Daniel,Shah,16,Female,Leeds,Cyber Security,Algorithms,4.9,67.1,91.5,95.3,67.5,Diploma,Yes,Yes,No,4,Pass
+1619,Ali,Patel,25,Female,Liverpool,Data Science,Machine Learning,10.6,89.5,88.8,62.2,71.3,A-level,Yes,No,Yes,5,Pass
+1620,Anaya,Rahman,30,Female,Leeds,Computer Science,Cloud Computing,13.1,86.6,80.6,77.2,100.0,Master's,Yes,No,No,2,Pass
+1621,Isabella,Ali,28,Female,London,Computer Science,Algorithms,,81.3,94.1,80.1,69.3,Diploma,Yes,Yes,No,1,Pass
+1622,James,Khan,21,Female,London,Mathematics,Statistics,20.6,83.6,39.8,99.2,79.8,PhD,Yes,No,No,3,Pass
+1623,Arjun,Walker,17,Female,Manchester,Software Engineering,Cloud Computing,17.5,75.4,70.6,,81.0,A-level,Yes,Yes,Yes,2,Fail
+1624,Hina,Khan,29,Female,Nottingham,Mathematics,Pandas,13.7,91.3,70.4,58.9,82.2,Diploma,Yes,Yes,No,5,Pass
+1625,Mia,Malik,29,Female,Manchester,Cyber Security,Algorithms,22.8,83.5,92.3,44.5,76.1,Master's,Yes,No,No,2,Pass
+1626,Bilal,Rahman,24,Female,Cardiff,Cyber Security,Statistics,3.0,86.0,98.6,96.4,74.7,A-level,Yes,No,No,3,Pass
+1627,Hamza,Malik,30,Female,Bristol,Software Engineering,Pandas,12.0,88.3,53.2,77.2,73.4,Master's,Yes,Yes,No,4,Pass
+1628,Hana,Malik,16,Female,London,Cyber Security,Python,14.2,70.1,96.2,77.7,63.9,Bachelor's,Yes,Yes,No,2,Pass
+1629,Layla,Wilson,25,Female,Bristol,Artificial Intelligence,Web Development,6.5,73.3,57.4,100.0,76.6,Bachelor's,Yes,Yes,No,1,Pass
+1630,Hana,Patel,16,Female,London,Data Science,Databases,13.8,57.5,57.9,75.5,100.0,Diploma,Yes,Yes,No,3,Pass
+1631,Sara,Malik,30,Female,Bristol,Artificial Intelligence,Machine Learning,5.4,90.8,71.5,47.9,88.9,PhD,No,Yes,No,2,Pass
+1632,Hamza,Lewis,26,Male,Sheffield,Computer Science,Databases,16.1,69.5,70.2,66.7,76.3,Master's,Yes,Yes,Yes,2,Pass
+1633,Isabella,Ahmed,29,Prefer not to say,Sheffield,Data Science,Algorithms,18.3,85.6,51.6,53.4,84.0,A-level,No,No,Yes,4,Pass
+1634,Hassan,Lewis,24,Male,Manchester,Software Engineering,Databases,13.6,88.5,84.7,63.3,59.8,Bachelor's,Yes,Yes,No,4,Pass
+1635,Arjun,Taylor,17,Male,Glasgow,Mathematics,Python,0.9,91.2,85.2,63.2,68.4,PhD,Yes,Yes,Yes,4,Pass
+1636,Olivia,Shah,16,Male,Sheffield,Computer Science,Machine Learning,6.2,69.6,90.8,60.0,85.3,A-level,Yes,Yes,Yes,1,Pass
+1637,Bilal,Smith,21,Female,Manchester,Computer Science,Pandas,15.4,83.2,68.5,46.3,92.8,Bachelor's,Yes,Yes,No,3,Pass
+1638,Fatima,Williams,27,Male,Bristol,Computer Science,Web Development,12.1,100.0,74.4,97.1,61.2,Master's,Yes,Yes,No,3,Pass
+1639,Thomas,Smith,18,Male,Leeds,Software Engineering,Cloud Computing,0.0,100.0,74.5,75.1,65.2,A-level,Yes,Yes,Yes,3,Pass
+1640,Grace,Ali,28,Male,Liverpool,Data Science,Cloud Computing,19.5,95.8,100.0,66.2,100.0,Bachelor's,Yes,Yes,No,3,Pass
+1641,Oliver,Begum,19,Male,Glasgow,Data Science,Web Development,12.8,88.0,32.5,82.9,73.3,Bachelor's,Yes,Yes,No,5,Pass
+1642,Zayn,Ahmed,23,Female,Manchester,Computer Science,Cloud Computing,7.1,71.9,60.6,78.0,97.5,A-level,Yes,No,No,5,Pass
+1643,William,Taylor,19,Male,Cardiff,Mathematics,Databases,18.0,92.6,75.1,74.7,74.9,A-level,No,No,No,2,Pass
+1644,James,Malik,22,Male,Cardiff,Artificial Intelligence,Web Development,7.9,82.1,58.7,81.6,75.4,Bachelor's,Yes,Yes,No,3,Pass
+1645,Sofia,Patel,22,Female,Cardiff,Software Engineering,Python,7.9,90.7,71.1,72.3,67.7,A-level,Yes,Yes,Yes,1,Pass
+1646,Hamza,Ali,16,Male,London,Software Engineering,Statistics,14.2,76.4,73.1,81.4,85.2,PhD,Yes,Yes,No,2,Pass
+1647,Jack,Brown,24,Female,Nottingham,Computer Science,Statistics,22.7,81.9,65.1,82.8,91.0,Bachelor's,Yes,Yes,Yes,2,Pass
+1648,Leo,Davies,27,Prefer not to say,Liverpool,Software Engineering,Python,21.7,86.0,76.0,72.8,57.5,Master's,Yes,No,No,2,Pass
+1649,Grace,Rahman,30,Male,Liverpool,Cyber Security,Statistics,,87.0,84.4,66.3,67.1,Diploma,Yes,No,Yes,0,Pass
+1650,William,Clarke,20,Female,Liverpool,Cyber Security,Web Development,14.8,,71.5,96.0,84.8,A-level,Yes,Yes,Yes,1,Pass
+1651,James,Smith,29,Male,Liverpool,Data Science,Machine Learning,16.7,77.0,68.2,61.9,70.2,Diploma,Yes,Yes,Yes,0,Pass
+1652,Noah,Khan,29,Female,Glasgow,Mathematics,Statistics,4.5,67.9,72.5,76.7,65.1,Master's,Yes,Yes,No,1,Pass
+1653,Ava,Ahmed,30,Male,London,Mathematics,Machine Learning,15.9,100.0,74.9,77.0,86.1,Diploma,Yes,Yes,Yes,2,Pass
+1654,Thomas,Malik,21,Male,Bristol,Artificial Intelligence,Machine Learning,7.6,100.0,48.9,,87.4,A-level,Yes,No,Yes,7,Fail
+1655,Maya,Smith,28,Male,Manchester,Computer Science,Pandas,13.9,89.4,81.9,56.3,65.7,GCSE,Yes,Yes,Yes,3,Pass
+1656,Leo,Jones,24,Male,Manchester,Mathematics,Machine Learning,10.6,68.1,68.2,64.0,75.0,Bachelor's,Yes,Yes,No,3,Pass
+1657,Sofia,Clarke,16,Female,Nottingham,Mathematics,Cloud Computing,15.0,74.7,93.9,61.6,55.1,Master's,Yes,Yes,No,2,Pass
+1658,Noah,Lewis,20,Female,Nottingham,Cyber Security,Algorithms,12.7,90.1,83.9,45.2,59.5,Bachelor's,Yes,Yes,No,3,Pass
+1659,Ali,Clarke,26,Female,Sheffield,Cyber Security,Web Development,0.0,100.0,92.6,58.9,73.7,A-level,Yes,Yes,No,1,Pass
+1660,Daniel,Ali,18,Female,Glasgow,Data Science,Statistics,13.1,69.4,59.8,74.5,72.4,A-level,Yes,Yes,No,2,Pass
+1661,Arjun,Williams,22,Female,Leeds,Computer Science,Statistics,15.9,82.5,69.4,91.5,58.5,Diploma,No,Yes,No,2,Pass
+1662,Omar,Williams,27,Female,Manchester,Mathematics,Databases,14.7,86.4,56.4,79.4,62.0,Diploma,Yes,Yes,Yes,4,Pass
+1663,Aisha,Smith,18,Female,Nottingham,Artificial Intelligence,Databases,11.4,94.4,64.4,25.8,57.1,A-level,Yes,No,No,5,Fail
+1664,Ava,Malik,23,Female,Bristol,Data Science,Statistics,21.9,79.9,93.8,80.9,78.4,PhD,Yes,Yes,No,1,Pass
+1665,Mia,Shah,19,Male,Sheffield,Software Engineering,Cloud Computing,13.9,65.2,97.3,60.5,44.5,A-level,No,Yes,Yes,1,Pass
+1666,Olivia,Wilson,24,Female,Bristol,Computer Science,Databases,14.6,91.5,57.8,77.7,57.8,A-level,Yes,No,No,3,Pass
+1667,Layla,Hussain,19,Male,Manchester,Computer Science,Statistics,18.3,97.5,68.1,69.8,45.9,Bachelor's,Yes,Yes,Yes,3,Pass
+1668,William,Davies,30,Female,Nottingham,Data Science,Databases,14.2,83.0,73.9,66.7,77.9,Master's,Yes,No,No,4,Pass
+1669,Zayn,Shah,17,Female,Glasgow,Artificial Intelligence,Machine Learning,6.6,88.9,83.8,68.3,46.8,Diploma,Yes,No,No,2,Pass
+1670,Anaya,Begum,30,Male,Cardiff,Artificial Intelligence,Machine Learning,0.0,78.3,48.6,69.6,72.4,Master's,Yes,Yes,No,4,Pass
+1671,Grace,Hussain,27,Female,Birmingham,Data Science,Python,9.1,73.9,51.0,92.9,95.0,GCSE,Yes,Yes,No,3,Pass
+1672,Mohammed,Malik,28,Female,Cardiff,Artificial Intelligence,Databases,16.6,96.3,82.3,69.7,95.4,Bachelor's,Yes,No,No,4,Pass
+1673,Noah,Ali,28,Male,Liverpool,Artificial Intelligence,Web Development,9.9,88.6,45.8,88.5,46.7,GCSE,Yes,Yes,No,4,Pass
+1674,Amelia,Hussain,18,Female,Cardiff,Cyber Security,Web Development,16.8,89.9,68.3,86.0,76.2,GCSE,Yes,Yes,Yes,1,Pass
+1675,Mohammed,Begum,29,Female,Bristol,Cyber Security,Algorithms,12.9,100.0,77.4,81.3,58.2,Bachelor's,Yes,No,No,4,Pass
+1676,Omar,Rahman,24,Male,Manchester,Mathematics,Python,19.7,71.3,81.2,39.6,55.3,A-level,Yes,Yes,No,6,Fail
+1677,Mia,Patel,30,Female,Sheffield,Software Engineering,Cloud Computing,10.2,77.4,72.9,89.0,70.4,GCSE,Yes,No,No,2,Pass
+1678,Amelia,Taylor,29,Male,Birmingham,Data Science,Cloud Computing,14.8,85.9,69.5,,89.2,A-level,Yes,No,No,5,Fail
+1679,Layla,Walker,24,Female,Cardiff,Mathematics,Databases,15.0,77.2,87.7,82.2,80.4,Master's,Yes,No,Yes,3,Pass
+1680,Yusuf,Shah,21,Prefer not to say,London,Cyber Security,Machine Learning,21.0,93.4,79.3,53.5,62.0,Bachelor's,Yes,No,Yes,3,Pass
+1681,Omar,Walker,17,Male,Leeds,Data Science,Machine Learning,1.8,81.8,65.3,49.9,81.9,Diploma,No,No,Yes,1,Pass
+1682,Anaya,Khan,17,Prefer not to say,Glasgow,Artificial Intelligence,Web Development,9.2,72.1,75.6,100.0,40.6,PhD,Yes,Yes,Yes,2,Pass
+1683,Grace,Khan,21,Male,Birmingham,Software Engineering,Cloud Computing,17.1,84.8,80.7,53.7,61.5,Diploma,Yes,No,No,3,Pass
+1684,Grace,Hussain,28,Female,Bristol,Software Engineering,Web Development,21.3,86.0,100.0,89.5,60.5,PhD,Yes,No,No,5,Pass
+1685,Arjun,Wilson,23,Male,Sheffield,Artificial Intelligence,Statistics,13.4,95.2,86.8,72.0,73.1,Diploma,Yes,No,No,2,Pass
+1686,Thomas,Shah,23,Female,Bristol,Computer Science,Web Development,10.2,88.7,93.2,62.9,69.2,GCSE,Yes,No,No,3,Pass
+1687,Hina,Taylor,19,Male,Glasgow,Data Science,Python,16.5,89.5,65.8,69.2,70.0,GCSE,Yes,No,No,2,Pass
+1688,Mia,Taylor,24,Male,Manchester,Computer Science,Statistics,17.2,87.8,67.1,47.9,69.6,A-level,Yes,Yes,No,4,Pass
+1689,Isabella,Walker,25,Female,Glasgow,Software Engineering,Python,9.8,81.7,71.5,69.8,72.3,A-level,Yes,No,No,3,Pass
+1690,Sofia,Ahmed,30,Male,Manchester,Cyber Security,Algorithms,14.0,75.4,72.8,51.6,79.6,GCSE,Yes,Yes,No,3,Pass
+1691,Emily,Hussain,26,Female,Birmingham,Artificial Intelligence,Algorithms,19.1,87.5,59.9,63.3,74.1,Diploma,Yes,Yes,No,4,Pass
+1692,Thomas,Lewis,25,Male,Sheffield,Software Engineering,Statistics,23.3,80.0,94.0,85.7,68.0,PhD,Yes,Yes,No,6,Pass
+1693,Yusuf,Davies,29,Male,Nottingham,Software Engineering,Machine Learning,16.5,100.0,88.3,74.3,77.6,A-level,Yes,No,No,4,Pass
+1694,Yusuf,Wilson,22,Female,Manchester,Software Engineering,Web Development,12.3,100.0,70.4,44.8,83.6,A-level,Yes,No,Yes,5,Pass
+1695,Amelia,Smith,30,Male,Sheffield,Computer Science,Web Development,11.7,91.6,84.6,84.5,64.2,PhD,No,Yes,No,3,Pass
+1696,Charlotte,Davies,21,Male,London,Cyber Security,Web Development,15.3,88.5,78.3,69.9,71.2,A-level,Yes,Yes,No,3,Pass
+1697,Omar,Singh,17,Female,London,Mathematics,Statistics,11.3,82.9,85.8,60.8,88.3,Master's,Yes,Yes,No,4,Pass
+1698,Mia,Patel,22,Male,Glasgow,Software Engineering,Pandas,13.1,68.9,54.8,82.7,56.6,Bachelor's,Yes,Yes,No,3,Pass
+1699,Aisha,Wilson,17,Female,Glasgow,Data Science,Python,5.7,81.4,72.8,67.2,97.3,PhD,Yes,Yes,No,1,Pass
+1700,Amelia,Rahman,17,Male,Birmingham,Artificial Intelligence,Machine Learning,19.8,85.2,74.1,50.2,53.3,Bachelor's,No,No,No,1,Pass
+1701,Layla,Ali,29,Female,Cardiff,Mathematics,Statistics,5.2,86.8,84.4,100.0,67.2,Bachelor's,Yes,Yes,No,1,Pass
+1702,Mohammed,Smith,27,Male,Birmingham,Computer Science,Databases,9.4,89.6,65.6,69.7,58.7,A-level,Yes,Yes,No,4,Pass
+1703,Arjun,Davies,19,Male,Manchester,Cyber Security,Statistics,12.6,95.1,37.5,68.6,100.0,Bachelor's,Yes,Yes,No,3,Pass
+1704,Arjun,Smith,28,Female,Bristol,Computer Science,Machine Learning,23.9,75.7,58.8,63.1,65.0,Master's,Yes,Yes,Yes,1,Pass
+1705,Ahmed,Walker,17,Female,Birmingham,Mathematics,Algorithms,9.5,75.8,74.1,90.1,65.0,PhD,Yes,No,No,2,Pass
+1706,Maya,Lewis,20,Male,Nottingham,Computer Science,Machine Learning,8.0,100.0,76.0,61.1,66.8,GCSE,Yes,Yes,No,2,Pass
+1707,Aarav,Rahman,26,Male,Bristol,Computer Science,Cloud Computing,8.7,93.3,100.0,43.7,73.3,GCSE,Yes,Yes,Yes,4,Pass
+1708,Maya,Walker,20,Female,Birmingham,Data Science,Databases,22.0,79.3,83.7,58.5,67.4,GCSE,Yes,No,No,5,Pass
+1709,James,Jones,26,Female,Sheffield,Data Science,Databases,0.0,82.7,76.2,92.6,70.1,Master's,Yes,Yes,Yes,2,Pass
+1710,Jack,Jones,29,Female,Glasgow,Artificial Intelligence,Statistics,6.0,82.8,74.5,84.1,22.6,GCSE,Yes,No,Yes,6,Pass
+1711,Oliver,Brown,16,Prefer not to say,Manchester,Data Science,Machine Learning,28.4,84.4,91.6,65.7,72.8,PhD,Yes,No,No,1,Pass
+1712,Layla,Singh,16,Female,Liverpool,Artificial Intelligence,Pandas,15.5,89.7,66.1,93.3,72.2,Diploma,Yes,No,Yes,3,Pass
+1713,Omar,Lewis,30,Male,Bristol,Cyber Security,Databases,5.4,100.0,72.9,82.7,86.5,A-level,Yes,No,No,1,Pass
+1714,Sofia,Begum,23,Male,Cardiff,Cyber Security,Cloud Computing,11.7,86.3,58.7,65.5,90.3,PhD,Yes,Yes,No,4,Pass
+1715,Zayn,Williams,23,Male,Liverpool,Mathematics,Pandas,12.4,92.0,96.3,67.2,69.4,Master's,Yes,Yes,No,2,Pass
+1716,Thomas,Lewis,22,Female,Bristol,Artificial Intelligence,Databases,17.1,63.8,80.9,75.6,83.4,Bachelor's,Yes,Yes,Yes,5,Pass
+1717,Layla,Williams,22,Female,Leeds,Cyber Security,Web Development,23.0,78.2,64.4,55.9,56.6,PhD,No,Yes,No,5,Pass
+1718,James,Wilson,26,Male,Glasgow,Software Engineering,Web Development,14.3,98.7,73.3,70.1,82.7,Master's,Yes,Yes,Yes,1,Pass
+1719,Bilal,Taylor,24,Male,London,Data Science,Databases,8.8,88.8,82.6,75.2,64.0,Bachelor's,No,Yes,No,4,Pass
+1720,Mia,Shah,18,Female,Bristol,Software Engineering,Python,16.7,35.0,71.2,41.3,55.4,A-level,Yes,Yes,No,4,Pass
+1721,Anaya,Ahmed,25,Female,Liverpool,Mathematics,Python,7.8,92.1,67.0,66.8,69.4,PhD,Yes,Yes,No,6,Pass
+1722,Yusuf,Begum,26,Female,Bristol,Data Science,Databases,5.8,100.0,65.2,64.8,91.6,Master's,Yes,No,No,3,Pass
+1723,William,Davies,17,Female,Cardiff,Data Science,Cloud Computing,1.4,60.0,80.1,87.5,74.5,PhD,No,Yes,No,3,Pass
+1724,Ahmed,Begum,21,Female,Sheffield,Artificial Intelligence,Python,2.6,100.0,69.6,38.6,93.0,PhD,Yes,Yes,Yes,6,Fail
+1725,Sofia,Shah,27,Male,Manchester,Data Science,Algorithms,6.6,50.7,68.2,63.5,61.5,Bachelor's,No,Yes,No,3,Pass
+1726,Ahmed,Hussain,25,Female,Birmingham,Cyber Security,Web Development,4.9,95.3,55.0,61.8,86.7,Diploma,Yes,No,No,3,Pass
+1727,Omar,Walker,18,Male,Sheffield,Mathematics,Python,13.9,83.9,76.2,86.3,62.9,PhD,Yes,Yes,No,2,Pass
+1728,Amelia,Malik,16,Female,Leeds,Cyber Security,Machine Learning,4.8,55.8,72.3,69.3,75.2,PhD,Yes,No,Yes,2,Pass
+1729,James,Taylor,24,Female,Bristol,Computer Science,Pandas,0.0,89.4,70.2,100.0,75.0,GCSE,Yes,Yes,Yes,3,Pass
+1730,Noah,Patel,22,Male,Bristol,Data Science,Algorithms,5.7,97.8,78.0,81.3,81.3,Bachelor's,Yes,Yes,No,3,Pass
+1731,Omar,Hussain,30,Female,Nottingham,Software Engineering,Statistics,9.2,88.4,86.2,63.0,75.5,Bachelor's,Yes,No,Yes,3,Pass
+1732,Hina,Walker,23,Male,Leeds,Data Science,Machine Learning,8.4,91.0,85.5,74.1,61.7,Master's,Yes,Yes,No,0,Pass
+1733,Yusuf,Davies,29,Female,Nottingham,Cyber Security,Machine Learning,21.1,79.1,83.3,64.0,84.3,PhD,Yes,Yes,No,3,Pass
+1734,Sofia,Lewis,19,Male,Bristol,Software Engineering,Statistics,8.3,61.7,71.4,84.6,96.2,A-level,Yes,Yes,No,2,Pass
+1735,Ava,Lewis,22,Male,Cardiff,Data Science,Python,17.3,92.3,66.5,47.4,63.8,PhD,Yes,Yes,No,3,Pass
+1736,Oliver,Hussain,18,Male,Sheffield,Cyber Security,Machine Learning,11.9,100.0,59.3,56.0,46.3,Bachelor's,Yes,Yes,Yes,2,Pass
+1737,Omar,Shah,24,Female,Manchester,Artificial Intelligence,Pandas,11.7,97.6,66.1,77.7,79.0,GCSE,Yes,Yes,No,2,Pass
+1738,Hamza,Ahmed,18,Female,Liverpool,Computer Science,Statistics,7.0,60.1,75.3,90.8,67.4,Bachelor's,Yes,Yes,No,4,Pass
+1739,Sara,Khan,23,Female,Manchester,Artificial Intelligence,Web Development,11.6,65.8,63.2,32.6,70.2,GCSE,Yes,No,Yes,3,Fail
+1740,Zayn,Jones,21,Male,London,Artificial Intelligence,Databases,7.4,73.8,76.4,93.4,79.8,PhD,Yes,Yes,No,1,Pass
+1741,Usman,Taylor,18,Female,Glasgow,Computer Science,Pandas,13.0,64.9,60.5,67.6,65.6,Master's,Yes,Yes,No,4,Pass
+1742,Sara,Begum,17,Female,Cardiff,Mathematics,Machine Learning,10.6,84.5,50.1,38.0,68.2,PhD,Yes,No,Yes,2,Fail
+1743,Noah,Singh,23,Female,Nottingham,Cyber Security,Cloud Computing,6.3,88.7,87.3,19.0,70.6,Bachelor's,Yes,Yes,No,5,Fail
+1744,Daniel,Khan,30,Female,Bristol,Computer Science,Pandas,18.0,66.8,67.9,44.0,92.6,Diploma,Yes,No,Yes,1,Pass
+1745,Thomas,Jones,18,Female,London,Mathematics,Pandas,14.6,93.3,62.4,69.7,72.4,Diploma,Yes,Yes,No,2,Pass
+1746,Hana,Rahman,22,Female,London,Mathematics,Python,9.3,91.2,58.6,68.9,54.7,PhD,Yes,No,No,3,Pass
+1747,Leo,Rahman,19,Female,Bristol,Computer Science,Cloud Computing,12.9,77.4,81.3,80.8,55.3,GCSE,Yes,No,No,3,Pass
+1748,Fatima,Wilson,28,Male,Manchester,Computer Science,Python,11.5,81.9,95.6,60.7,73.9,PhD,Yes,Yes,No,2,Pass
+1749,Fatima,Clarke,22,Female,Liverpool,Artificial Intelligence,Statistics,6.8,60.6,69.0,51.2,56.2,Diploma,Yes,No,Yes,6,Pass
+1750,Anaya,Begum,30,Female,Leeds,Cyber Security,Algorithms,12.4,80.0,71.8,63.0,50.1,Bachelor's,Yes,No,No,6,Pass
+1751,Grace,Walker,19,Male,Nottingham,Software Engineering,Web Development,8.3,84.1,91.1,70.6,80.9,Master's,No,No,Yes,2,Pass
+1752,Anaya,Lewis,17,Male,Manchester,Artificial Intelligence,Databases,6.3,86.0,47.8,73.9,81.6,GCSE,Yes,Yes,No,3,Pass
+1753,Amelia,Williams,24,Female,Leeds,Cyber Security,Pandas,2.3,88.5,100.0,56.6,66.8,GCSE,Yes,Yes,Yes,1,Pass
+1754,Yusuf,Wilson,25,Male,Manchester,Computer Science,Python,9.8,86.9,100.0,85.3,76.1,GCSE,Yes,Yes,Yes,4,Pass
+1755,Maya,Williams,30,Prefer not to say,Leeds,Cyber Security,Pandas,15.4,80.8,34.4,59.4,74.6,Master's,Yes,No,Yes,2,Pass
+1756,Isabella,Brown,29,Male,Bristol,Mathematics,Algorithms,7.8,87.4,73.5,,80.4,GCSE,Yes,Yes,Yes,4,Fail
+1757,Sara,Brown,29,Male,Birmingham,Cyber Security,Pandas,27.1,96.0,64.2,60.8,80.5,Bachelor's,Yes,Yes,Yes,3,Pass
+1758,Hassan,Williams,25,Male,Sheffield,Artificial Intelligence,Python,17.3,82.9,71.0,88.3,35.5,GCSE,Yes,No,Yes,2,Pass
+1759,Ahmed,Malik,21,Female,Sheffield,Data Science,Cloud Computing,19.8,87.8,68.7,67.7,68.6,Master's,Yes,Yes,No,4,Pass
+1760,Omar,Malik,22,Female,London,Mathematics,Databases,16.8,81.8,87.2,58.2,79.3,PhD,Yes,No,No,3,Pass
+1761,Arjun,Wilson,18,Male,Leeds,Computer Science,Machine Learning,23.1,76.2,73.3,85.7,66.3,Diploma,Yes,Yes,Yes,2,Pass
+1762,Maya,Taylor,22,Prefer not to say,Leeds,Data Science,Web Development,7.3,90.3,61.3,100.0,72.5,A-level,Yes,No,No,5,Pass
+1763,Grace,Khan,21,Female,Leeds,Computer Science,Statistics,0.0,77.3,72.4,73.6,82.5,Diploma,Yes,Yes,No,2,Pass
+1764,Yusuf,Williams,16,Female,London,Mathematics,Algorithms,9.3,88.6,82.7,91.0,73.1,Master's,Yes,Yes,No,2,Pass
+1765,Hana,Malik,19,Male,Birmingham,Artificial Intelligence,Databases,15.3,84.3,57.2,87.6,93.1,Master's,Yes,Yes,No,4,Pass
+1766,Sofia,Walker,24,Female,Sheffield,Mathematics,Web Development,12.9,80.4,50.3,59.7,87.8,Bachelor's,Yes,Yes,No,5,Pass
+1767,Mohammed,Shah,21,Male,Birmingham,Cyber Security,Algorithms,13.7,80.1,100.0,70.5,70.3,Bachelor's,Yes,Yes,No,5,Pass
+1768,James,Singh,30,Male,Birmingham,Cyber Security,Databases,19.9,77.9,65.4,48.2,69.2,Bachelor's,Yes,Yes,Yes,5,Pass
+1769,Anaya,Ahmed,23,Male,Bristol,Cyber Security,Machine Learning,14.3,64.3,72.9,66.5,32.1,A-level,Yes,No,No,3,Pass
+1770,Hassan,Smith,30,Male,Sheffield,Data Science,Algorithms,16.8,88.6,69.0,59.4,67.4,A-level,Yes,Yes,No,1,Pass
+1771,Noah,Brown,25,Male,Birmingham,Cyber Security,Pandas,6.4,86.8,83.2,63.2,53.1,PhD,Yes,Yes,No,4,Pass
+1772,Emily,Wilson,16,Male,Manchester,Software Engineering,Python,5.4,94.2,100.0,57.3,75.1,Bachelor's,Yes,Yes,No,1,Pass
+1773,Aarav,Wilson,19,Male,Bristol,Mathematics,Statistics,21.7,,83.7,65.1,74.1,PhD,No,Yes,No,4,Pass
+1774,Omar,Wilson,26,Male,London,Cyber Security,Algorithms,12.6,100.0,52.2,79.0,81.7,Bachelor's,Yes,No,No,3,Pass
+1775,William,Hussain,24,Male,Bristol,Mathematics,Python,8.3,79.4,54.2,68.0,91.6,Diploma,Yes,Yes,Yes,4,Pass
+1776,Grace,Patel,20,Female,Liverpool,Mathematics,Cloud Computing,8.3,73.5,69.0,38.3,71.6,Bachelor's,Yes,No,Yes,2,Fail
+1777,Isabella,Brown,23,Male,Birmingham,Cyber Security,Cloud Computing,8.1,72.1,71.0,57.3,100.0,Master's,Yes,No,No,3,Pass
+1778,Ahmed,Smith,29,Female,Leeds,Artificial Intelligence,Algorithms,7.7,63.2,49.2,44.2,75.3,A-level,Yes,No,Yes,1,Pass
+1779,Daniel,Brown,21,Male,Glasgow,Computer Science,Databases,4.3,100.0,87.3,74.1,53.7,Diploma,Yes,No,No,3,Pass
+1780,William,Davies,16,Male,Leeds,Data Science,Machine Learning,3.0,100.0,58.7,78.6,64.1,Master's,Yes,Yes,Yes,0,Pass
+1781,Zara,Khan,20,Female,Leeds,Mathematics,Statistics,10.8,,97.4,74.4,66.8,GCSE,Yes,No,No,7,Pass
+1782,Noah,Brown,30,Female,Leeds,Computer Science,Pandas,8.4,73.2,100.0,56.6,80.3,GCSE,No,No,No,2,Pass
+1783,Ahmed,Khan,27,Female,Nottingham,Artificial Intelligence,Cloud Computing,18.6,100.0,71.3,74.2,58.7,GCSE,Yes,No,No,1,Pass
+1784,Ahmed,Rahman,28,Male,Liverpool,Software Engineering,Web Development,13.8,79.8,81.6,62.0,67.8,Bachelor's,Yes,Yes,No,8,Pass
+1785,James,Begum,29,Female,Sheffield,Data Science,Databases,13.6,,56.5,50.7,69.7,A-level,Yes,Yes,No,1,Pass
+1786,Mia,Jones,17,Female,Cardiff,Mathematics,Statistics,7.5,100.0,84.4,82.6,65.7,Diploma,Yes,No,No,4,Pass
+1787,Aisha,Smith,20,Male,Cardiff,Cyber Security,Web Development,11.3,91.9,67.5,83.9,83.4,GCSE,Yes,Yes,No,3,Pass
+1788,Olivia,Ahmed,16,Male,Cardiff,Computer Science,Statistics,14.2,100.0,58.7,86.1,81.0,A-level,Yes,No,No,5,Pass
+1789,Leo,Singh,16,Female,Sheffield,Data Science,Cloud Computing,16.3,87.0,70.7,59.7,88.3,GCSE,Yes,Yes,Yes,4,Pass
+1790,Aarav,Hussain,28,Female,Liverpool,Software Engineering,Algorithms,11.4,79.2,68.0,90.0,67.4,Master's,Yes,Yes,No,4,Pass
+1791,Amelia,Malik,30,Prefer not to say,Glasgow,Mathematics,Algorithms,18.5,76.7,70.1,61.6,88.8,Diploma,Yes,Yes,No,5,Pass
+1792,Jack,Lewis,18,Male,London,Mathematics,Statistics,12.0,61.8,89.2,81.1,52.9,A-level,Yes,Yes,No,2,Pass
+1793,Omar,Brown,26,Male,Birmingham,Mathematics,Web Development,16.8,80.7,63.2,61.3,52.6,Bachelor's,Yes,Yes,No,3,Pass
+1794,Usman,Ali,24,Female,Liverpool,Computer Science,Machine Learning,9.1,97.7,100.0,66.2,55.0,PhD,Yes,No,No,5,Pass
+1795,Isabella,Singh,17,Female,Bristol,Software Engineering,Python,1.1,91.2,55.1,28.8,72.1,Master's,Yes,No,No,4,Fail
+1796,Fatima,Jones,29,Female,Manchester,Computer Science,Databases,13.6,84.2,99.2,64.9,88.8,PhD,Yes,No,No,6,Pass
+1797,Grace,Rahman,29,Male,Nottingham,Computer Science,Cloud Computing,16.4,72.1,59.8,71.5,63.6,Diploma,No,No,No,1,Pass
+1798,Jack,Smith,24,Female,Cardiff,Software Engineering,Pandas,15.5,86.7,75.0,63.0,65.3,Diploma,Yes,No,No,4,Pass
+1799,Fatima,Singh,26,Female,Sheffield,Artificial Intelligence,Statistics,14.5,96.2,67.6,99.9,69.0,A-level,Yes,Yes,Yes,7,Pass
+1800,Isabella,Shah,21,Male,Bristol,Cyber Security,Pandas,9.9,89.2,69.8,50.2,80.0,A-level,Yes,No,No,4,Pass
+1801,Aarav,Ahmed,27,Male,Leeds,Mathematics,Databases,7.2,86.0,87.0,60.4,65.3,PhD,Yes,No,Yes,3,Pass
+1802,Fatima,Singh,22,Male,Birmingham,Computer Science,Pandas,15.3,74.4,97.5,54.6,64.5,GCSE,Yes,No,No,4,Pass
+1803,Layla,Singh,30,Female,Bristol,Cyber Security,Web Development,,94.4,92.9,60.4,53.2,PhD,Yes,Yes,No,2,Pass
+1804,Zayn,Ali,16,Male,Liverpool,Mathematics,Cloud Computing,8.6,46.4,68.9,87.5,64.0,PhD,Yes,No,No,1,Pass
+1805,Sara,Patel,18,Female,Birmingham,Artificial Intelligence,Cloud Computing,18.7,88.6,77.8,95.1,88.5,PhD,Yes,Yes,Yes,1,Pass
+1806,Sofia,Khan,30,Female,Leeds,Cyber Security,Web Development,6.7,100.0,63.3,58.1,73.3,Bachelor's,Yes,Yes,Yes,3,Pass
+1807,Leo,Khan,20,Male,Bristol,Artificial Intelligence,Pandas,8.5,65.9,60.1,57.7,61.6,PhD,Yes,No,Yes,2,Pass
+1808,Ahmed,Singh,20,Female,Liverpool,Mathematics,Statistics,21.8,81.1,57.8,50.3,89.3,GCSE,Yes,No,No,4,Pass
+1809,Hassan,Ahmed,27,Male,Bristol,Computer Science,Python,17.2,83.9,68.4,92.2,63.8,Master's,Yes,Yes,No,2,Pass
+1810,Emily,Rahman,18,Male,Birmingham,Mathematics,Machine Learning,9.9,78.4,78.7,89.1,91.9,Bachelor's,Yes,Yes,No,1,Pass
+1811,Aisha,Jones,23,Prefer not to say,Cardiff,Software Engineering,Statistics,13.7,96.4,46.3,68.2,91.7,PhD,Yes,No,No,1,Pass
+1812,Zara,Davies,20,Female,Cardiff,Software Engineering,Web Development,12.9,89.7,74.3,46.3,72.8,GCSE,Yes,Yes,Yes,2,Pass
+1813,Olivia,Davies,18,Female,Manchester,Artificial Intelligence,Python,0.0,85.8,97.7,47.8,51.0,PhD,Yes,Yes,No,5,Pass
+1814,Daniel,Singh,30,Female,Liverpool,Cyber Security,Cloud Computing,6.6,93.6,91.8,72.9,100.0,Bachelor's,Yes,No,Yes,2,Pass
+1815,Sofia,Lewis,18,Female,Sheffield,Artificial Intelligence,Databases,11.7,84.2,66.2,79.3,77.4,GCSE,Yes,No,No,2,Pass
+1816,Usman,Patel,17,Female,London,Data Science,Algorithms,9.9,100.0,54.0,34.9,67.5,Bachelor's,Yes,Yes,No,4,Fail
+1817,Aisha,Jones,26,Female,Bristol,Mathematics,Statistics,13.5,85.8,81.9,64.5,85.4,GCSE,No,Yes,No,3,Pass
+1818,Ahmed,Ali,29,Male,Liverpool,Cyber Security,Statistics,,86.3,40.2,97.5,81.8,GCSE,Yes,Yes,Yes,1,Pass
+1819,Oliver,Patel,17,Male,Birmingham,Software Engineering,Web Development,10.1,63.5,91.7,66.3,90.4,Bachelor's,Yes,Yes,Yes,3,Pass
+1820,Emily,Ali,26,Male,Sheffield,Computer Science,Cloud Computing,5.7,77.5,71.8,95.3,62.7,Master's,Yes,No,No,2,Pass
+1821,Aarav,Brown,24,Female,Cardiff,Software Engineering,Pandas,13.9,97.8,100.0,81.0,76.5,GCSE,Yes,No,No,5,Pass
+1822,Oliver,Hussain,28,Female,Glasgow,Cyber Security,Statistics,10.0,68.0,49.1,51.6,55.4,A-level,Yes,Yes,No,6,Pass
+1823,Anaya,Brown,17,Female,Nottingham,Mathematics,Python,11.1,58.1,88.8,65.0,81.3,Diploma,Yes,Yes,No,1,Pass
+1824,Noah,Lewis,30,Female,Leeds,Computer Science,Databases,10.2,84.4,73.5,67.8,71.7,Bachelor's,No,Yes,No,4,Pass
+1825,Mohammed,Hussain,25,Female,Sheffield,Cyber Security,Cloud Computing,25.5,100.0,70.0,53.8,75.9,GCSE,Yes,Yes,Yes,4,Pass
+1826,Amelia,Walker,28,Prefer not to say,Sheffield,Cyber Security,Cloud Computing,0.0,84.5,54.5,53.5,70.0,Bachelor's,Yes,Yes,No,1,Pass
+1827,Oliver,Patel,21,Female,Leeds,Cyber Security,Machine Learning,9.7,80.0,83.9,95.6,68.5,Diploma,Yes,Yes,Yes,2,Pass
+1828,Zayn,Rahman,30,Female,Cardiff,Computer Science,Databases,12.0,61.7,85.1,53.4,59.8,PhD,Yes,No,No,1,Pass
+1829,William,Williams,25,Male,Leeds,Artificial Intelligence,Statistics,7.3,89.4,100.0,88.3,83.1,A-level,Yes,Yes,No,2,Pass
+1830,Aisha,Rahman,17,Male,Bristol,Data Science,Databases,17.4,91.9,90.1,62.6,92.9,Diploma,Yes,No,No,3,Pass
+1831,Charlotte,Wilson,29,Male,Birmingham,Cyber Security,Pandas,16.9,62.6,66.1,69.6,64.2,GCSE,Yes,Yes,No,5,Pass
+1832,Charlotte,Rahman,27,Female,Leeds,Data Science,Machine Learning,11.7,97.6,59.9,79.6,79.7,PhD,Yes,No,Yes,3,Pass
+1833,Jack,Malik,20,Male,Nottingham,Artificial Intelligence,Databases,10.4,93.2,54.5,59.8,78.1,PhD,Yes,No,No,1,Pass
+1834,Anaya,Ahmed,24,Female,Manchester,Cyber Security,Statistics,11.3,97.6,97.1,79.7,72.1,Diploma,Yes,Yes,No,5,Pass
+1835,William,Taylor,21,Female,Manchester,Computer Science,Algorithms,11.4,91.0,63.3,35.2,50.6,Diploma,Yes,Yes,No,3,Fail
+1836,Sofia,Patel,24,Male,Nottingham,Software Engineering,Statistics,11.5,91.8,97.2,77.5,53.8,PhD,Yes,No,No,1,Pass
+1837,Thomas,Walker,30,Male,Nottingham,Software Engineering,Databases,10.9,90.2,82.9,28.0,61.1,A-level,Yes,Yes,No,6,Fail
+1838,Ava,Brown,29,Female,London,Computer Science,Web Development,13.5,94.4,79.9,66.1,42.1,A-level,Yes,Yes,Yes,8,Pass
+1839,Aarav,Jones,19,Male,Manchester,Computer Science,Cloud Computing,16.5,62.2,70.4,84.5,91.7,A-level,Yes,Yes,No,3,Pass
+1840,Zayn,Malik,30,Female,Glasgow,Mathematics,Databases,4.6,66.0,84.9,80.6,77.1,Master's,Yes,No,No,2,Pass
+1841,Daniel,Taylor,22,Female,Glasgow,Data Science,Databases,5.7,75.2,74.8,47.9,71.6,A-level,Yes,Yes,Yes,3,Pass
+1842,Noah,Ahmed,26,Female,Liverpool,Mathematics,Pandas,1.5,82.4,69.5,50.1,41.3,GCSE,No,Yes,No,6,Pass
+1843,Zayn,Clarke,27,Male,Sheffield,Artificial Intelligence,Cloud Computing,17.2,88.7,85.4,58.3,46.5,GCSE,Yes,Yes,No,8,Pass
+1844,Aisha,Clarke,23,Female,London,Artificial Intelligence,Cloud Computing,13.5,87.9,72.8,73.2,72.0,PhD,Yes,No,Yes,3,Pass
+1845,Aarav,Begum,22,Male,Nottingham,Data Science,Pandas,15.0,97.4,63.0,35.5,99.6,PhD,Yes,Yes,Yes,3,Fail
+1846,Aarav,Williams,22,Female,Leeds,Cyber Security,Machine Learning,3.4,97.8,84.0,69.8,62.2,PhD,Yes,No,No,1,Pass
+1847,Anaya,Taylor,28,Male,Leeds,Computer Science,Machine Learning,22.7,73.5,74.0,75.3,84.1,A-level,Yes,No,No,0,Pass
+1848,Aisha,Shah,21,Male,Cardiff,Artificial Intelligence,Algorithms,8.3,86.9,82.3,65.2,65.3,Diploma,Yes,Yes,No,3,Pass
+1849,Usman,Shah,20,Female,Cardiff,Artificial Intelligence,Python,13.0,73.8,68.2,78.9,72.8,Diploma,Yes,Yes,Yes,1,Pass
+1850,Mohammed,Smith,21,Female,London,Computer Science,Pandas,17.1,81.7,56.9,73.8,89.0,Bachelor's,Yes,No,Yes,1,Pass
+1851,Emily,Ahmed,18,Female,Leeds,Artificial Intelligence,Machine Learning,6.1,87.9,100.0,60.8,67.2,GCSE,Yes,No,Yes,1,Pass
+1852,Thomas,Ali,21,Male,Sheffield,Cyber Security,Statistics,8.7,43.1,98.2,37.1,62.3,Bachelor's,Yes,Yes,No,6,Fail
+1853,Grace,Singh,17,Female,Manchester,Software Engineering,Pandas,13.1,100.0,88.3,72.3,91.9,GCSE,Yes,Yes,Yes,2,Pass
+1854,Charlotte,Smith,17,Male,Cardiff,Computer Science,Statistics,29.1,90.8,69.2,53.8,72.6,A-level,Yes,Yes,Yes,2,Pass
+1855,Daniel,Patel,26,Female,Bristol,Mathematics,Web Development,13.8,76.9,70.5,60.2,87.3,A-level,Yes,Yes,Yes,3,Pass
+1856,William,Lewis,17,Male,Sheffield,Mathematics,Cloud Computing,21.6,100.0,95.7,78.1,62.4,Master's,Yes,Yes,No,4,Pass
+1857,Charlotte,Wilson,24,Male,Bristol,Software Engineering,Python,19.2,79.8,69.7,94.1,91.7,PhD,Yes,Yes,No,3,Pass
+1858,Ali,Malik,27,Male,Birmingham,Mathematics,Pandas,14.2,85.6,65.5,69.4,75.8,Master's,Yes,Yes,No,7,Pass
+1859,Oliver,Shah,26,Prefer not to say,Birmingham,Artificial Intelligence,Python,6.1,78.2,100.0,79.4,78.1,Diploma,Yes,No,No,5,Pass
+1860,Thomas,Begum,22,Female,Cardiff,Software Engineering,Algorithms,18.4,100.0,74.3,45.4,73.8,Bachelor's,Yes,No,No,1,Pass
+1861,Grace,Begum,18,Male,Sheffield,Software Engineering,Web Development,3.0,82.7,100.0,74.2,64.9,Bachelor's,Yes,No,No,4,Pass
+1862,Yusuf,Ali,29,Female,Sheffield,Cyber Security,Statistics,21.6,85.8,54.0,69.0,72.0,GCSE,No,No,No,2,Pass
+1863,Ahmed,Clarke,28,Female,Sheffield,Data Science,Cloud Computing,13.2,98.4,82.8,90.9,65.8,PhD,Yes,No,No,3,Pass
+1864,Sofia,Wilson,25,Male,Manchester,Cyber Security,Statistics,,91.0,100.0,60.8,85.4,PhD,Yes,Yes,Yes,3,Pass
+1865,William,Clarke,17,Male,Liverpool,Mathematics,Pandas,10.0,83.3,75.4,65.9,69.2,A-level,Yes,No,No,3,Pass
+1866,Olivia,Taylor,16,Male,Sheffield,Mathematics,Statistics,15.9,97.3,71.0,88.0,51.0,GCSE,Yes,Yes,No,3,Pass
+1867,Usman,Patel,20,Female,Glasgow,Artificial Intelligence,Web Development,10.6,100.0,57.5,68.4,48.5,GCSE,Yes,Yes,No,1,Pass
+1868,Usman,Hussain,18,Female,Nottingham,Data Science,Python,16.3,87.8,91.2,51.1,47.8,Bachelor's,Yes,No,Yes,1,Pass
+1869,Isabella,Khan,28,Female,Liverpool,Software Engineering,Statistics,6.9,85.4,63.4,100.0,80.7,GCSE,Yes,No,No,1,Pass
+1870,Aisha,Hussain,19,Male,Cardiff,Computer Science,Databases,4.2,86.0,73.6,51.7,55.9,GCSE,No,Yes,No,3,Pass
+1871,Jack,Khan,20,Female,Glasgow,Computer Science,Python,11.6,99.7,56.5,68.9,76.2,Bachelor's,Yes,No,Yes,4,Pass
+1872,Ava,Jones,30,Female,Bristol,Cyber Security,Machine Learning,12.2,76.8,98.4,75.9,73.9,GCSE,Yes,Yes,Yes,2,Pass
+1873,Ahmed,Williams,28,Female,Glasgow,Mathematics,Databases,9.9,80.7,92.3,74.5,71.1,GCSE,Yes,Yes,Yes,1,Pass
+1874,Ahmed,Walker,19,Female,Birmingham,Data Science,Machine Learning,19.4,65.6,74.5,66.8,78.1,GCSE,No,Yes,No,4,Pass
+1875,Olivia,Taylor,21,Female,Glasgow,Artificial Intelligence,Machine Learning,,69.8,57.7,66.9,74.2,Master's,Yes,Yes,No,1,Pass
+1876,Layla,Patel,23,Female,London,Data Science,Web Development,13.9,77.8,98.0,66.0,34.1,Diploma,Yes,No,No,8,Pass
+1877,Leo,Jones,25,Male,Liverpool,Artificial Intelligence,Databases,12.4,83.3,69.5,51.0,67.5,A-level,Yes,Yes,No,0,Pass
+1878,Sara,Lewis,30,Male,Manchester,Computer Science,Databases,2.7,100.0,58.4,100.0,78.0,Bachelor's,Yes,Yes,No,0,Pass
+1879,Leo,Begum,29,Female,Cardiff,Cyber Security,Cloud Computing,4.1,90.4,48.6,66.3,95.0,A-level,Yes,No,No,4,Pass
+1880,Mohammed,Patel,30,Male,London,Cyber Security,Python,12.1,73.1,65.3,80.1,95.6,Bachelor's,Yes,Yes,Yes,1,Pass
+1881,Amelia,Wilson,16,Male,Leeds,Data Science,Machine Learning,23.9,75.3,53.2,64.3,52.9,Diploma,Yes,Yes,Yes,5,Pass
+1882,William,Ali,19,Female,Liverpool,Data Science,Python,15.5,100.0,65.7,64.0,67.1,Master's,Yes,Yes,No,2,Pass
+1883,Jack,Smith,24,Female,Nottingham,Software Engineering,Algorithms,1.6,97.5,86.2,62.3,50.1,Bachelor's,Yes,Yes,Yes,4,Pass
+1884,Anaya,Clarke,16,Female,Manchester,Data Science,Pandas,0.0,84.3,69.4,43.7,93.3,Master's,Yes,Yes,Yes,3,Pass
+1885,Thomas,Williams,21,Female,Leeds,Computer Science,Cloud Computing,16.4,78.7,80.3,67.3,86.2,A-level,Yes,No,No,3,Pass
+1886,Omar,Smith,18,Male,Nottingham,Computer Science,Pandas,11.4,97.5,64.1,63.1,76.9,GCSE,Yes,No,No,6,Pass
+1887,Ali,Davies,29,Prefer not to say,Liverpool,Mathematics,Machine Learning,18.8,72.1,76.0,89.9,74.3,Bachelor's,Yes,Yes,Yes,4,Pass
+1888,Ava,Taylor,16,Female,Leeds,Artificial Intelligence,Statistics,6.7,88.7,100.0,49.7,91.3,GCSE,Yes,Yes,No,4,Pass
+1889,Aarav,Ahmed,18,Male,Cardiff,Computer Science,Cloud Computing,14.1,100.0,69.8,60.2,89.0,Diploma,Yes,Yes,No,4,Pass
+1890,Daniel,Taylor,18,Female,Manchester,Mathematics,Pandas,17.1,86.5,80.8,54.7,88.2,Bachelor's,Yes,No,No,2,Pass
+1891,Amelia,Smith,18,Male,Glasgow,Computer Science,Pandas,9.3,74.7,51.5,94.5,78.4,Master's,Yes,Yes,No,4,Pass
+1892,Olivia,Jones,24,Male,Bristol,Artificial Intelligence,Algorithms,9.4,88.9,97.8,55.2,67.1,Bachelor's,Yes,Yes,Yes,2,Pass
+1893,Layla,Lewis,21,Female,Leeds,Computer Science,Machine Learning,12.2,,67.8,79.6,82.7,PhD,Yes,No,Yes,1,Pass
+1894,Emily,Begum,29,Female,Birmingham,Software Engineering,Pandas,15.3,67.3,90.8,86.5,83.4,Bachelor's,Yes,No,Yes,3,Pass
+1895,Sara,Patel,19,Male,Sheffield,Software Engineering,Web Development,11.9,92.4,73.2,67.5,69.3,Diploma,Yes,Yes,No,1,Pass
+1896,Mohammed,Lewis,24,Prefer not to say,Glasgow,Software Engineering,Python,17.8,97.4,84.2,46.6,67.1,A-level,Yes,Yes,No,2,Pass
+1897,Layla,Malik,25,Female,London,Data Science,Cloud Computing,9.2,80.3,85.1,46.8,87.9,Master's,Yes,Yes,No,3,Pass
+1898,Ali,Lewis,25,Female,Liverpool,Data Science,Algorithms,4.0,79.5,68.2,84.6,95.3,Master's,Yes,No,No,1,Pass
+1899,Ali,Begum,27,Female,Cardiff,Mathematics,Cloud Computing,23.9,72.5,91.4,48.6,61.5,A-level,Yes,Yes,No,3,Pass
+1900,Mohammed,Brown,19,Male,Nottingham,Software Engineering,Machine Learning,8.4,82.2,63.6,76.7,68.3,GCSE,Yes,Yes,Yes,5,Pass
+1901,Aarav,Shah,23,Male,Liverpool,Computer Science,Python,8.6,77.3,86.7,71.9,76.9,GCSE,No,No,Yes,1,Pass
+1902,Aisha,Shah,28,Male,Leeds,Software Engineering,Databases,11.6,71.9,69.1,76.4,78.8,Bachelor's,Yes,Yes,No,3,Pass
+1903,Bilal,Begum,28,Male,London,Software Engineering,Machine Learning,,100.0,80.2,78.0,64.7,Bachelor's,Yes,Yes,No,6,Pass
+1904,Zara,Jones,25,Male,Glasgow,Cyber Security,Algorithms,9.7,89.6,68.1,54.1,98.4,GCSE,Yes,No,No,1,Pass
+1905,Jack,Brown,25,Male,Leeds,Cyber Security,Web Development,11.9,90.9,75.7,53.4,77.9,GCSE,Yes,Yes,Yes,2,Pass
+1906,Olivia,Jones,28,Female,Leeds,Computer Science,Algorithms,11.8,94.6,58.9,82.2,79.4,Bachelor's,Yes,No,No,3,Pass
+1907,Hina,Ali,25,Male,Bristol,Computer Science,Cloud Computing,13.0,93.3,78.7,59.3,96.6,Diploma,Yes,No,Yes,2,Pass
+1908,Arjun,Smith,30,Female,Liverpool,Computer Science,Web Development,0.0,79.0,75.7,23.2,65.7,Diploma,No,Yes,No,3,Fail
+1909,Hassan,Khan,17,Female,Glasgow,Computer Science,Python,23.3,87.3,66.9,81.0,70.8,A-level,Yes,No,Yes,7,Pass
+1910,Amelia,Walker,21,Male,Sheffield,Mathematics,Python,11.1,80.8,74.2,52.4,54.5,Master's,Yes,No,No,5,Pass
+1911,Sofia,Ahmed,17,Male,Leeds,Cyber Security,Python,15.5,89.3,77.0,,69.6,Master's,Yes,No,Yes,4,Fail
+1912,Arjun,Lewis,17,Prefer not to say,Birmingham,Software Engineering,Statistics,3.7,88.1,65.8,93.7,51.2,GCSE,Yes,No,Yes,2,Pass
+1913,Hassan,Khan,23,Female,Cardiff,Data Science,Pandas,9.2,79.4,73.1,70.3,82.5,GCSE,Yes,Yes,No,3,Pass
+1914,Emily,Hussain,19,Male,Leeds,Mathematics,Algorithms,8.0,,59.9,86.9,77.9,Bachelor's,Yes,Yes,No,1,Pass
+1915,Mia,Brown,22,Male,Sheffield,Data Science,Pandas,20.8,85.8,100.0,72.6,68.1,Bachelor's,Yes,No,No,5,Pass
+1916,Jack,Shah,22,Female,London,Mathematics,Algorithms,8.5,,90.9,97.0,70.6,GCSE,Yes,Yes,No,2,Pass
+1917,Leo,Ali,25,Female,Birmingham,Computer Science,Web Development,16.5,61.3,79.1,51.9,82.7,GCSE,Yes,Yes,No,3,Pass
+1918,Sofia,Singh,30,Male,Manchester,Computer Science,Python,8.1,90.1,92.6,69.9,56.1,Master's,Yes,Yes,No,1,Pass
+1919,Charlotte,Singh,28,Female,Cardiff,Computer Science,Python,9.3,95.6,45.3,81.4,74.9,Diploma,Yes,Yes,No,4,Pass
+1920,Noah,Shah,21,Male,Liverpool,Software Engineering,Databases,10.5,100.0,36.6,66.8,81.8,GCSE,Yes,No,No,4,Pass
+1921,Zara,Wilson,20,Female,Leeds,Data Science,Machine Learning,19.7,79.3,69.0,89.6,47.0,Bachelor's,No,No,No,4,Pass
+1922,Maya,Shah,27,Female,Glasgow,Artificial Intelligence,Machine Learning,0.7,,54.3,62.7,81.6,GCSE,No,No,No,3,Pass
+1923,Isabella,Clarke,17,Male,Cardiff,Artificial Intelligence,Statistics,4.1,70.7,71.5,100.0,48.6,A-level,Yes,Yes,No,0,Pass
+1924,Anaya,Taylor,24,Female,Liverpool,Software Engineering,Pandas,0.3,86.5,78.1,100.0,70.4,Master's,Yes,Yes,Yes,3,Pass
+1925,Charlotte,Wilson,22,Male,Liverpool,Artificial Intelligence,Pandas,5.5,86.4,88.8,74.8,55.7,A-level,Yes,No,No,6,Pass
+1926,Yusuf,Patel,18,Male,Leeds,Computer Science,Web Development,7.1,74.3,57.9,79.4,92.0,GCSE,Yes,Yes,No,1,Pass
+1927,Leo,Wilson,25,Female,Glasgow,Artificial Intelligence,Algorithms,2.3,,81.0,90.3,55.8,PhD,Yes,No,No,4,Pass
+1928,Fatima,Patel,20,Male,Sheffield,Data Science,Machine Learning,7.6,60.3,75.2,49.8,48.9,A-level,Yes,No,No,2,Pass
+1929,Hina,Smith,18,Male,Leeds,Software Engineering,Algorithms,0.0,95.1,80.2,47.7,73.9,Bachelor's,Yes,Yes,Yes,5,Pass
+1930,Maya,Rahman,25,Male,Manchester,Software Engineering,Machine Learning,5.9,74.8,67.2,91.4,66.2,Master's,Yes,Yes,Yes,2,Pass
+1931,Leo,Ahmed,18,Male,Liverpool,Computer Science,Machine Learning,19.2,83.6,95.7,74.7,50.9,PhD,Yes,No,No,5,Pass
+1932,Olivia,Singh,26,Male,Sheffield,Software Engineering,Python,14.4,66.9,73.4,66.1,79.4,Master's,No,Yes,No,4,Pass
+1933,Charlotte,Clarke,18,Male,Birmingham,Computer Science,Databases,13.1,77.0,100.0,70.2,44.1,Diploma,Yes,No,No,3,Pass
+1934,Noah,Rahman,22,Female,Birmingham,Cyber Security,Databases,6.0,80.6,63.1,29.4,57.5,PhD,No,No,No,7,Fail
+1935,Isabella,Patel,28,Male,Nottingham,Artificial Intelligence,Web Development,2.8,83.9,86.1,66.8,63.9,GCSE,Yes,Yes,No,4,Pass
+1936,Yusuf,Smith,19,Male,Manchester,Data Science,Pandas,5.2,89.8,74.1,57.2,83.2,A-level,Yes,No,No,2,Pass
+1937,Arjun,Wilson,27,Male,Leeds,Artificial Intelligence,Pandas,,100.0,70.1,85.6,90.1,A-level,Yes,Yes,No,1,Pass
+1938,Anaya,Malik,26,Male,Sheffield,Data Science,Databases,17.2,92.8,84.5,86.9,87.4,Bachelor's,Yes,Yes,Yes,0,Pass
+1939,Jack,Rahman,29,Female,Liverpool,Software Engineering,Python,17.4,95.5,70.5,79.8,69.9,PhD,Yes,No,No,4,Pass
+1940,Layla,Jones,18,Male,Leeds,Mathematics,Pandas,15.8,100.0,35.1,76.7,38.0,Master's,Yes,No,No,5,Pass
+1941,Olivia,Smith,26,Prefer not to say,Manchester,Software Engineering,Web Development,7.6,90.8,29.1,44.5,77.5,PhD,Yes,No,Yes,3,Pass
+1942,Hina,Ali,30,Female,Bristol,Artificial Intelligence,Algorithms,12.1,83.6,94.1,80.0,92.6,GCSE,Yes,No,Yes,2,Pass
+1943,Zayn,Lewis,27,Female,Leeds,Cyber Security,Statistics,10.1,96.1,93.5,80.7,89.3,Master's,Yes,Yes,No,1,Pass
+1944,James,Khan,18,Male,Cardiff,Artificial Intelligence,Pandas,10.8,96.9,100.0,91.2,78.5,Master's,Yes,Yes,No,4,Pass
+1945,Ahmed,Wilson,28,Male,Manchester,Software Engineering,Algorithms,24.2,91.8,74.7,100.0,55.3,Diploma,Yes,Yes,No,5,Pass
+1946,Ahmed,Patel,17,Male,Leeds,Cyber Security,Statistics,1.4,66.5,55.6,41.2,64.6,GCSE,Yes,Yes,No,2,Pass
+1947,Grace,Smith,24,Female,Manchester,Artificial Intelligence,Web Development,10.6,73.9,68.7,63.4,99.1,GCSE,Yes,Yes,Yes,5,Pass
+1948,Anaya,Walker,23,Female,Liverpool,Artificial Intelligence,Pandas,19.3,80.7,75.2,57.4,52.2,PhD,Yes,Yes,No,4,Pass
+1949,Grace,Khan,23,Male,Liverpool,Artificial Intelligence,Statistics,3.2,93.4,59.9,72.9,55.9,A-level,Yes,No,No,7,Pass
+1950,Daniel,Brown,23,Male,Sheffield,Cyber Security,Python,8.1,83.7,99.7,70.2,85.2,Bachelor's,Yes,Yes,No,6,Pass
+1951,Amelia,Walker,16,Male,Bristol,Software Engineering,Web Development,8.8,97.6,100.0,66.0,66.0,PhD,No,No,No,1,Pass
+1952,Fatima,Williams,23,Male,Nottingham,Artificial Intelligence,Pandas,10.7,,82.2,87.5,55.5,Diploma,Yes,No,No,2,Pass
+1953,Mohammed,Ahmed,30,Male,Leeds,Software Engineering,Algorithms,2.4,98.4,74.8,51.3,93.4,A-level,Yes,No,No,4,Pass
+1954,Isabella,Singh,22,Male,Cardiff,Software Engineering,Python,15.6,98.5,55.6,52.3,78.5,Diploma,Yes,Yes,No,2,Pass
+1955,Sofia,Rahman,20,Male,Cardiff,Artificial Intelligence,Web Development,16.0,71.6,98.2,52.6,66.7,A-level,Yes,No,Yes,4,Pass
+1956,Mohammed,Taylor,30,Male,Glasgow,Mathematics,Pandas,,89.8,76.1,63.9,56.0,A-level,Yes,No,No,2,Pass
+1957,Hina,Shah,17,Male,Manchester,Data Science,Web Development,6.8,76.7,70.7,49.1,100.0,Master's,Yes,Yes,No,2,Pass
+1958,Noah,Shah,23,Female,Glasgow,Mathematics,Databases,12.5,64.2,82.2,69.2,71.7,Diploma,Yes,Yes,No,2,Pass
+1959,Grace,Davies,23,Female,Cardiff,Data Science,Algorithms,6.6,80.6,66.2,67.2,91.6,Master's,Yes,Yes,No,4,Pass
+1960,Hina,Smith,23,Male,Nottingham,Cyber Security,Web Development,10.0,99.9,77.2,56.6,84.5,Master's,Yes,No,Yes,2,Pass
+1961,Anaya,Clarke,29,Male,Leeds,Data Science,Machine Learning,24.9,89.5,53.4,84.9,64.7,Bachelor's,Yes,No,No,2,Pass
+1962,Hina,Rahman,22,Male,Cardiff,Artificial Intelligence,Python,12.6,100.0,91.3,69.0,64.8,Bachelor's,Yes,Yes,Yes,1,Pass
+1963,Usman,Patel,30,Female,Nottingham,Artificial Intelligence,Statistics,4.9,86.1,73.4,88.1,92.2,A-level,Yes,No,Yes,4,Pass
+1964,Bilal,Clarke,17,Male,Manchester,Software Engineering,Databases,13.1,100.0,92.4,66.7,92.5,Bachelor's,Yes,Yes,No,3,Pass
+1965,Grace,Clarke,27,Female,Glasgow,Computer Science,Python,3.9,86.1,72.0,69.6,45.7,Master's,Yes,Yes,No,3,Pass
+1966,Mia,Begum,24,Male,London,Mathematics,Statistics,4.8,84.3,73.0,60.4,79.7,A-level,Yes,No,No,5,Pass
+1967,Mia,Wilson,19,Male,Glasgow,Mathematics,Pandas,5.8,68.6,56.8,69.9,70.3,A-level,Yes,No,No,5,Pass
+1968,Hamza,Singh,19,Male,Cardiff,Cyber Security,Pandas,9.3,97.3,86.4,82.1,57.5,Master's,Yes,No,Yes,1,Pass
+1969,Zayn,Clarke,26,Male,Leeds,Cyber Security,Python,17.6,78.0,61.9,63.0,75.7,PhD,No,Yes,No,2,Pass
+1970,Aisha,Smith,25,Female,London,Software Engineering,Machine Learning,15.5,76.2,67.7,78.8,53.1,Diploma,Yes,Yes,No,2,Pass
+1971,Fatima,Clarke,25,Female,Glasgow,Data Science,Pandas,15.1,99.4,75.0,56.2,65.5,Master's,Yes,Yes,No,4,Pass
+1972,Hina,Walker,16,Male,Manchester,Software Engineering,Python,5.4,97.9,76.8,82.9,60.8,A-level,Yes,Yes,No,1,Pass
+1973,James,Davies,24,Male,Bristol,Data Science,Databases,8.8,97.6,49.4,60.1,65.0,Bachelor's,Yes,Yes,No,3,Pass
+1974,James,Brown,30,Male,London,Software Engineering,Pandas,13.6,79.7,71.5,84.5,71.0,PhD,Yes,No,No,2,Pass
+1975,Anaya,Malik,16,Female,Liverpool,Data Science,Pandas,8.2,83.4,86.9,71.0,57.8,Diploma,Yes,No,No,1,Pass
+1976,Bilal,Ahmed,23,Female,Sheffield,Software Engineering,Databases,10.3,83.3,69.3,95.9,94.0,Bachelor's,Yes,Yes,No,0,Pass
+1977,Amelia,Walker,23,Female,Liverpool,Software Engineering,Python,14.6,93.4,71.6,50.4,78.9,GCSE,Yes,Yes,No,2,Pass
+1978,Maya,Brown,29,Female,Leeds,Data Science,Algorithms,9.9,100.0,77.4,44.9,97.1,Bachelor's,Yes,Yes,No,2,Pass
+1979,Hana,Ahmed,20,Female,Manchester,Cyber Security,Databases,13.4,88.4,73.1,59.5,69.8,Bachelor's,Yes,Yes,No,7,Pass
+1980,Maya,Hussain,23,Male,Cardiff,Artificial Intelligence,Algorithms,21.6,100.0,59.5,46.5,64.3,PhD,Yes,No,No,3,Pass
+1981,Mia,Davies,26,Male,Cardiff,Data Science,Algorithms,11.0,94.8,74.5,46.5,96.6,A-level,Yes,Yes,No,3,Pass
+1982,Olivia,Williams,16,Female,Glasgow,Cyber Security,Algorithms,19.1,81.2,89.9,80.6,63.9,Diploma,Yes,No,No,1,Pass
+1983,Leo,Ahmed,28,Female,Liverpool,Mathematics,Statistics,15.4,93.9,59.2,69.9,69.5,Bachelor's,Yes,Yes,No,3,Pass
+1984,Noah,Hussain,28,Female,Nottingham,Computer Science,Databases,3.2,100.0,69.4,61.8,82.1,PhD,Yes,Yes,No,0,Pass
+1985,Mia,Williams,26,Male,Leeds,Mathematics,Web Development,5.4,100.0,54.3,63.4,54.7,A-level,Yes,No,Yes,3,Pass
+1986,Noah,Hussain,25,Female,Birmingham,Mathematics,Python,7.0,98.2,89.1,59.8,82.0,Master's,Yes,Yes,Yes,7,Pass
+1987,Mohammed,Clarke,27,Male,Liverpool,Cyber Security,Cloud Computing,6.9,84.3,73.6,98.1,80.2,PhD,Yes,Yes,No,3,Pass
+1988,Hamza,Jones,27,Male,Sheffield,Cyber Security,Machine Learning,11.5,81.4,62.2,57.5,89.8,Bachelor's,Yes,No,No,3,Pass
+1989,Charlotte,Jones,29,Female,Nottingham,Artificial Intelligence,Python,15.7,90.9,76.4,47.5,84.5,Diploma,No,Yes,No,0,Pass
+1990,Sofia,Walker,22,Male,Sheffield,Computer Science,Pandas,19.5,100.0,56.9,83.5,90.2,A-level,No,Yes,No,0,Pass
+1991,Hana,Shah,22,Male,London,Cyber Security,Pandas,13.8,89.2,59.5,66.3,70.5,A-level,Yes,Yes,No,1,Pass
+1992,Leo,Taylor,25,Female,Bristol,Software Engineering,Python,9.3,89.5,53.1,100.0,59.9,GCSE,Yes,Yes,No,2,Pass
+1993,Ava,Ali,18,Female,Nottingham,Data Science,Web Development,0.0,84.6,59.0,61.1,100.0,GCSE,Yes,Yes,Yes,3,Pass
+1994,Isabella,Williams,28,Male,Cardiff,Software Engineering,Python,12.4,80.1,95.4,84.4,50.6,Diploma,Yes,Yes,Yes,4,Pass
+1995,Leo,Hussain,27,Male,Leeds,Software Engineering,Cloud Computing,12.2,82.1,64.0,88.4,52.0,GCSE,Yes,No,No,5,Pass
+1996,Mohammed,Khan,25,Male,Manchester,Software Engineering,Databases,13.1,85.6,82.0,61.1,79.9,GCSE,Yes,No,Yes,3,Pass
+1997,Leo,Malik,20,Male,Nottingham,Artificial Intelligence,Web Development,24.6,100.0,62.5,57.4,94.7,Master's,Yes,Yes,No,3,Pass
+1998,Hana,Rahman,21,Female,Liverpool,Artificial Intelligence,Machine Learning,19.4,81.1,86.4,82.6,74.7,GCSE,Yes,Yes,No,1,Pass
+1999,Grace,Ali,22,Male,Glasgow,Artificial Intelligence,Pandas,16.7,84.6,59.6,79.8,86.0,GCSE,Yes,Yes,No,4,Pass
+2000,Layla,Ali,25,Male,London,Mathematics,Pandas,6.2,73.6,75.6,46.0,44.1,Bachelor's,No,Yes,Yes,6,Pass
